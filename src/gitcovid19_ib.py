@@ -18,6 +18,12 @@ def hospital_has_changes(base_directory="../download/covid19_IB/",):
         git.Repo.clone_from("https://github.com/druizaguilera/covid19_IB", base_directory)
         logging.info("Git: New data found")
         return True
+
+    if not os.path.exists(f"{base_directory}covid19_IB.csv"):
+        git.Repo.clone_from("https://github.com/druizaguilera/covid19_IB", base_directory)
+        logging.info("Git: New data found")
+        return True
+
     original_mtime = repository_last_changes(base_directory, "covid19_IB.csv")
 
     # update repository

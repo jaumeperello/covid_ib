@@ -7,5 +7,5 @@ arcgis_dades/*
 download/
 !download/arcgis/*
 !download/gov_xlsx/*
-!arcgis_dades/temp
+!arcgis_dades/temp/*
 

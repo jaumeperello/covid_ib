@@ -4,9 +4,9 @@ import pandas as pd
 from openpyxl import load_workbook
 import datetime
 import numpy as np
-from scr.arcgis_scraper import arcgis_has_changes
-from scr.gitcovid19_ib import hospital_has_changes
-from scr.goib_xlsx_dowload import goib_xlsx_has_changes
+from src.arcgis_scraper import arcgis_has_changes
+from src.gitcovid19_ib import hospital_has_changes
+from src.goib_xlsx_dowload import goib_xlsx_has_changes
 
 import logging
 

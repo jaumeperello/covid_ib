@@ -4,8 +4,8 @@
 __pycache__
 .directory
 arcgis_dades/*
-download/
+download/*
 !download/arcgis/*
 !download/gov_xlsx/*
-!arcgis_dades/temp/*
+!arcgis_dades/temp*
 

@@ -1,0 +1,9 @@
+.env
+*.*pyc
+.vscode
+__pycache__
+.directory
+arcgis_dades/*
+download/gov_xlsx/*
+download/covid19_IB/*
+

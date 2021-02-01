@@ -4,6 +4,8 @@
 __pycache__
 .directory
 arcgis_dades/*
-download/covid19_IB*
-!arcgis_dades
+download/
+!download/arcgis/*
+!download/gov_xlsx/*
+!arcgis_dades/temp
 

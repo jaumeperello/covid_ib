@@ -29,9 +29,8 @@ def goib_xlsx_has_changes(base_directory="../download/gov_xlsx/"):
     # print(html)
     reg_exp = '<a href="([^"]*)" title="AN&Agrave;LISI PDIA PER MUNICIPIS_EAP AMB DADES \(XLXS, 2MB\)">'
     match_results = re.search(reg_exp, html)
-    print(f"{url}{match_results.group(1)}")
     document = f"{url}{match_results.group(1)}".replace('&amp;', '&')
-    print(f"{document}")
+    logging.info(f"file url: {document}")
     r = requests.get(document, allow_redirects=True)
     filename = getFilename_fromCd(r.headers.get('content-disposition')).strip('"')
     if not os.path.exists(f"{base_directory}{filename}"):

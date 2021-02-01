@@ -1,0 +1,2059 @@
+date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
+2020-02-24,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-02-24,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-02-24,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-02-24,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-02-24,7054,Santa Eulària des Riu,Eivissa,0,0,0,0,0
+2020-02-24,0,total-Eivissa,Eivissa,0,0,0,0,0
+2020-02-25,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-02-25,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-02-25,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-02-25,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-02-25,7054,Santa Eulària des Riu,Eivissa,0,0,0,0,0
+2020-02-25,0,total-Eivissa,Eivissa,0,0,0,0,0
+2020-02-26,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-02-26,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-02-26,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-02-26,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-02-26,7054,Santa Eulària des Riu,Eivissa,0,0,0,0,0
+2020-02-26,0,total-Eivissa,Eivissa,0,0,0,0,0
+2020-02-27,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-02-27,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-02-27,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-02-27,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-02-27,7054,Santa Eulària des Riu,Eivissa,0,0,0,0,0
+2020-02-27,0,total-Eivissa,Eivissa,0,0,0,0,0
+2020-02-28,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-02-28,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-02-28,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-02-28,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-02-28,7054,Santa Eulària des Riu,Eivissa,0,0,0,0,0
+2020-02-28,0,total-Eivissa,Eivissa,0,0,0,0,0
+2020-02-29,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-02-29,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-02-29,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-02-29,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-02-29,7054,Santa Eulària des Riu,Eivissa,0,0,0,0,0
+2020-02-29,0,total-Eivissa,Eivissa,0,0,0,0,0
+2020-03-01,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-01,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-01,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-01,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-01,7054,Santa Eulària des Riu,Eivissa,0,0,0,0,0
+2020-03-01,0,total-Eivissa,Eivissa,0,0,0,0,0
+2020-03-02,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-02,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-02,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-02,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-02,7054,Santa Eulària des Riu,Eivissa,0,0,0,0,0
+2020-03-02,0,total-Eivissa,Eivissa,0,0,0,0,0
+2020-03-03,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-03,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-03,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-03,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-03,7054,Santa Eulària des Riu,Eivissa,0,0,0,0,0
+2020-03-03,0,total-Eivissa,Eivissa,0,0,0,0,0
+2020-03-04,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-04,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-04,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-04,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-04,7054,Santa Eulària des Riu,Eivissa,0,0,0,0,0
+2020-03-04,0,total-Eivissa,Eivissa,0,0,0,0,0
+2020-03-05,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-05,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-05,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-05,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-05,7054,Santa Eulària des Riu,Eivissa,0,0,0,0,0
+2020-03-05,0,total-Eivissa,Eivissa,0,0,0,0,0
+2020-03-06,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-06,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-06,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-06,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-06,7054,Santa Eulària des Riu,Eivissa,1,0,0,0,0
+2020-03-06,0,total-Eivissa,Eivissa,1,0,0,0,0
+2020-03-07,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-07,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-07,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-07,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-07,7054,Santa Eulària des Riu,Eivissa,1,0,0,0,0.5
+2020-03-07,0,total-Eivissa,Eivissa,1,0,0,0,0.16666666666666666
+2020-03-08,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-08,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-08,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-08,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-08,7054,Santa Eulària des Riu,Eivissa,1,0,0,0,0.5
+2020-03-08,0,total-Eivissa,Eivissa,1,0,0,0,0.14285714285714285
+2020-03-09,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-09,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-09,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-09,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-09,7054,Santa Eulària des Riu,Eivissa,1,0,0,0,0.5
+2020-03-09,0,total-Eivissa,Eivissa,1,0,0,0,0.125
+2020-03-10,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-10,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-10,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-10,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-10,7054,Santa Eulària des Riu,Eivissa,1,0,0,0,0.25
+2020-03-10,0,total-Eivissa,Eivissa,1,0,0,0,0.09090909090909091
+2020-03-11,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-11,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-11,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-11,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-11,7054,Santa Eulària des Riu,Eivissa,1,0,0,0,0.25
+2020-03-11,0,total-Eivissa,Eivissa,1,0,0,0,0.07142857142857142
+2020-03-12,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-12,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-12,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-12,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-12,7054,Santa Eulària des Riu,Eivissa,1,0,0,0,0.25
+2020-03-12,0,total-Eivissa,Eivissa,1,0,0,0,0.0625
+2020-03-13,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-13,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-13,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-13,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-13,7054,Santa Eulària des Riu,Eivissa,1,0,0,0,0
+2020-03-13,0,total-Eivissa,Eivissa,1,0,0,0,0
+2020-03-14,7026,Eivissa,Eivissa,0,0,0,0,0
+2020-03-14,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-14,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-14,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-14,7054,Santa Eulària des Riu,Eivissa,1,0,0,0,0
+2020-03-14,0,total-Eivissa,Eivissa,1,0,0,0,0
+2020-03-15,7026,Eivissa,Eivissa,2,0,0,0,0.2
+2020-03-15,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-15,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-15,7048,Sant Josep de sa Talaia,Eivissa,0,0,0,0,0
+2020-03-15,7054,Santa Eulària des Riu,Eivissa,1,0,0,0,0
+2020-03-15,0,total-Eivissa,Eivissa,3,0,0,0,0.07142857142857142
+2020-03-16,7026,Eivissa,Eivissa,3,0,0,0,0.15789473684210525
+2020-03-16,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-16,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-16,7048,Sant Josep de sa Talaia,Eivissa,2,0,0,0,0.2
+2020-03-16,7054,Santa Eulària des Riu,Eivissa,1,0,0,0,0
+2020-03-16,0,total-Eivissa,Eivissa,6,0,0,0,0.11363636363636363
+2020-03-17,7026,Eivissa,Eivissa,3,0,0,0,0.15
+2020-03-17,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-17,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-17,7048,Sant Josep de sa Talaia,Eivissa,2,0,0,0,0.2
+2020-03-17,7054,Santa Eulària des Riu,Eivissa,1,0,0,0,0
+2020-03-17,0,total-Eivissa,Eivissa,6,0,0,0,0.10638297872340426
+2020-03-18,7026,Eivissa,Eivissa,7,0,0,0,0.23333333333333334
+2020-03-18,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-18,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-18,7048,Sant Josep de sa Talaia,Eivissa,5,0,0,0,0.3125
+2020-03-18,7054,Santa Eulària des Riu,Eivissa,4,0,0,0,0.25
+2020-03-18,0,total-Eivissa,Eivissa,16,0,0,0,0.22058823529411764
+2020-03-19,7026,Eivissa,Eivissa,9,0,0,0,0.21951219512195122
+2020-03-19,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-19,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-19,7048,Sant Josep de sa Talaia,Eivissa,5,0,0,0,0.29411764705882354
+2020-03-19,7054,Santa Eulària des Riu,Eivissa,5,0,0,0,0.23529411764705882
+2020-03-19,0,total-Eivissa,Eivissa,19,0,0,0,0.2
+2020-03-20,7026,Eivissa,Eivissa,11,0,0,0,0.25
+2020-03-20,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-20,7050,Sant Joan de Labritja,Eivissa,0,0,0,0,0
+2020-03-20,7048,Sant Josep de sa Talaia,Eivissa,6,0,0,0,0.3333333333333333
+2020-03-20,7054,Santa Eulària des Riu,Eivissa,6,0,0,0,0.23809523809523808
+2020-03-20,0,total-Eivissa,Eivissa,23,0,0,0,0.2268041237113402
+2020-03-21,7026,Eivissa,Eivissa,12,0,0,0,0.24489795918367346
+2020-03-21,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-21,7050,Sant Joan de Labritja,Eivissa,4,0,0,0,0.5714285714285714
+2020-03-21,7048,Sant Josep de sa Talaia,Eivissa,7,0,0,0,0.35
+2020-03-21,7054,Santa Eulària des Riu,Eivissa,9,0,0,0,0.3333333333333333
+2020-03-21,0,total-Eivissa,Eivissa,32,0,0,0,0.27927927927927926
+2020-03-22,7026,Eivissa,Eivissa,14,0,0,0,0.21052631578947367
+2020-03-22,7046,Sant Antoni de Portmany,Eivissa,0,0,0,0,0
+2020-03-22,7050,Sant Joan de Labritja,Eivissa,4,0,0,0,0.4
+2020-03-22,7048,Sant Josep de sa Talaia,Eivissa,9,0,0,0,0.34615384615384615
+2020-03-22,7054,Santa Eulària des Riu,Eivissa,9,0,0,0,0.14814814814814814
+2020-03-22,0,total-Eivissa,Eivissa,36,0,0,0,0.2037037037037037
+2020-03-23,7026,Eivissa,Eivissa,16,0,0,0,0.21311475409836064
+2020-03-23,7046,Sant Antoni de Portmany,Eivissa,1,0,0,0,0.06666666666666667
+2020-03-23,7050,Sant Joan de Labritja,Eivissa,4,0,0,0,0.4444444444444444
+2020-03-23,7048,Sant Josep de sa Talaia,Eivissa,9,0,0,0,0.35
+2020-03-23,7054,Santa Eulària des Riu,Eivissa,11,0,0,0,0.16393442622950818
+2020-03-23,0,total-Eivissa,Eivissa,41,0,0,0,0.21084337349397592
+2020-03-24,7026,Eivissa,Eivissa,20,0,0,0,0.2328767123287671
+2020-03-24,7046,Sant Antoni de Portmany,Eivissa,3,0,0,0,0.15789473684210525
+2020-03-24,7050,Sant Joan de Labritja,Eivissa,5,0,0,0,0.35714285714285715
+2020-03-24,7048,Sant Josep de sa Talaia,Eivissa,12,0,0,0,0.3448275862068966
+2020-03-24,7054,Santa Eulària des Riu,Eivissa,13,0,0,0,0.1518987341772152
+2020-03-24,0,total-Eivissa,Eivissa,53,0,0,0,0.21962616822429906
+2020-03-25,7026,Eivissa,Eivissa,23,0,0,0,0.23529411764705882
+2020-03-25,7046,Sant Antoni de Portmany,Eivissa,3,0,0,0,0.15789473684210525
+2020-03-25,7050,Sant Joan de Labritja,Eivissa,5,0,0,0,0.3333333333333333
+2020-03-25,7048,Sant Josep de sa Talaia,Eivissa,15,0,0,0,0.30303030303030304
+2020-03-25,7054,Santa Eulària des Riu,Eivissa,15,0,0,0,0.14102564102564102
+2020-03-25,0,total-Eivissa,Eivissa,61,0,0,0,0.2112676056338028
+2020-03-26,7026,Eivissa,Eivissa,23,0,0,0,0.21875
+2020-03-26,7046,Sant Antoni de Portmany,Eivissa,3,0,0,0,0.2
+2020-03-26,7050,Sant Joan de Labritja,Eivissa,5,0,0,0,0.35714285714285715
+2020-03-26,7048,Sant Josep de sa Talaia,Eivissa,15,0,0,0,0.2777777777777778
+2020-03-26,7054,Santa Eulària des Riu,Eivissa,17,0,0,0,0.1411764705882353
+2020-03-26,0,total-Eivissa,Eivissa,63,0,0,0,0.205607476635514
+2020-03-27,7026,Eivissa,Eivissa,26,0,0,0,0.1875
+2020-03-27,7046,Sant Antoni de Portmany,Eivissa,5,0,0,0,0.23809523809523808
+2020-03-27,7050,Sant Joan de Labritja,Eivissa,6,0,0,0,0.35294117647058826
+2020-03-27,7048,Sant Josep de sa Talaia,Eivissa,16,0,0,0,0.22727272727272727
+2020-03-27,7054,Santa Eulària des Riu,Eivissa,20,0,0,0,0.16279069767441862
+2020-03-27,0,total-Eivissa,Eivissa,73,0,0,0,0.20161290322580644
+2020-03-28,7026,Eivissa,Eivissa,31,0,0,0,0.2159090909090909
+2020-03-28,7046,Sant Antoni de Portmany,Eivissa,6,0,0,0,0.25
+2020-03-28,7050,Sant Joan de Labritja,Eivissa,7,0,0,0,0.21428571428571427
+2020-03-28,7048,Sant Josep de sa Talaia,Eivissa,19,0,0,0,0.26666666666666666
+2020-03-28,7054,Santa Eulària des Riu,Eivissa,22,0,0,0,0.14130434782608695
+2020-03-28,0,total-Eivissa,Eivissa,85,0,0,0,0.20152091254752852
+2020-03-29,7026,Eivissa,Eivissa,34,0,0,0,0.19607843137254902
+2020-03-29,7046,Sant Antoni de Portmany,Eivissa,6,0,0,0,0.21428571428571427
+2020-03-29,7050,Sant Joan de Labritja,Eivissa,7,0,0,0,0.21428571428571427
+2020-03-29,7048,Sant Josep de sa Talaia,Eivissa,19,0,0,0,0.2222222222222222
+2020-03-29,7054,Santa Eulària des Riu,Eivissa,22,0,0,0,0.17333333333333334
+2020-03-29,0,total-Eivissa,Eivissa,88,0,0,0,0.19696969696969696
+2020-03-30,7026,Eivissa,Eivissa,34,0,0,0,0.18947368421052632
+2020-03-30,7046,Sant Antoni de Portmany,Eivissa,6,0,0,0,0.16666666666666666
+2020-03-30,7050,Sant Joan de Labritja,Eivissa,7,0,0,0,0.21428571428571427
+2020-03-30,7048,Sant Josep de sa Talaia,Eivissa,19,0,0,0,0.2127659574468085
+2020-03-30,7054,Santa Eulària des Riu,Eivissa,23,0,0,0,0.14285714285714285
+2020-03-30,0,total-Eivissa,Eivissa,89,0,0,0,0.17777777777777778
+2020-03-31,7026,Eivissa,Eivissa,35,0,0,0,0.15306122448979592
+2020-03-31,7046,Sant Antoni de Portmany,Eivissa,8,0,0,0,0.16666666666666666
+2020-03-31,7050,Sant Joan de Labritja,Eivissa,7,0,0,0,0.2
+2020-03-31,7048,Sant Josep de sa Talaia,Eivissa,21,0,0,0,0.19148936170212766
+2020-03-31,7054,Santa Eulària des Riu,Eivissa,24,0,0,0,0.1506849315068493
+2020-03-31,0,total-Eivissa,Eivissa,95,0,0,0,0.16279069767441862
+2020-04-01,7026,Eivissa,Eivissa,36,0,0,0,0.10655737704918032
+2020-04-01,7046,Sant Antoni de Portmany,Eivissa,8,0,0,0,0.14285714285714285
+2020-04-01,7050,Sant Joan de Labritja,Eivissa,7,0,0,0,0.18181818181818182
+2020-04-01,7048,Sant Josep de sa Talaia,Eivissa,22,0,0,0,0.15555555555555556
+2020-04-01,7054,Santa Eulària des Riu,Eivissa,25,0,0,0,0.07462686567164178
+2020-04-01,0,total-Eivissa,Eivissa,98,0,0,0,0.10662824207492795
+2020-04-02,7026,Eivissa,Eivissa,38,0,0,0,0.10869565217391304
+2020-04-02,7046,Sant Antoni de Portmany,Eivissa,8,0,0,0,0.1282051282051282
+2020-04-02,7050,Sant Joan de Labritja,Eivissa,7,0,0,0,0.16666666666666666
+2020-04-02,7048,Sant Josep de sa Talaia,Eivissa,22,0,0,0,0.1346153846153846
+2020-04-02,7054,Santa Eulària des Riu,Eivissa,25,0,0,0,0.0547945205479452
+2020-04-02,0,total-Eivissa,Eivissa,100,0,0,0,0.09560723514211886
+2020-04-03,7026,Eivissa,Eivissa,39,0,0,0,0.0948905109489051
+2020-04-03,7046,Sant Antoni de Portmany,Eivissa,8,0,0,0,0.08571428571428572
+2020-04-03,7050,Sant Joan de Labritja,Eivissa,7,0,0,0,0.09090909090909091
+2020-04-03,7048,Sant Josep de sa Talaia,Eivissa,22,0,0,0,0.12
+2020-04-03,7054,Santa Eulària des Riu,Eivissa,27,0,0,0,0.047619047619047616
+2020-04-03,0,total-Eivissa,Eivissa,103,0,0,0,0.07894736842105263
+2020-04-04,7026,Eivissa,Eivissa,39,0,0,0,0.045454545454545456
+2020-04-04,7046,Sant Antoni de Portmany,Eivissa,9,0,0,0,0.06976744186046512
+2020-04-04,7050,Sant Joan de Labritja,Eivissa,7,0,0,0,0
+2020-04-04,7048,Sant Josep de sa Talaia,Eivissa,24,0,0,0,0.09615384615384616
+2020-04-04,7054,Santa Eulària des Riu,Eivissa,27,0,0,0,0.033112582781456956
+2020-04-04,0,total-Eivissa,Eivissa,106,0,0,0,0.04838709677419355
+2020-04-05,7026,Eivissa,Eivissa,40,0,0,0,0.030456852791878174
+2020-04-05,7046,Sant Antoni de Portmany,Eivissa,9,0,0,0,0.07317073170731707
+2020-04-05,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0.07692307692307693
+2020-04-05,7048,Sant Josep de sa Talaia,Eivissa,25,0,0,0,0.1111111111111111
+2020-04-05,7054,Santa Eulària des Riu,Eivissa,28,0,0,0,0.03896103896103896
+2020-04-05,0,total-Eivissa,Eivissa,110,0,0,0,0.04793028322440087
+2020-04-06,7026,Eivissa,Eivissa,40,0,0,0,0.031088082901554404
+2020-04-06,7046,Sant Antoni de Portmany,Eivissa,9,0,0,0,0.07317073170731707
+2020-04-06,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0.07692307692307693
+2020-04-06,7048,Sant Josep de sa Talaia,Eivissa,25,0,0,0,0.11538461538461539
+2020-04-06,7054,Santa Eulària des Riu,Eivissa,29,0,0,0,0.04285714285714286
+2020-04-06,0,total-Eivissa,Eivissa,111,0,0,0,0.05011389521640091
+2020-04-07,7026,Eivissa,Eivissa,40,0,0,0,0.022727272727272728
+2020-04-07,7046,Sant Antoni de Portmany,Eivissa,9,0,0,0,0.022727272727272728
+2020-04-07,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0.06666666666666667
+2020-04-07,7048,Sant Josep de sa Talaia,Eivissa,25,0,0,0,0.07692307692307693
+2020-04-07,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0.04516129032258064
+2020-04-07,0,total-Eivissa,Eivissa,113,0,0,0,0.037037037037037035
+2020-04-08,7026,Eivissa,Eivissa,43,0,0,0,0.029411764705882353
+2020-04-08,7046,Sant Antoni de Portmany,Eivissa,9,0,0,0,0.02127659574468085
+2020-04-08,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0.07142857142857142
+2020-04-08,7048,Sant Josep de sa Talaia,Eivissa,25,0,0,0,0.05454545454545454
+2020-04-08,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0.05714285714285714
+2020-04-08,0,total-Eivissa,Eivissa,116,0,0,0,0.0392156862745098
+2020-04-09,7026,Eivissa,Eivissa,44,0,0,0,0.018072289156626505
+2020-04-09,7046,Sant Antoni de Portmany,Eivissa,9,0,0,0,0.018518518518518517
+2020-04-09,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0.0625
+2020-04-09,7048,Sant Josep de sa Talaia,Eivissa,26,0,0,0,0.06153846153846154
+2020-04-09,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0.056074766355140186
+2020-04-09,0,total-Eivissa,Eivissa,118,0,0,0,0.0313588850174216
+2020-04-10,7026,Eivissa,Eivissa,56,0,0,0,0.04607046070460705
+2020-04-10,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0.03389830508474576
+2020-04-10,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0.05555555555555555
+2020-04-10,7048,Sant Josep de sa Talaia,Eivissa,26,0,0,0,0.056338028169014086
+2020-04-10,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0.03636363636363636
+2020-04-10,0,total-Eivissa,Eivissa,131,0,0,0,0.044657097288676235
+2020-04-11,7026,Eivissa,Eivissa,56,0,0,0,0.04788732394366197
+2020-04-11,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0.019230769230769232
+2020-04-11,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0.0625
+2020-04-11,7048,Sant Josep de sa Talaia,Eivissa,26,0,0,0,0.01652892561983471
+2020-04-11,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0.037383177570093455
+2020-04-11,0,total-Eivissa,Eivissa,131,0,0,0,0.03840245775729647
+2020-04-12,7026,Eivissa,Eivissa,56,0,0,0,0.05144694533762058
+2020-04-12,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0.021739130434782608
+2020-04-12,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-12,7048,Sant Josep de sa Talaia,Eivissa,27,0,0,0,0.017543859649122806
+2020-04-12,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0.03260869565217391
+2020-04-12,0,total-Eivissa,Eivissa,132,0,0,0,0.03826086956521739
+2020-04-13,7026,Eivissa,Eivissa,56,0,0,0,0.05063291139240506
+2020-04-13,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0.0078125
+2020-04-13,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-13,7048,Sant Josep de sa Talaia,Eivissa,27,0,0,0,0.01652892561983471
+2020-04-13,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0.022222222222222223
+2020-04-13,0,total-Eivissa,Eivissa,132,0,0,0,0.03143712574850299
+2020-04-14,7026,Eivissa,Eivissa,56,0,0,0,0.04923076923076923
+2020-04-14,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0.007518796992481203
+2020-04-14,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-14,7048,Sant Josep de sa Talaia,Eivissa,28,0,0,0,0.022727272727272728
+2020-04-14,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-14,0,total-Eivissa,Eivissa,133,0,0,0,0.0267022696929239
+2020-04-15,7026,Eivissa,Eivissa,56,0,0,0,0.04234527687296417
+2020-04-15,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0.006802721088435374
+2020-04-15,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-15,7048,Sant Josep de sa Talaia,Eivissa,28,0,0,0,0.02097902097902098
+2020-04-15,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-15,0,total-Eivissa,Eivissa,133,0,0,0,0.02225130890052356
+2020-04-16,7026,Eivissa,Eivissa,56,0,0,0,0.047244094488188976
+2020-04-16,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0.004807692307692308
+2020-04-16,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-16,7048,Sant Josep de sa Talaia,Eivissa,28,0,0,0,0.012269938650306749
+2020-04-16,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-16,0,total-Eivissa,Eivissa,133,0,0,0,0.018703241895261846
+2020-04-17,7026,Eivissa,Eivissa,57,0,0,0,0.004694835680751174
+2020-04-17,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0
+2020-04-17,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-17,7048,Sant Josep de sa Talaia,Eivissa,28,0,0,0,0.012987012987012988
+2020-04-17,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-17,0,total-Eivissa,Eivissa,134,0,0,0,0.004032258064516129
+2020-04-18,7026,Eivissa,Eivissa,57,0,0,0,0.004830917874396135
+2020-04-18,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0
+2020-04-18,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-18,7048,Sant Josep de sa Talaia,Eivissa,28,0,0,0,0.018518518518518517
+2020-04-18,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-18,0,total-Eivissa,Eivissa,134,0,0,0,0.00423728813559322
+2020-04-19,7026,Eivissa,Eivissa,57,0,0,0,0.004651162790697674
+2020-04-19,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0
+2020-04-19,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-19,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0.018018018018018018
+2020-04-19,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-19,0,total-Eivissa,Eivissa,135,0,0,0,0.004054054054054054
+2020-04-20,7026,Eivissa,Eivissa,57,0,0,0,0.004807692307692308
+2020-04-20,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0
+2020-04-20,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-20,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0.019230769230769232
+2020-04-20,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-20,0,total-Eivissa,Eivissa,135,0,0,0,0.0046875
+2020-04-21,7026,Eivissa,Eivissa,58,0,0,0,0.010256410256410256
+2020-04-21,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0
+2020-04-21,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-21,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0.010526315789473684
+2020-04-21,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-21,0,total-Eivissa,Eivissa,136,0,0,0,0.005607476635514018
+2020-04-22,7026,Eivissa,Eivissa,58,0,0,0,0.011627906976744186
+2020-04-22,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0
+2020-04-22,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-22,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0.0136986301369863
+2020-04-22,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-22,0,total-Eivissa,Eivissa,136,0,0,0,0.006535947712418301
+2020-04-23,7026,Eivissa,Eivissa,58,0,0,0,0.013245033112582781
+2020-04-23,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0
+2020-04-23,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-23,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0.02127659574468085
+2020-04-23,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-23,0,total-Eivissa,Eivissa,136,0,0,0,0.00909090909090909
+2020-04-24,7026,Eivissa,Eivissa,58,0,0,0,0.005154639175257732
+2020-04-24,7046,Sant Antoni de Portmany,Eivissa,10,0,0,0,0
+2020-04-24,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-24,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0.013888888888888888
+2020-04-24,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-24,0,total-Eivissa,Eivissa,136,0,0,0,0.004819277108433735
+2020-04-25,7026,Eivissa,Eivissa,58,0,0,0,0.005050505050505051
+2020-04-25,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0.03333333333333333
+2020-04-25,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-25,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0.013157894736842105
+2020-04-25,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-25,0,total-Eivissa,Eivissa,138,0,0,0,0.00963855421686747
+2020-04-26,7026,Eivissa,Eivissa,59,0,0,0,0.008368200836820083
+2020-04-26,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0.03508771929824561
+2020-04-26,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-26,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0
+2020-04-26,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-26,0,total-Eivissa,Eivissa,139,0,0,0,0.008583690987124463
+2020-04-27,7026,Eivissa,Eivissa,59,0,0,0,0.008130081300813009
+2020-04-27,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0.03508771929824561
+2020-04-27,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-27,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0
+2020-04-27,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-27,0,total-Eivissa,Eivissa,139,0,0,0,0.008368200836820083
+2020-04-28,7026,Eivissa,Eivissa,59,0,0,0,0.004016064257028112
+2020-04-28,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0.03225806451612903
+2020-04-28,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-28,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0
+2020-04-28,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-28,0,total-Eivissa,Eivissa,139,0,0,0,0.005870841487279843
+2020-04-29,7026,Eivissa,Eivissa,59,0,0,0,0.0032679738562091504
+2020-04-29,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0.02564102564102564
+2020-04-29,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-29,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0
+2020-04-29,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-29,0,total-Eivissa,Eivissa,139,0,0,0,0.004909983633387889
+2020-04-30,7026,Eivissa,Eivissa,59,0,0,0,0.0030959752321981426
+2020-04-30,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0.025
+2020-04-30,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-04-30,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0
+2020-04-30,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-04-30,0,total-Eivissa,Eivissa,139,0,0,0,0.004608294930875576
+2020-05-01,7026,Eivissa,Eivissa,59,0,0,0,0.0037313432835820895
+2020-05-01,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0.029850746268656716
+2020-05-01,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-01,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0
+2020-05-01,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-05-01,0,total-Eivissa,Eivissa,139,0,0,0,0.0055147058823529415
+2020-05-02,7026,Eivissa,Eivissa,59,0,0,0,0.00398406374501992
+2020-05-02,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-02,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-02,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0
+2020-05-02,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-05-02,0,total-Eivissa,Eivissa,139,0,0,0,0.002008032128514056
+2020-05-03,7026,Eivissa,Eivissa,59,0,0,0,0
+2020-05-03,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-03,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-03,7048,Sant Josep de sa Talaia,Eivissa,29,0,0,0,0
+2020-05-03,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-05-03,0,total-Eivissa,Eivissa,139,0,0,0,0
+2020-05-04,7026,Eivissa,Eivissa,59,0,0,0,0
+2020-05-04,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-04,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-04,7048,Sant Josep de sa Talaia,Eivissa,30,0,0,0,0.008695652173913044
+2020-05-04,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-05-04,0,total-Eivissa,Eivissa,140,0,0,0,0.0017452006980802793
+2020-05-05,7026,Eivissa,Eivissa,59,0,0,0,0
+2020-05-05,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-05,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-05,7048,Sant Josep de sa Talaia,Eivissa,30,0,0,0,0.008064516129032258
+2020-05-05,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-05-05,0,total-Eivissa,Eivissa,140,0,0,0,0.0015723270440251573
+2020-05-06,7026,Eivissa,Eivissa,59,0,0,0,0
+2020-05-06,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-06,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-06,7048,Sant Josep de sa Talaia,Eivissa,30,0,0,0,0.006944444444444444
+2020-05-06,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-05-06,0,total-Eivissa,Eivissa,140,0,0,0,0.0013812154696132596
+2020-05-07,7026,Eivissa,Eivissa,59,0,0,0,0
+2020-05-07,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-07,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-07,7048,Sant Josep de sa Talaia,Eivissa,30,0,0,0,0.00625
+2020-05-07,7054,Santa Eulària des Riu,Eivissa,31,0,0,0,0
+2020-05-07,0,total-Eivissa,Eivissa,140,0,0,0,0.001218026796589525
+2020-05-08,7026,Eivissa,Eivissa,59,0,0,0,0
+2020-05-08,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-08,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-08,7048,Sant Josep de sa Talaia,Eivissa,30,0,0,0,0.0053475935828877
+2020-05-08,7054,Santa Eulària des Riu,Eivissa,33,0,0,0,0.010050251256281407
+2020-05-08,0,total-Eivissa,Eivissa,142,0,0,0,0.002944062806673209
+2020-05-09,7026,Eivissa,Eivissa,59,0,0,0,0
+2020-05-09,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-09,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-09,7048,Sant Josep de sa Talaia,Eivissa,30,0,0,0,0.004901960784313725
+2020-05-09,7054,Santa Eulària des Riu,Eivissa,33,0,0,0,0.00851063829787234
+2020-05-09,0,total-Eivissa,Eivissa,142,0,0,0,0.0026019080659150044
+2020-05-10,7026,Eivissa,Eivissa,59,0,0,0,0
+2020-05-10,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-10,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-10,7048,Sant Josep de sa Talaia,Eivissa,30,0,0,0,0.004901960784313725
+2020-05-10,7054,Santa Eulària des Riu,Eivissa,33,0,0,0,0.008032128514056224
+2020-05-10,0,total-Eivissa,Eivissa,142,0,0,0,0.002457002457002457
+2020-05-11,7026,Eivissa,Eivissa,59,0,0,0,0
+2020-05-11,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-11,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-11,7048,Sant Josep de sa Talaia,Eivissa,30,0,0,0,0
+2020-05-11,7054,Santa Eulària des Riu,Eivissa,33,0,0,0,0.007518796992481203
+2020-05-11,0,total-Eivissa,Eivissa,142,0,0,0,0.0015527950310559005
+2020-05-12,7026,Eivissa,Eivissa,59,0,0,0,0
+2020-05-12,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-12,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-12,7048,Sant Josep de sa Talaia,Eivissa,30,0,0,0,0
+2020-05-12,7054,Santa Eulària des Riu,Eivissa,33,0,0,0,0.007142857142857143
+2020-05-12,0,total-Eivissa,Eivissa,142,0,0,0,0.0014524328249818446
+2020-05-13,7026,Eivissa,Eivissa,59,0,0,0,0
+2020-05-13,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-13,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-13,7048,Sant Josep de sa Talaia,Eivissa,30,0,0,0,0
+2020-05-13,7054,Santa Eulària des Riu,Eivissa,33,0,0,0,0.007067137809187279
+2020-05-13,0,total-Eivissa,Eivissa,142,0,0,0,0.001466275659824047
+2020-05-14,7026,Eivissa,Eivissa,59,0,0,0,0
+2020-05-14,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-14,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-14,7048,Sant Josep de sa Talaia,Eivissa,30,0,0,0,0
+2020-05-14,7054,Santa Eulària des Riu,Eivissa,33,0,0,0,0.007067137809187279
+2020-05-14,0,total-Eivissa,Eivissa,142,0,0,0,0.0015408320493066256
+2020-05-15,7026,Eivissa,Eivissa,60,0,0,0,0.0014903129657228018
+2020-05-15,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-15,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-15,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0.004975124378109453
+2020-05-15,7054,Santa Eulària des Riu,Eivissa,33,0,0,0,0
+2020-05-15,0,total-Eivissa,Eivissa,144,0,0,0,0.0014587892049598833
+2020-05-16,7026,Eivissa,Eivissa,60,0,0,0,0.0013315579227696406
+2020-05-16,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-16,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-16,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0.0045045045045045045
+2020-05-16,7054,Santa Eulària des Riu,Eivissa,33,0,0,0,0
+2020-05-16,0,total-Eivissa,Eivissa,144,0,0,0,0.0013280212483399733
+2020-05-17,7026,Eivissa,Eivissa,60,0,0,0,0.001440922190201729
+2020-05-17,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-17,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-17,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0.005128205128205128
+2020-05-17,7054,Santa Eulària des Riu,Eivissa,33,0,0,0,0
+2020-05-17,0,total-Eivissa,Eivissa,144,0,0,0,0.0014792899408284023
+2020-05-18,7026,Eivissa,Eivissa,60,0,0,0,0.0016051364365971107
+2020-05-18,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-18,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-18,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0.006024096385542169
+2020-05-18,7054,Santa Eulària des Riu,Eivissa,33,0,0,0,0
+2020-05-18,0,total-Eivissa,Eivissa,144,0,0,0,0.0016501650165016502
+2020-05-19,7026,Eivissa,Eivissa,60,0,0,0,0.0016750418760469012
+2020-05-19,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-19,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-19,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0.006289308176100629
+2020-05-19,7054,Santa Eulària des Riu,Eivissa,33,0,0,0,0
+2020-05-19,0,total-Eivissa,Eivissa,144,0,0,0,0.0017421602787456446
+2020-05-20,7026,Eivissa,Eivissa,60,0,0,0,0.0019230769230769232
+2020-05-20,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-20,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-20,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0.006097560975609756
+2020-05-20,7054,Santa Eulària des Riu,Eivissa,34,0,0,0,0.0045871559633027525
+2020-05-20,0,total-Eivissa,Eivissa,145,0,0,0,0.0028222013170272815
+2020-05-21,7026,Eivissa,Eivissa,60,0,0,0,0.0021231422505307855
+2020-05-21,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-21,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-21,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0.006134969325153374
+2020-05-21,7054,Santa Eulària des Riu,Eivissa,34,0,0,0,0.004807692307692308
+2020-05-21,0,total-Eivissa,Eivissa,145,0,0,0,0.0029940119760479044
+2020-05-22,7026,Eivissa,Eivissa,60,0,0,0,0
+2020-05-22,7046,Sant Antoni de Portmany,Eivissa,12,0,0,0,0
+2020-05-22,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-22,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-05-22,7054,Santa Eulària des Riu,Eivissa,35,0,0,0,0.011428571428571429
+2020-05-22,0,total-Eivissa,Eivissa,146,0,0,0,0.002398081534772182
+2020-05-23,7026,Eivissa,Eivissa,60,0,0,0,0
+2020-05-23,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0.009433962264150943
+2020-05-23,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-23,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-05-23,7054,Santa Eulària des Riu,Eivissa,35,0,0,0,0.013422818791946308
+2020-05-23,0,total-Eivissa,Eivissa,147,0,0,0,0.004608294930875576
+2020-05-24,7026,Eivissa,Eivissa,60,0,0,0,0
+2020-05-24,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0.009174311926605505
+2020-05-24,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-24,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-05-24,7054,Santa Eulària des Riu,Eivissa,35,0,0,0,0.012121212121212121
+2020-05-24,0,total-Eivissa,Eivissa,147,0,0,0,0.004335260115606936
+2020-05-25,7026,Eivissa,Eivissa,60,0,0,0,0
+2020-05-25,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0.009345794392523364
+2020-05-25,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-25,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-05-25,7054,Santa Eulària des Riu,Eivissa,35,0,0,0,0.012269938650306749
+2020-05-25,0,total-Eivissa,Eivissa,147,0,0,0,0.004329004329004329
+2020-05-26,7026,Eivissa,Eivissa,60,0,0,0,0
+2020-05-26,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0.009900990099009901
+2020-05-26,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-26,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-05-26,7054,Santa Eulària des Riu,Eivissa,35,0,0,0,0.012738853503184714
+2020-05-26,0,total-Eivissa,Eivissa,147,0,0,0,0.00482315112540193
+2020-05-27,7026,Eivissa,Eivissa,60,0,0,0,0
+2020-05-27,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0.00980392156862745
+2020-05-27,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-27,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-05-27,7054,Santa Eulària des Riu,Eivissa,36,0,0,0,0.014084507042253521
+2020-05-27,0,total-Eivissa,Eivissa,148,0,0,0,0.005084745762711864
+2020-05-28,7026,Eivissa,Eivissa,60,0,0,0,0
+2020-05-28,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0.00847457627118644
+2020-05-28,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-28,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-05-28,7054,Santa Eulària des Riu,Eivissa,36,0,0,0,0.0125
+2020-05-28,0,total-Eivissa,Eivissa,148,0,0,0,0.004885993485342019
+2020-05-29,7026,Eivissa,Eivissa,60,0,0,0,0
+2020-05-29,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0.009615384615384616
+2020-05-29,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-29,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-05-29,7054,Santa Eulària des Riu,Eivissa,36,0,0,0,0.006211180124223602
+2020-05-29,0,total-Eivissa,Eivissa,148,0,0,0,0.0034602076124567475
+2020-05-30,7026,Eivissa,Eivissa,61,0,0,0,0.005494505494505495
+2020-05-30,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-05-30,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-30,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-05-30,7054,Santa Eulària des Riu,Eivissa,36,0,0,0,0.006211180124223602
+2020-05-30,0,total-Eivissa,Eivissa,149,0,0,0,0.003367003367003367
+2020-05-31,7026,Eivissa,Eivissa,61,0,0,0,0.005714285714285714
+2020-05-31,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-05-31,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-05-31,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-05-31,7054,Santa Eulària des Riu,Eivissa,36,0,0,0,0.006756756756756757
+2020-05-31,0,total-Eivissa,Eivissa,149,0,0,0,0.0035087719298245615
+2020-06-01,7026,Eivissa,Eivissa,62,0,0,0,0.011428571428571429
+2020-06-01,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-01,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-06-01,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-06-01,7054,Santa Eulària des Riu,Eivissa,36,0,0,0,0.006756756756756757
+2020-06-01,0,total-Eivissa,Eivissa,150,0,0,0,0.005253940455341506
+2020-06-02,7026,Eivissa,Eivissa,62,0,0,0,0.011049723756906077
+2020-06-02,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-02,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-06-02,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-06-02,7054,Santa Eulària des Riu,Eivissa,36,0,0,0,0.0078125
+2020-06-02,0,total-Eivissa,Eivissa,150,0,0,0,0.00539568345323741
+2020-06-03,7026,Eivissa,Eivissa,62,0,0,0,0.011049723756906077
+2020-06-03,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-03,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-06-03,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-06-03,7054,Santa Eulària des Riu,Eivissa,36,0,0,0,0
+2020-06-03,0,total-Eivissa,Eivissa,150,0,0,0,0.003656307129798903
+2020-06-04,7026,Eivissa,Eivissa,62,0,0,0,0.011560693641618497
+2020-06-04,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-04,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-06-04,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-06-04,7054,Santa Eulària des Riu,Eivissa,36,0,0,0,0
+2020-06-04,0,total-Eivissa,Eivissa,150,0,0,0,0.004056795131845842
+2020-06-05,7026,Eivissa,Eivissa,62,0,0,0,0.010526315789473684
+2020-06-05,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-05,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-06-05,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-06-05,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0.008620689655172414
+2020-06-05,0,total-Eivissa,Eivissa,151,0,0,0,0.0057692307692307696
+2020-06-06,7026,Eivissa,Eivissa,62,0,0,0,0.005434782608695652
+2020-06-06,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-06,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-06-06,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-06-06,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0.009345794392523364
+2020-06-06,0,total-Eivissa,Eivissa,151,0,0,0,0.004219409282700422
+2020-06-07,7026,Eivissa,Eivissa,62,0,0,0,0.005555555555555556
+2020-06-07,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-07,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-06-07,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-06-07,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0.009345794392523364
+2020-06-07,0,total-Eivissa,Eivissa,151,0,0,0,0.004301075268817204
+2020-06-08,7026,Eivissa,Eivissa,62,0,0,0,0
+2020-06-08,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-08,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-06-08,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-06-08,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0.009174311926605505
+2020-06-08,0,total-Eivissa,Eivissa,151,0,0,0,0.00211864406779661
+2020-06-09,7026,Eivissa,Eivissa,62,0,0,0,0
+2020-06-09,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-09,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-06-09,7048,Sant Josep de sa Talaia,Eivissa,31,0,0,0,0
+2020-06-09,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0.008
+2020-06-09,0,total-Eivissa,Eivissa,151,0,0,0,0.0019193857965451055
+2020-06-10,7026,Eivissa,Eivissa,62,0,0,0,0
+2020-06-10,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-10,7050,Sant Joan de Labritja,Eivissa,8,0,0,0,0
+2020-06-10,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0.010752688172043012
+2020-06-10,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0.006944444444444444
+2020-06-10,0,total-Eivissa,Eivissa,152,0,0,0,0.0034904013961605585
+2020-06-11,7026,Eivissa,Eivissa,62,0,0,0,0
+2020-06-11,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-11,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0.043478260869565216
+2020-06-11,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0.009174311926605505
+2020-06-11,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0.0064516129032258064
+2020-06-11,0,total-Eivissa,Eivissa,153,0,0,0,0.004724409448818898
+2020-06-12,7026,Eivissa,Eivissa,62,0,0,0,0
+2020-06-12,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-12,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0.047619047619047616
+2020-06-12,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0.008771929824561403
+2020-06-12,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-12,0,total-Eivissa,Eivissa,153,0,0,0,0.002962962962962963
+2020-06-13,7026,Eivissa,Eivissa,62,0,0,0,0
+2020-06-13,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-13,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0.03571428571428571
+2020-06-13,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0.008620689655172414
+2020-06-13,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-13,0,total-Eivissa,Eivissa,153,0,0,0,0.002805049088359046
+2020-06-14,7026,Eivissa,Eivissa,62,0,0,0,0
+2020-06-14,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-14,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0.037037037037037035
+2020-06-14,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0.008620689655172414
+2020-06-14,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-14,0,total-Eivissa,Eivissa,153,0,0,0,0.0028089887640449437
+2020-06-15,7026,Eivissa,Eivissa,63,0,0,0,0.00392156862745098
+2020-06-15,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-15,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0.037037037037037035
+2020-06-15,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0.008547008547008548
+2020-06-15,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-15,0,total-Eivissa,Eivissa,154,0,0,0,0.004225352112676056
+2020-06-16,7026,Eivissa,Eivissa,64,0,0,0,0.00819672131147541
+2020-06-16,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-16,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0.043478260869565216
+2020-06-16,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0.008
+2020-06-16,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-16,0,total-Eivissa,Eivissa,155,0,0,0,0.005563282336578581
+2020-06-17,7026,Eivissa,Eivissa,64,0,0,0,0.008771929824561403
+2020-06-17,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-17,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0.047619047619047616
+2020-06-17,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-17,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-17,0,total-Eivissa,Eivissa,155,0,0,0,0.004201680672268907
+2020-06-18,7026,Eivissa,Eivissa,64,0,0,0,0.008438818565400843
+2020-06-18,7046,Sant Antoni de Portmany,Eivissa,13,0,0,0,0
+2020-06-18,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-18,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-18,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-18,0,total-Eivissa,Eivissa,155,0,0,0,0.002789400278940028
+2020-06-19,7026,Eivissa,Eivissa,64,0,0,0,0.008264462809917356
+2020-06-19,7046,Sant Antoni de Portmany,Eivissa,14,0,0,0,0.009900990099009901
+2020-06-19,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-19,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-19,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-19,0,total-Eivissa,Eivissa,156,0,0,0,0.00436046511627907
+2020-06-20,7026,Eivissa,Eivissa,64,0,0,0,0.007874015748031496
+2020-06-20,7046,Sant Antoni de Portmany,Eivissa,14,0,0,0,0.009345794392523364
+2020-06-20,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-20,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-20,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-20,0,total-Eivissa,Eivissa,156,0,0,0,0.004267425320056899
+2020-06-21,7026,Eivissa,Eivissa,64,0,0,0,0.007782101167315175
+2020-06-21,7046,Sant Antoni de Portmany,Eivissa,14,0,0,0,0.009433962264150943
+2020-06-21,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-21,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-21,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-21,0,total-Eivissa,Eivissa,156,0,0,0,0.00423728813559322
+2020-06-22,7026,Eivissa,Eivissa,64,0,0,0,0.0038314176245210726
+2020-06-22,7046,Sant Antoni de Portmany,Eivissa,14,0,0,0,0.009523809523809525
+2020-06-22,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-22,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-22,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-22,0,total-Eivissa,Eivissa,156,0,0,0,0.002824858757062147
+2020-06-23,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-06-23,7046,Sant Antoni de Portmany,Eivissa,14,0,0,0,0.008771929824561403
+2020-06-23,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-23,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-23,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-23,0,total-Eivissa,Eivissa,156,0,0,0,0.0014204545454545455
+2020-06-24,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-06-24,7046,Sant Antoni de Portmany,Eivissa,14,0,0,0,0.009433962264150943
+2020-06-24,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-24,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-24,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-24,0,total-Eivissa,Eivissa,156,0,0,0,0.0014858841010401188
+2020-06-25,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-06-25,7046,Sant Antoni de Portmany,Eivissa,14,0,0,0,0.010526315789473684
+2020-06-25,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-25,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-25,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-25,0,total-Eivissa,Eivissa,156,0,0,0,0.0016638935108153079
+2020-06-26,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-06-26,7046,Sant Antoni de Portmany,Eivissa,14,0,0,0,0
+2020-06-26,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-26,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-26,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-26,0,total-Eivissa,Eivissa,156,0,0,0,0
+2020-06-27,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-06-27,7046,Sant Antoni de Portmany,Eivissa,14,0,0,0,0
+2020-06-27,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-27,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-27,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-27,0,total-Eivissa,Eivissa,156,0,0,0,0
+2020-06-28,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-06-28,7046,Sant Antoni de Portmany,Eivissa,14,0,0,0,0
+2020-06-28,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-28,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-28,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-28,0,total-Eivissa,Eivissa,156,0,0,0,0
+2020-06-29,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-06-29,7046,Sant Antoni de Portmany,Eivissa,14,0,0,0,0
+2020-06-29,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-29,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-29,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-29,0,total-Eivissa,Eivissa,156,0,0,0,0
+2020-06-30,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-06-30,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0.011235955056179775
+2020-06-30,7050,Sant Joan de Labritja,Eivissa,9,0,0,0,0
+2020-06-30,7048,Sant Josep de sa Talaia,Eivissa,32,0,0,0,0
+2020-06-30,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-06-30,0,total-Eivissa,Eivissa,157,0,0,0,0.0020491803278688526
+2020-07-01,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-07-01,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0.010869565217391304
+2020-07-01,7050,Sant Joan de Labritja,Eivissa,10,0,0,0,0.04
+2020-07-01,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0.024390243902439025
+2020-07-01,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-07-01,0,total-Eivissa,Eivissa,160,0,0,0,0.008064516129032258
+2020-07-02,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-07-02,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0.011627906976744186
+2020-07-02,7050,Sant Joan de Labritja,Eivissa,10,0,0,0,0.043478260869565216
+2020-07-02,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0.024390243902439025
+2020-07-02,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-07-02,0,total-Eivissa,Eivissa,160,0,0,0,0.008097165991902834
+2020-07-03,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-07-03,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0.009900990099009901
+2020-07-03,7050,Sant Joan de Labritja,Eivissa,10,0,0,0,0.047619047619047616
+2020-07-03,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0.023529411764705882
+2020-07-03,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-07-03,0,total-Eivissa,Eivissa,160,0,0,0,0.007936507936507936
+2020-07-04,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-07-04,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0.00909090909090909
+2020-07-04,7050,Sant Joan de Labritja,Eivissa,10,0,0,0,0.043478260869565216
+2020-07-04,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0.021505376344086023
+2020-07-04,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-07-04,0,total-Eivissa,Eivissa,160,0,0,0,0.007476635514018692
+2020-07-05,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-07-05,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0.009174311926605505
+2020-07-05,7050,Sant Joan de Labritja,Eivissa,10,0,0,0,0.045454545454545456
+2020-07-05,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0.022222222222222223
+2020-07-05,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-07-05,0,total-Eivissa,Eivissa,160,0,0,0,0.007692307692307693
+2020-07-06,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-07-06,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0.009174311926605505
+2020-07-06,7050,Sant Joan de Labritja,Eivissa,10,0,0,0,0.045454545454545456
+2020-07-06,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0.021505376344086023
+2020-07-06,7054,Santa Eulària des Riu,Eivissa,37,0,0,0,0
+2020-07-06,0,total-Eivissa,Eivissa,160,0,0,0,0.007736943907156673
+2020-07-07,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-07-07,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-07,7050,Sant Joan de Labritja,Eivissa,10,0,0,0,0.03571428571428571
+2020-07-07,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0.019801980198019802
+2020-07-07,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0.007042253521126761
+2020-07-07,0,total-Eivissa,Eivissa,161,0,0,0,0.00686106346483705
+2020-07-08,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-07-08,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-08,7050,Sant Joan de Labritja,Eivissa,10,0,0,0,0
+2020-07-08,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0
+2020-07-08,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0.006896551724137931
+2020-07-08,0,total-Eivissa,Eivissa,161,0,0,0,0.0017331022530329288
+2020-07-09,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-07-09,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-09,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0.045454545454545456
+2020-07-09,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0
+2020-07-09,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0.006578947368421052
+2020-07-09,0,total-Eivissa,Eivissa,162,0,0,0,0.0033333333333333335
+2020-07-10,7026,Eivissa,Eivissa,64,0,0,0,0
+2020-07-10,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-10,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0.047619047619047616
+2020-07-10,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0
+2020-07-10,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0.007194244604316547
+2020-07-10,0,total-Eivissa,Eivissa,162,0,0,0,0.0034965034965034965
+2020-07-11,7026,Eivissa,Eivissa,65,0,0,0,0.004629629629629629
+2020-07-11,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-11,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0.047619047619047616
+2020-07-11,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0
+2020-07-11,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0.00641025641025641
+2020-07-11,0,total-Eivissa,Eivissa,163,0,0,0,0.005042016806722689
+2020-07-12,7026,Eivissa,Eivissa,65,0,0,0,0.004329004329004329
+2020-07-12,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-12,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0.043478260869565216
+2020-07-12,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0
+2020-07-12,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0.0058823529411764705
+2020-07-12,0,total-Eivissa,Eivissa,163,0,0,0,0.004672897196261682
+2020-07-13,7026,Eivissa,Eivissa,65,0,0,0,0.004545454545454545
+2020-07-13,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-13,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0.047619047619047616
+2020-07-13,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0
+2020-07-13,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0.006060606060606061
+2020-07-13,0,total-Eivissa,Eivissa,163,0,0,0,0.004846526655896607
+2020-07-14,7026,Eivissa,Eivissa,66,0,0,0,0.009174311926605505
+2020-07-14,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-14,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0.058823529411764705
+2020-07-14,7048,Sant Josep de sa Talaia,Eivissa,34,0,0,0,0
+2020-07-14,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-14,0,total-Eivissa,Eivissa,164,0,0,0,0.005016722408026756
+2020-07-15,7026,Eivissa,Eivissa,68,0,0,0,0.017167381974248927
+2020-07-15,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-15,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0.045454545454545456
+2020-07-15,7048,Sant Josep de sa Talaia,Eivissa,35,0,0,0,0.010526315789473684
+2020-07-15,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-15,0,total-Eivissa,Eivissa,167,0,0,0,0.00967741935483871
+2020-07-16,7026,Eivissa,Eivissa,68,0,0,0,0.01834862385321101
+2020-07-16,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-16,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-16,7048,Sant Josep de sa Talaia,Eivissa,35,0,0,0,0.011235955056179775
+2020-07-16,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-16,0,total-Eivissa,Eivissa,167,0,0,0,0.0088339222614841
+2020-07-17,7026,Eivissa,Eivissa,68,0,0,0,0.015037593984962405
+2020-07-17,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-17,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-17,7048,Sant Josep de sa Talaia,Eivissa,35,0,0,0,0.009433962264150943
+2020-07-17,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-17,0,total-Eivissa,Eivissa,167,0,0,0,0.007363770250368188
+2020-07-18,7026,Eivissa,Eivissa,68,0,0,0,0.011538461538461539
+2020-07-18,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-18,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-18,7048,Sant Josep de sa Talaia,Eivissa,35,0,0,0,0.009523809523809525
+2020-07-18,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-18,0,total-Eivissa,Eivissa,167,0,0,0,0.006097560975609756
+2020-07-19,7026,Eivissa,Eivissa,68,0,0,0,0.012096774193548387
+2020-07-19,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-19,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-19,7048,Sant Josep de sa Talaia,Eivissa,35,0,0,0,0.01020408163265306
+2020-07-19,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-19,0,total-Eivissa,Eivissa,167,0,0,0,0.00641025641025641
+2020-07-20,7026,Eivissa,Eivissa,68,0,0,0,0.011406844106463879
+2020-07-20,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-20,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-20,7048,Sant Josep de sa Talaia,Eivissa,35,0,0,0,0.009900990099009901
+2020-07-20,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-20,0,total-Eivissa,Eivissa,167,0,0,0,0.0061633281972265025
+2020-07-21,7026,Eivissa,Eivissa,68,0,0,0,0.00819672131147541
+2020-07-21,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-21,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-21,7048,Sant Josep de sa Talaia,Eivissa,35,0,0,0,0.01020408163265306
+2020-07-21,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-21,0,total-Eivissa,Eivissa,167,0,0,0,0.004893964110929853
+2020-07-22,7026,Eivissa,Eivissa,68,0,0,0,0
+2020-07-22,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-22,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-22,7048,Sant Josep de sa Talaia,Eivissa,35,0,0,0,0
+2020-07-22,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-22,0,total-Eivissa,Eivissa,167,0,0,0,0
+2020-07-23,7026,Eivissa,Eivissa,69,0,0,0,0.0036363636363636364
+2020-07-23,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-23,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-23,7048,Sant Josep de sa Talaia,Eivissa,36,0,0,0,0.008403361344537815
+2020-07-23,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-23,0,total-Eivissa,Eivissa,169,0,0,0,0.002881844380403458
+2020-07-24,7026,Eivissa,Eivissa,69,0,0,0,0.004132231404958678
+2020-07-24,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-24,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-24,7048,Sant Josep de sa Talaia,Eivissa,37,0,0,0,0.017241379310344827
+2020-07-24,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-24,0,total-Eivissa,Eivissa,170,0,0,0,0.004792332268370607
+2020-07-25,7026,Eivissa,Eivissa,69,0,0,0,0.004201680672268907
+2020-07-25,7046,Sant Antoni de Portmany,Eivissa,15,0,0,0,0
+2020-07-25,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-25,7048,Sant Josep de sa Talaia,Eivissa,37,0,0,0,0.01818181818181818
+2020-07-25,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-25,0,total-Eivissa,Eivissa,170,0,0,0,0.004846526655896607
+2020-07-26,7026,Eivissa,Eivissa,70,0,0,0,0.008064516129032258
+2020-07-26,7046,Sant Antoni de Portmany,Eivissa,16,0,0,0,0.008849557522123894
+2020-07-26,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-26,7048,Sant Josep de sa Talaia,Eivissa,37,0,0,0,0.018518518518518517
+2020-07-26,7054,Santa Eulària des Riu,Eivissa,38,0,0,0,0
+2020-07-26,0,total-Eivissa,Eivissa,172,0,0,0,0.008
+2020-07-27,7026,Eivissa,Eivissa,71,0,0,0,0.01079136690647482
+2020-07-27,7046,Sant Antoni de Portmany,Eivissa,16,0,0,0,0.008064516129032258
+2020-07-27,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-27,7048,Sant Josep de sa Talaia,Eivissa,37,0,0,0,0.016
+2020-07-27,7054,Santa Eulària des Riu,Eivissa,39,0,0,0,0.006535947712418301
+2020-07-27,0,total-Eivissa,Eivissa,174,0,0,0,0.009943181818181818
+2020-07-28,7026,Eivissa,Eivissa,72,0,0,0,0.014035087719298246
+2020-07-28,7046,Sant Antoni de Portmany,Eivissa,16,0,0,0,0.007692307692307693
+2020-07-28,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-28,7048,Sant Josep de sa Talaia,Eivissa,37,0,0,0,0.015625
+2020-07-28,7054,Santa Eulària des Riu,Eivissa,40,0,0,0,0.012345679012345678
+2020-07-28,0,total-Eivissa,Eivissa,176,0,0,0,0.012328767123287671
+2020-07-29,7026,Eivissa,Eivissa,72,0,0,0,0.014814814814814815
+2020-07-29,7046,Sant Antoni de Portmany,Eivissa,16,0,0,0,0.008130081300813009
+2020-07-29,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-29,7048,Sant Josep de sa Talaia,Eivissa,37,0,0,0,0.01652892561983471
+2020-07-29,7054,Santa Eulària des Riu,Eivissa,40,0,0,0,0.012195121951219513
+2020-07-29,0,total-Eivissa,Eivissa,176,0,0,0,0.01272984441301273
+2020-07-30,7026,Eivissa,Eivissa,72,0,0,0,0.01048951048951049
+2020-07-30,7046,Sant Antoni de Portmany,Eivissa,16,0,0,0,0.008130081300813009
+2020-07-30,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-30,7048,Sant Josep de sa Talaia,Eivissa,38,0,0,0,0.016666666666666666
+2020-07-30,7054,Santa Eulària des Riu,Eivissa,40,0,0,0,0.011428571428571429
+2020-07-30,0,total-Eivissa,Eivissa,177,0,0,0,0.01094391244870041
+2020-07-31,7026,Eivissa,Eivissa,74,0,0,0,0.01818181818181818
+2020-07-31,7046,Sant Antoni de Portmany,Eivissa,16,0,0,0,0.007751937984496124
+2020-07-31,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-07-31,7048,Sant Josep de sa Talaia,Eivissa,38,0,0,0,0.008620689655172414
+2020-07-31,7054,Santa Eulària des Riu,Eivissa,42,0,0,0,0.023391812865497075
+2020-07-31,0,total-Eivissa,Eivissa,181,0,0,0,0.015406162464985995
+2020-08-01,7026,Eivissa,Eivissa,75,0,0,0,0.020689655172413793
+2020-08-01,7046,Sant Antoni de Portmany,Eivissa,16,0,0,0,0.008130081300813009
+2020-08-01,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-08-01,7048,Sant Josep de sa Talaia,Eivissa,40,0,0,0,0.02158273381294964
+2020-08-01,7054,Santa Eulària des Riu,Eivissa,44,0,0,0,0.031088082901554404
+2020-08-01,0,total-Eivissa,Eivissa,186,0,0,0,0.020752269779507133
+2020-08-02,7026,Eivissa,Eivissa,75,0,0,0,0.017793594306049824
+2020-08-02,7046,Sant Antoni de Portmany,Eivissa,16,0,0,0,0
+2020-08-02,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-08-02,7048,Sant Josep de sa Talaia,Eivissa,40,0,0,0,0.02158273381294964
+2020-08-02,7054,Santa Eulària des Riu,Eivissa,44,0,0,0,0.030927835051546393
+2020-08-02,0,total-Eivissa,Eivissa,186,0,0,0,0.018421052631578946
+2020-08-03,7026,Eivissa,Eivissa,75,0,0,0,0.0149812734082397
+2020-08-03,7046,Sant Antoni de Portmany,Eivissa,16,0,0,0,0
+2020-08-03,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-08-03,7048,Sant Josep de sa Talaia,Eivissa,41,0,0,0,0.028169014084507043
+2020-08-03,7054,Santa Eulària des Riu,Eivissa,45,0,0,0,0.030612244897959183
+2020-08-03,0,total-Eivissa,Eivissa,188,0,0,0,0.01876675603217158
+2020-08-04,7026,Eivissa,Eivissa,75,0,0,0,0.011152416356877323
+2020-08-04,7046,Sant Antoni de Portmany,Eivissa,16,0,0,0,0
+2020-08-04,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-08-04,7048,Sant Josep de sa Talaia,Eivissa,42,0,0,0,0.035211267605633804
+2020-08-04,7054,Santa Eulària des Riu,Eivissa,46,0,0,0,0.029850746268656716
+2020-08-04,0,total-Eivissa,Eivissa,190,0,0,0,0.018741633199464525
+2020-08-05,7026,Eivissa,Eivissa,75,0,0,0,0.011450381679389313
+2020-08-05,7046,Sant Antoni de Portmany,Eivissa,16,0,0,0,0
+2020-08-05,7050,Sant Joan de Labritja,Eivissa,11,0,0,0,0
+2020-08-05,7048,Sant Josep de sa Talaia,Eivissa,44,0,0,0,0.04697986577181208
+2020-08-05,7054,Santa Eulària des Riu,Eivissa,47,0,0,0,0.03333333333333333
+2020-08-05,0,total-Eivissa,Eivissa,193,0,0,0,0.022972972972972974
+2020-08-06,7026,Eivissa,Eivissa,78,0,0,0,0.022388059701492536
+2020-08-06,7046,Sant Antoni de Portmany,Eivissa,17,0,0,0,0.008403361344537815
+2020-08-06,7050,Sant Joan de Labritja,Eivissa,12,0,0,0,0.0625
+2020-08-06,7048,Sant Josep de sa Talaia,Eivissa,46,0,0,0,0.05063291139240506
+2020-08-06,7054,Santa Eulària des Riu,Eivissa,49,0,0,0,0.04245283018867924
+2020-08-06,0,total-Eivissa,Eivissa,202,0,0,0,0.03234152652005175
+2020-08-07,7026,Eivissa,Eivissa,79,0,0,0,0.017793594306049824
+2020-08-07,7046,Sant Antoni de Portmany,Eivissa,17,0,0,0,0.00980392156862745
+2020-08-07,7050,Sant Joan de Labritja,Eivissa,12,0,0,0,0.05
+2020-08-07,7048,Sant Josep de sa Talaia,Eivissa,46,0,0,0,0.046511627906976744
+2020-08-07,7054,Santa Eulària des Riu,Eivissa,51,0,0,0,0.04090909090909091
+2020-08-07,0,total-Eivissa,Eivissa,205,0,0,0,0.03018867924528302
+2020-08-08,7026,Eivissa,Eivissa,84,0,0,0,0.030612244897959183
+2020-08-08,7046,Sant Antoni de Portmany,Eivissa,17,0,0,0,0.010101010101010102
+2020-08-08,7050,Sant Joan de Labritja,Eivissa,12,0,0,0,0.05263157894736842
+2020-08-08,7048,Sant Josep de sa Talaia,Eivissa,47,0,0,0,0.04093567251461988
+2020-08-08,7054,Santa Eulària des Riu,Eivissa,51,0,0,0,0.03139013452914798
+2020-08-08,0,total-Eivissa,Eivissa,211,0,0,0,0.031017369727047148
+2020-08-09,7026,Eivissa,Eivissa,85,0,0,0,0.034013605442176874
+2020-08-09,7046,Sant Antoni de Portmany,Eivissa,17,0,0,0,0.009900990099009901
+2020-08-09,7050,Sant Joan de Labritja,Eivissa,12,0,0,0,0.05263157894736842
+2020-08-09,7048,Sant Josep de sa Talaia,Eivissa,47,0,0,0,0.040229885057471264
+2020-08-09,7054,Santa Eulària des Riu,Eivissa,51,0,0,0,0.03167420814479638
+2020-08-09,0,total-Eivissa,Eivissa,212,0,0,0,0.032138442521631644
+2020-08-10,7026,Eivissa,Eivissa,94,0,0,0,0.05491329479768786
+2020-08-10,7046,Sant Antoni de Portmany,Eivissa,18,0,0,0,0.018018018018018018
+2020-08-10,7050,Sant Joan de Labritja,Eivissa,12,0,0,0,0.047619047619047616
+2020-08-10,7048,Sant Josep de sa Talaia,Eivissa,47,0,0,0,0.03278688524590164
+2020-08-10,7054,Santa Eulària des Riu,Eivissa,56,0,0,0,0.04526748971193416
+2020-08-10,0,total-Eivissa,Eivissa,227,0,0,0,0.04314159292035398
+2020-08-11,7026,Eivissa,Eivissa,99,0,0,0,0.058394160583941604
+2020-08-11,7046,Sant Antoni de Portmany,Eivissa,18,0,0,0,0.014492753623188406
+2020-08-11,7050,Sant Joan de Labritja,Eivissa,13,0,0,0,0.07407407407407407
+2020-08-11,7048,Sant Josep de sa Talaia,Eivissa,51,0,0,0,0.039647577092511016
+2020-08-11,7054,Santa Eulària des Riu,Eivissa,59,0,0,0,0.05019305019305019
+2020-08-11,0,total-Eivissa,Eivissa,240,0,0,0,0.047080979284369114
+2020-08-12,7026,Eivissa,Eivissa,106,0,0,0,0.06352459016393443
+2020-08-12,7046,Sant Antoni de Portmany,Eivissa,19,0,0,0,0.019230769230769232
+2020-08-12,7050,Sant Joan de Labritja,Eivissa,13,0,0,0,0.05
+2020-08-12,7048,Sant Josep de sa Talaia,Eivissa,55,0,0,0,0.04741379310344827
+2020-08-12,7054,Santa Eulària des Riu,Eivissa,60,0,0,0,0.04814814814814815
+2020-08-12,0,total-Eivissa,Eivissa,253,0,0,0,0.050590219224283306
+2020-08-13,7026,Eivissa,Eivissa,128,0,0,0,0.09041591320072333
+2020-08-13,7046,Sant Antoni de Portmany,Eivissa,22,0,0,0,0.03125
+2020-08-13,7050,Sant Joan de Labritja,Eivissa,14,0,0,0,0.05
+2020-08-13,7048,Sant Josep de sa Talaia,Eivissa,61,0,0,0,0.058365758754863814
+2020-08-13,7054,Santa Eulària des Riu,Eivissa,66,0,0,0,0.05537459283387622
+2020-08-13,0,total-Eivissa,Eivissa,291,0,0,0,0.06757782839787396
+2020-08-14,7026,Eivissa,Eivissa,149,0,0,0,0.10479041916167664
+2020-08-14,7046,Sant Antoni de Portmany,Eivissa,28,0,0,0,0.06358381502890173
+2020-08-14,7050,Sant Joan de Labritja,Eivissa,15,0,0,0,0.06976744186046512
+2020-08-14,7048,Sant Josep de sa Talaia,Eivissa,68,0,0,0,0.08
+2020-08-14,7054,Santa Eulària des Riu,Eivissa,71,0,0,0,0.06006006006006006
+2020-08-14,0,total-Eivissa,Eivissa,331,0,0,0,0.08445040214477212
+2020-08-15,7026,Eivissa,Eivissa,169,0,0,0,0.11675824175824176
+2020-08-15,7046,Sant Antoni de Portmany,Eivissa,36,0,0,0,0.0892018779342723
+2020-08-15,7050,Sant Joan de Labritja,Eivissa,15,0,0,0,0.06976744186046512
+2020-08-15,7048,Sant Josep de sa Talaia,Eivissa,79,0,0,0,0.10423452768729642
+2020-08-15,7054,Santa Eulària des Riu,Eivissa,77,0,0,0,0.07222222222222222
+2020-08-15,0,total-Eivissa,Eivissa,376,0,0,0,0.09993943064809206
+2020-08-16,7026,Eivissa,Eivissa,172,0,0,0,0.11788617886178862
+2020-08-16,7046,Sant Antoni de Portmany,Eivissa,36,0,0,0,0.08837209302325581
+2020-08-16,7050,Sant Joan de Labritja,Eivissa,15,0,0,0,0.06382978723404255
+2020-08-16,7048,Sant Josep de sa Talaia,Eivissa,79,0,0,0,0.10457516339869281
+2020-08-16,7054,Santa Eulària des Riu,Eivissa,77,0,0,0,0.07103825136612021
+2020-08-16,0,total-Eivissa,Eivissa,379,0,0,0,0.09988038277511961
+2020-08-17,7026,Eivissa,Eivissa,197,0,0,0,0.12305854241338113
+2020-08-17,7046,Sant Antoni de Portmany,Eivissa,37,0,0,0,0.08016877637130802
+2020-08-17,7050,Sant Joan de Labritja,Eivissa,16,0,0,0,0.07692307692307693
+2020-08-17,7048,Sant Josep de sa Talaia,Eivissa,91,0,0,0,0.1337386018237082
+2020-08-17,7054,Santa Eulària des Riu,Eivissa,90,0,0,0,0.085
+2020-08-17,0,total-Eivissa,Eivissa,431,0,0,0,0.10997304582210242
+2020-08-18,7026,Eivissa,Eivissa,204,0,0,0,0.1248513674197384
+2020-08-18,7046,Sant Antoni de Portmany,Eivissa,47,0,0,0,0.11740890688259109
+2020-08-18,7050,Sant Joan de Labritja,Eivissa,17,0,0,0,0.07272727272727272
+2020-08-18,7048,Sant Josep de sa Talaia,Eivissa,96,0,0,0,0.140625
+2020-08-18,7054,Santa Eulària des Riu,Eivissa,98,0,0,0,0.08628318584070796
+2020-08-18,0,total-Eivissa,Eivissa,462,0,0,0,0.11592689295039164
+2020-08-19,7026,Eivissa,Eivissa,221,0,0,0,0.13097949886104784
+2020-08-19,7046,Sant Antoni de Portmany,Eivissa,59,0,0,0,0.13793103448275862
+2020-08-19,7050,Sant Joan de Labritja,Eivissa,18,0,0,0,0.09615384615384616
+2020-08-19,7048,Sant Josep de sa Talaia,Eivissa,99,0,0,0,0.12903225806451613
+2020-08-19,7054,Santa Eulària des Riu,Eivissa,107,0,0,0,0.09572301425661914
+2020-08-19,0,total-Eivissa,Eivissa,504,0,0,0,0.12231968810916179
+2020-08-20,7026,Eivissa,Eivissa,238,0,0,0,0.12429378531073447
+2020-08-20,7046,Sant Antoni de Portmany,Eivissa,67,0,0,0,0.13513513513513514
+2020-08-20,7050,Sant Joan de Labritja,Eivissa,20,0,0,0,0.09230769230769231
+2020-08-20,7048,Sant Josep de sa Talaia,Eivissa,108,0,0,0,0.13128491620111732
+2020-08-20,7054,Santa Eulària des Riu,Eivissa,115,0,0,0,0.09351145038167939
+2020-08-20,0,total-Eivissa,Eivissa,548,0,0,0,0.1187066974595843
+2020-08-21,7026,Eivissa,Eivissa,258,0,0,0,0.11449579831932773
+2020-08-21,7046,Sant Antoni de Portmany,Eivissa,78,0,0,0,0.12755102040816327
+2020-08-21,7050,Sant Joan de Labritja,Eivissa,20,0,0,0,0.06944444444444445
+2020-08-21,7048,Sant Josep de sa Talaia,Eivissa,122,0,0,0,0.12735849056603774
+2020-08-21,7054,Santa Eulària des Riu,Eivissa,124,0,0,0,0.09380530973451327
+2020-08-21,0,total-Eivissa,Eivissa,602,0,0,0,0.11268191268191269
+2020-08-22,7026,Eivissa,Eivissa,284,0,0,0,0.11352418558736427
+2020-08-22,7046,Sant Antoni de Portmany,Eivissa,88,0,0,0,0.12410501193317422
+2020-08-22,7050,Sant Joan de Labritja,Eivissa,22,0,0,0,0.08974358974358974
+2020-08-22,7048,Sant Josep de sa Talaia,Eivissa,129,0,0,0,0.12531328320802004
+2020-08-22,7054,Santa Eulària des Riu,Eivissa,129,0,0,0,0.09219858156028368
+2020-08-22,0,total-Eivissa,Eivissa,652,0,0,0,0.11160533764658309
+2020-08-23,7026,Eivissa,Eivissa,285,0,0,0,0.11232604373757456
+2020-08-23,7046,Sant Antoni de Portmany,Eivissa,88,0,0,0,0.12440191387559808
+2020-08-23,7050,Sant Joan de Labritja,Eivissa,22,0,0,0,0.0945945945945946
+2020-08-23,7048,Sant Josep de sa Talaia,Eivissa,129,0,0,0,0.12594458438287154
+2020-08-23,7054,Santa Eulària des Riu,Eivissa,129,0,0,0,0.09236234458259325
+2020-08-23,0,total-Eivissa,Eivissa,653,0,0,0,0.1114727420667209
+2020-08-24,7026,Eivissa,Eivissa,305,0,0,0,0.1115702479338843
+2020-08-24,7046,Sant Antoni de Portmany,Eivissa,94,0,0,0,0.1357142857142857
+2020-08-24,7050,Sant Joan de Labritja,Eivissa,22,0,0,0,0.08571428571428572
+2020-08-24,7048,Sant Josep de sa Talaia,Eivissa,139,0,0,0,0.11735941320293398
+2020-08-24,7054,Santa Eulària des Riu,Eivissa,134,0,0,0,0.07787610619469026
+2020-08-24,0,total-Eivissa,Eivissa,694,0,0,0,0.10814144736842106
+2020-08-25,7026,Eivissa,Eivissa,323,0,0,0,0.11575875486381323
+2020-08-25,7046,Sant Antoni de Portmany,Eivissa,100,0,0,0,0.12529550827423167
+2020-08-25,7050,Sant Joan de Labritja,Eivissa,25,0,0,0,0.11594202898550725
+2020-08-25,7048,Sant Josep de sa Talaia,Eivissa,150,0,0,0,0.1197339246119734
+2020-08-25,7054,Santa Eulària des Riu,Eivissa,139,0,0,0,0.07282415630550622
+2020-08-25,0,total-Eivissa,Eivissa,737,0,0,0,0.1085240726124704
+2020-08-26,7026,Eivissa,Eivissa,349,0,0,0,0.1097770154373928
+2020-08-26,7046,Sant Antoni de Portmany,Eivissa,116,0,0,0,0.11899791231732777
+2020-08-26,7050,Sant Joan de Labritja,Eivissa,25,0,0,0,0.09859154929577464
+2020-08-26,7048,Sant Josep de sa Talaia,Eivissa,158,0,0,0,0.11847389558232932
+2020-08-26,7054,Santa Eulària des Riu,Eivissa,147,0,0,0,0.06546644844517185
+2020-08-26,0,total-Eivissa,Eivissa,795,0,0,0,0.10300884955752213
+2020-08-27,7026,Eivissa,Eivissa,371,0,0,0,0.11676909569798069
+2020-08-27,7046,Sant Antoni de Portmany,Eivissa,128,0,0,0,0.1328976034858388
+2020-08-27,7050,Sant Joan de Labritja,Eivissa,26,0,0,0,0.08823529411764706
+2020-08-27,7048,Sant Josep de sa Talaia,Eivissa,168,0,0,0,0.12552301255230125
+2020-08-27,7054,Santa Eulària des Riu,Eivissa,164,0,0,0,0.08193979933110368
+2020-08-27,0,total-Eivissa,Eivissa,857,0,0,0,0.11269146608315099
+2020-08-28,7026,Eivissa,Eivissa,391,0,0,0,0.12269372693726938
+2020-08-28,7046,Sant Antoni de Portmany,Eivissa,139,0,0,0,0.14219114219114218
+2020-08-28,7050,Sant Joan de Labritja,Eivissa,29,0,0,0,0.13432835820895522
+2020-08-28,7048,Sant Josep de sa Talaia,Eivissa,177,0,0,0,0.12731481481481483
+2020-08-28,7054,Santa Eulària des Riu,Eivissa,171,0,0,0,0.07939189189189189
+2020-08-28,0,total-Eivissa,Eivissa,907,0,0,0,0.11712749615975422
+2020-08-29,7026,Eivissa,Eivissa,412,0,0,0,0.12098298676748583
+2020-08-29,7046,Sant Antoni de Portmany,Eivissa,159,0,0,0,0.1591928251121076
+2020-08-29,7050,Sant Joan de Labritja,Eivissa,30,0,0,0,0.11594202898550725
+2020-08-29,7048,Sant Josep de sa Talaia,Eivissa,180,0,0,0,0.12085308056872038
+2020-08-29,7054,Santa Eulària des Riu,Eivissa,180,0,0,0,0.08415841584158416
+2020-08-29,0,total-Eivissa,Eivissa,961,0,0,0,0.11880046136101499
+2020-08-30,7026,Eivissa,Eivissa,412,0,0,0,0.1204933586337761
+2020-08-30,7046,Sant Antoni de Portmany,Eivissa,159,0,0,0,0.16063348416289594
+2020-08-30,7050,Sant Joan de Labritja,Eivissa,30,0,0,0,0.11594202898550725
+2020-08-30,7048,Sant Josep de sa Talaia,Eivissa,180,0,0,0,0.12085308056872038
+2020-08-30,7054,Santa Eulària des Riu,Eivissa,180,0,0,0,0.08485856905158069
+2020-08-30,0,total-Eivissa,Eivissa,961,0,0,0,0.11901081916537867
+2020-08-31,7026,Eivissa,Eivissa,422,0,0,0,0.12024665981500514
+2020-08-31,7046,Sant Antoni de Portmany,Eivissa,171,0,0,0,0.15618661257606492
+2020-08-31,7050,Sant Joan de Labritja,Eivissa,33,0,0,0,0.1527777777777778
+2020-08-31,7048,Sant Josep de sa Talaia,Eivissa,187,0,0,0,0.12467532467532468
+2020-08-31,7054,Santa Eulària des Riu,Eivissa,182,0,0,0,0.08807339449541285
+2020-08-31,0,total-Eivissa,Eivissa,995,0,0,0,0.1219611021069692
+2020-09-01,7026,Eivissa,Eivissa,455,0,0,0,0.1295387634936212
+2020-09-01,7046,Sant Antoni de Portmany,Eivissa,194,0,0,0,0.16785714285714284
+2020-09-01,7050,Sant Joan de Labritja,Eivissa,34,0,0,0,0.125
+2020-09-01,7048,Sant Josep de sa Talaia,Eivissa,198,0,0,0,0.1352112676056338
+2020-09-01,7054,Santa Eulària des Riu,Eivissa,189,0,0,0,0.09765625
+2020-09-01,0,total-Eivissa,Eivissa,1070,0,0,0,0.13224781572676728
+2020-09-02,7026,Eivissa,Eivissa,465,0,0,0,0.13567251461988303
+2020-09-02,7046,Sant Antoni de Portmany,Eivissa,203,0,0,0,0.17755102040816326
+2020-09-02,7050,Sant Joan de Labritja,Eivissa,35,0,0,0,0.15151515151515152
+2020-09-02,7048,Sant Josep de sa Talaia,Eivissa,204,0,0,0,0.14420062695924765
+2020-09-02,7054,Santa Eulària des Riu,Eivissa,192,0,0,0,0.1048951048951049
+2020-09-02,0,total-Eivissa,Eivissa,1099,0,0,0,0.14080592867068087
+2020-09-03,7026,Eivissa,Eivissa,495,0,0,0,0.13449023861171366
+2020-09-03,7046,Sant Antoni de Portmany,Eivissa,214,0,0,0,0.1744421906693712
+2020-09-03,7050,Sant Joan de Labritja,Eivissa,36,0,0,0,0.14492753623188406
+2020-09-03,7048,Sant Josep de sa Talaia,Eivissa,221,0,0,0,0.1448087431693989
+2020-09-03,7054,Santa Eulària des Riu,Eivissa,197,0,0,0,0.06875
+2020-09-03,0,total-Eivissa,Eivissa,1163,0,0,0,0.1313304721030043
+2020-09-04,7026,Eivissa,Eivissa,538,0,0,0,0.15030674846625766
+2020-09-04,7046,Sant Antoni de Portmany,Eivissa,227,0,0,0,0.16206261510128914
+2020-09-04,7050,Sant Joan de Labritja,Eivissa,36,0,0,0,0.109375
+2020-09-04,7048,Sant Josep de sa Talaia,Eivissa,236,0,0,0,0.13849765258215962
+2020-09-04,7054,Santa Eulària des Riu,Eivissa,208,0,0,0,0.07822410147991543
+2020-09-04,0,total-Eivissa,Eivissa,1245,0,0,0,0.1360708534621578
+2020-09-05,7026,Eivissa,Eivissa,568,0,0,0,0.14675446848541862
+2020-09-05,7046,Sant Antoni de Portmany,Eivissa,237,0,0,0,0.1471698113207547
+2020-09-05,7050,Sant Joan de Labritja,Eivissa,37,0,0,0,0.1044776119402985
+2020-09-05,7048,Sant Josep de sa Talaia,Eivissa,247,0,0,0,0.1407563025210084
+2020-09-05,7054,Santa Eulària des Riu,Eivissa,219,0,0,0,0.07572815533980583
+2020-09-05,0,total-Eivissa,Eivissa,1308,0,0,0,0.13089400226329687
+2020-09-06,7026,Eivissa,Eivissa,570,0,0,0,0.14738805970149255
+2020-09-06,7046,Sant Antoni de Portmany,Eivissa,237,0,0,0,0.14579439252336449
+2020-09-06,7050,Sant Joan de Labritja,Eivissa,37,0,0,0,0.1044776119402985
+2020-09-06,7048,Sant Josep de sa Talaia,Eivissa,247,0,0,0,0.1407563025210084
+2020-09-06,7054,Santa Eulària des Riu,Eivissa,221,0,0,0,0.07824427480916031
+2020-09-06,0,total-Eivissa,Eivissa,1312,0,0,0,0.131264023934181
+2020-09-07,7026,Eivissa,Eivissa,592,0,0,0,0.14834205933682373
+2020-09-07,7046,Sant Antoni de Portmany,Eivissa,243,0,0,0,0.13138686131386862
+2020-09-07,7050,Sant Joan de Labritja,Eivissa,37,0,0,0,0.06666666666666667
+2020-09-07,7048,Sant Josep de sa Talaia,Eivissa,252,0,0,0,0.1294820717131474
+2020-09-07,7054,Santa Eulària des Riu,Eivissa,227,0,0,0,0.08166969147005444
+2020-09-07,0,total-Eivissa,Eivissa,1351,0,0,0,0.12682579266120414
+2020-09-08,7026,Eivissa,Eivissa,621,0,0,0,0.15145985401459855
+2020-09-08,7046,Sant Antoni de Portmany,Eivissa,247,0,0,0,0.10882956878850103
+2020-09-08,7050,Sant Joan de Labritja,Eivissa,37,0,0,0,0.05357142857142857
+2020-09-08,7048,Sant Josep de sa Talaia,Eivissa,263,0,0,0,0.12896825396825398
+2020-09-08,7054,Santa Eulària des Riu,Eivissa,231,0,0,0,0.07749077490774908
+2020-09-08,0,total-Eivissa,Eivissa,1399,0,0,0,0.12253258845437616
+2020-09-09,7026,Eivissa,Eivissa,638,0,0,0,0.15095986038394416
+2020-09-09,7046,Sant Antoni de Portmany,Eivissa,254,0,0,0,0.10240963855421686
+2020-09-09,7050,Sant Joan de Labritja,Eivissa,37,0,0,0,0.03571428571428571
+2020-09-09,7048,Sant Josep de sa Talaia,Eivissa,268,0,0,0,0.130879345603272
+2020-09-09,7054,Santa Eulària des Riu,Eivissa,242,0,0,0,0.08771929824561403
+2020-09-09,0,total-Eivissa,Eivissa,1439,0,0,0,0.12323305545487495
+2020-09-10,7026,Eivissa,Eivissa,670,0,0,0,0.15047291487532244
+2020-09-10,7046,Sant Antoni de Portmany,Eivissa,260,0,0,0,0.08863198458574181
+2020-09-10,7050,Sant Joan de Labritja,Eivissa,37,0,0,0,0.02127659574468085
+2020-09-10,7048,Sant Josep de sa Talaia,Eivissa,278,0,0,0,0.12527472527472527
+2020-09-10,7054,Santa Eulària des Riu,Eivissa,246,0,0,0,0.09607843137254903
+2020-09-10,0,total-Eivissa,Eivissa,1491,0,0,0,0.12175204157386786
+2020-09-11,7026,Eivissa,Eivissa,693,0,0,0,0.14365152919369786
+2020-09-11,7046,Sant Antoni de Portmany,Eivissa,269,0,0,0,0.08786610878661087
+2020-09-11,7050,Sant Joan de Labritja,Eivissa,37,0,0,0,0.020833333333333332
+2020-09-11,7048,Sant Josep de sa Talaia,Eivissa,279,0,0,0,0.11466666666666667
+2020-09-11,7054,Santa Eulària des Riu,Eivissa,254,0,0,0,0.08932038834951456
+2020-09-11,0,total-Eivissa,Eivissa,1532,0,0,0,0.11503006012024049
+2020-09-12,7026,Eivissa,Eivissa,725,0,0,0,0.14825306893295562
+2020-09-12,7046,Sant Antoni de Portmany,Eivissa,276,0,0,0,0.07894736842105263
+2020-09-12,7050,Sant Joan de Labritja,Eivissa,37,0,0,0,0
+2020-09-12,7048,Sant Josep de sa Talaia,Eivissa,285,0,0,0,0.09620253164556962
+2020-09-12,7054,Santa Eulària des Riu,Eivissa,263,0,0,0,0.08133086876155268
+2020-09-12,0,total-Eivissa,Eivissa,1586,0,0,0,0.10957824201813166
+2020-09-13,7026,Eivissa,Eivissa,725,0,0,0,0.1473384030418251
+2020-09-13,7046,Sant Antoni de Portmany,Eivissa,276,0,0,0,0.07959183673469387
+2020-09-13,7050,Sant Joan de Labritja,Eivissa,37,0,0,0,0
+2020-09-13,7048,Sant Josep de sa Talaia,Eivissa,285,0,0,0,0.09669211195928754
+2020-09-13,7054,Santa Eulària des Riu,Eivissa,263,0,0,0,0.07924528301886792
+2020-09-13,0,total-Eivissa,Eivissa,1586,0,0,0,0.10903302825308396
+2020-09-14,7026,Eivissa,Eivissa,748,0,0,0,0.14484679665738162
+2020-09-14,7046,Sant Antoni de Portmany,Eivissa,278,0,0,0,0.0779510022271715
+2020-09-14,7050,Sant Joan de Labritja,Eivissa,38,0,0,0,0.018518518518518517
+2020-09-14,7048,Sant Josep de sa Talaia,Eivissa,292,0,0,0,0.10443864229765012
+2020-09-14,7054,Santa Eulària des Riu,Eivissa,280,0,0,0,0.09380530973451327
+2020-09-14,0,total-Eivissa,Eivissa,1636,0,0,0,0.1127373417721519
+2020-09-15,7026,Eivissa,Eivissa,789,0,0,0,0.13849958779884583
+2020-09-15,7046,Sant Antoni de Portmany,Eivissa,282,0,0,0,0.08064516129032258
+2020-09-15,7050,Sant Joan de Labritja,Eivissa,39,0,0,0,0.04
+2020-09-15,7048,Sant Josep de sa Talaia,Eivissa,301,0,0,0,0.10079575596816977
+2020-09-15,7054,Santa Eulària des Riu,Eivissa,286,0,0,0,0.09401709401709402
+2020-09-15,0,total-Eivissa,Eivissa,1697,0,0,0,0.11207220759684092
+2020-09-16,7026,Eivissa,Eivissa,805,0,0,0,0.1404541631623213
+2020-09-16,7046,Sant Antoni de Portmany,Eivissa,299,0,0,0,0.10112359550561797
+2020-09-16,7050,Sant Joan de Labritja,Eivissa,40,0,0,0,0.05172413793103448
+2020-09-16,7048,Sant Josep de sa Talaia,Eivissa,303,0,0,0,0.09067357512953368
+2020-09-16,7054,Santa Eulària des Riu,Eivissa,299,0,0,0,0.09375
+2020-09-16,0,total-Eivissa,Eivissa,1746,0,0,0,0.1142963514519732
+2020-09-17,7026,Eivissa,Eivissa,828,0,0,0,0.1369150779896014
+2020-09-17,7046,Sant Antoni de Portmany,Eivissa,301,0,0,0,0.10704960835509138
+2020-09-17,7050,Sant Joan de Labritja,Eivissa,41,0,0,0,0.0625
+2020-09-17,7048,Sant Josep de sa Talaia,Eivissa,309,0,0,0,0.08244680851063829
+2020-09-17,7054,Santa Eulària des Riu,Eivissa,304,0,0,0,0.1
+2020-09-17,0,total-Eivissa,Eivissa,1783,0,0,0,0.11419632381697302
+2020-09-18,7026,Eivissa,Eivissa,863,0,0,0,0.1328125
+2020-09-18,7046,Sant Antoni de Portmany,Eivissa,304,0,0,0,0.09749303621169916
+2020-09-18,7050,Sant Joan de Labritja,Eivissa,42,0,0,0,0.07692307692307693
+2020-09-18,7048,Sant Josep de sa Talaia,Eivissa,310,0,0,0,0.08222811671087533
+2020-09-18,7054,Santa Eulària des Riu,Eivissa,307,0,0,0,0.09481216457960644
+2020-09-18,0,total-Eivissa,Eivissa,1826,0,0,0,0.11136363636363636
+2020-09-19,7026,Eivissa,Eivissa,879,0,0,0,0.12550937245313773
+2020-09-19,7046,Sant Antoni de Portmany,Eivissa,309,0,0,0,0.09969788519637462
+2020-09-19,7050,Sant Joan de Labritja,Eivissa,44,0,0,0,0.09210526315789473
+2020-09-19,7048,Sant Josep de sa Talaia,Eivissa,311,0,0,0,0.08524590163934426
+2020-09-19,7054,Santa Eulària des Riu,Eivissa,311,0,0,0,0.10434782608695652
+2020-09-19,0,total-Eivissa,Eivissa,1854,0,0,0,0.11171321383909963
+2020-09-20,7026,Eivissa,Eivissa,882,0,0,0,0.12590216519647154
+2020-09-20,7046,Sant Antoni de Portmany,Eivissa,309,0,0,0,0.09880239520958084
+2020-09-20,7050,Sant Joan de Labritja,Eivissa,44,0,0,0,0.08974358974358974
+2020-09-20,7048,Sant Josep de sa Talaia,Eivissa,311,0,0,0,0.08253968253968254
+2020-09-20,7054,Santa Eulària des Riu,Eivissa,312,0,0,0,0.10272536687631027
+2020-09-20,0,total-Eivissa,Eivissa,1858,0,0,0,0.1109751121991024
+2020-09-21,7026,Eivissa,Eivissa,909,0,0,0,0.13484087102177555
+2020-09-21,7046,Sant Antoni de Portmany,Eivissa,313,0,0,0,0.11589403973509933
+2020-09-21,7050,Sant Joan de Labritja,Eivissa,45,0,0,0,0.09090909090909091
+2020-09-21,7048,Sant Josep de sa Talaia,Eivissa,314,0,0,0,0.0738255033557047
+2020-09-21,7054,Santa Eulària des Riu,Eivissa,323,0,0,0,0.09148936170212765
+2020-09-21,0,total-Eivissa,Eivissa,1904,0,0,0,0.11448099102947458
+2020-09-22,7026,Eivissa,Eivissa,939,0,0,0,0.13863216266173753
+2020-09-22,7046,Sant Antoni de Portmany,Eivissa,314,0,0,0,0.10921501706484642
+2020-09-22,7050,Sant Joan de Labritja,Eivissa,47,0,0,0,0.09195402298850575
+2020-09-22,7048,Sant Josep de sa Talaia,Eivissa,321,0,0,0,0.06578947368421052
+2020-09-22,7054,Santa Eulària des Riu,Eivissa,329,0,0,0,0.08582834331337326
+2020-09-22,0,total-Eivissa,Eivissa,1950,0,0,0,0.11160123511248346
+2020-09-23,7026,Eivissa,Eivissa,969,0,0,0,0.13981244671781756
+2020-09-23,7046,Sant Antoni de Portmany,Eivissa,317,0,0,0,0.06792452830188679
+2020-09-23,7050,Sant Joan de Labritja,Eivissa,47,0,0,0,0.07777777777777778
+2020-09-23,7048,Sant Josep de sa Talaia,Eivissa,325,0,0,0,0.07260726072607261
+2020-09-23,7054,Santa Eulària des Riu,Eivissa,335,0,0,0,0.072
+2020-09-23,0,total-Eivissa,Eivissa,1993,0,0,0,0.10596310596310596
+2020-09-24,7026,Eivissa,Eivissa,990,0,0,0,0.13311421528348397
+2020-09-24,7046,Sant Antoni de Portmany,Eivissa,320,0,0,0,0.05337078651685393
+2020-09-24,7050,Sant Joan de Labritja,Eivissa,49,0,0,0,0.08791208791208792
+2020-09-24,7048,Sant Josep de sa Talaia,Eivissa,330,0,0,0,0.06840390879478828
+2020-09-24,7054,Santa Eulària des Riu,Eivissa,341,0,0,0,0.06788990825688074
+2020-09-24,0,total-Eivissa,Eivissa,2030,0,0,0,0.09817170111287758
+2020-09-25,7026,Eivissa,Eivissa,1025,0,0,0,0.14050303555941024
+2020-09-25,7046,Sant Antoni de Portmany,Eivissa,323,0,0,0,0.05093833780160858
+2020-09-25,7050,Sant Joan de Labritja,Eivissa,49,0,0,0,0.08333333333333333
+2020-09-25,7048,Sant Josep de sa Talaia,Eivissa,331,0,0,0,0.06542056074766354
+2020-09-25,7054,Santa Eulària des Riu,Eivissa,346,0,0,0,0.07235621521335807
+2020-09-25,0,total-Eivissa,Eivissa,2074,0,0,0,0.10040485829959514
+2020-09-26,7026,Eivissa,Eivissa,1038,0,0,0,0.1454711802378774
+2020-09-26,7046,Sant Antoni de Portmany,Eivissa,328,0,0,0,0.05555555555555555
+2020-09-26,7050,Sant Joan de Labritja,Eivissa,49,0,0,0,0.07142857142857142
+2020-09-26,7048,Sant Josep de sa Talaia,Eivissa,332,0,0,0,0.057534246575342465
+2020-09-26,7054,Santa Eulària des Riu,Eivissa,350,0,0,0,0.06976744186046512
+2020-09-26,0,total-Eivissa,Eivissa,2097,0,0,0,0.10004116920543434
+2020-09-27,7026,Eivissa,Eivissa,1038,0,0,0,0.14606741573033707
+2020-09-27,7046,Sant Antoni de Portmany,Eivissa,328,0,0,0,0.05637982195845697
+2020-09-27,7050,Sant Joan de Labritja,Eivissa,49,0,0,0,0.07352941176470588
+2020-09-27,7048,Sant Josep de sa Talaia,Eivissa,333,0,0,0,0.061452513966480445
+2020-09-27,7054,Santa Eulària des Riu,Eivissa,350,0,0,0,0.06985294117647059
+2020-09-27,0,total-Eivissa,Eivissa,2098,0,0,0,0.10105263157894737
+2020-09-28,7026,Eivissa,Eivissa,1054,0,0,0,0.13653483992467044
+2020-09-28,7046,Sant Antoni de Portmany,Eivissa,332,0,0,0,0.05491329479768786
+2020-09-28,7050,Sant Joan de Labritja,Eivissa,49,0,0,0,0.0625
+2020-09-28,7048,Sant Josep de sa Talaia,Eivissa,335,0,0,0,0.057692307692307696
+2020-09-28,7054,Santa Eulària des Riu,Eivissa,354,0,0,0,0.05805243445692884
+2020-09-28,0,total-Eivissa,Eivissa,2124,0,0,0,0.09282700421940929
+2020-09-29,7026,Eivissa,Eivissa,1068,0,0,0,0.12044817927170869
+2020-09-29,7046,Sant Antoni de Portmany,Eivissa,342,0,0,0,0.06947890818858561
+2020-09-29,7050,Sant Joan de Labritja,Eivissa,50,0,0,0,0.05357142857142857
+2020-09-29,7048,Sant Josep de sa Talaia,Eivissa,339,0,0,0,0.052941176470588235
+2020-09-29,7054,Santa Eulària des Riu,Eivissa,360,0,0,0,0.059845559845559844
+2020-09-29,0,total-Eivissa,Eivissa,2159,0,0,0,0.08752093802345058
+2020-09-30,7026,Eivissa,Eivissa,1078,0,0,0,0.11425576519916142
+2020-09-30,7046,Sant Antoni de Portmany,Eivissa,346,0,0,0,0.0675990675990676
+2020-09-30,7050,Sant Joan de Labritja,Eivissa,50,0,0,0,0.06382978723404255
+2020-09-30,7048,Sant Josep de sa Talaia,Eivissa,343,0,0,0,0.0547112462006079
+2020-09-30,7054,Santa Eulària des Riu,Eivissa,361,0,0,0,0.05450733752620545
+2020-09-30,0,total-Eivissa,Eivissa,2178,0,0,0,0.08273703041144902
+2020-10-01,7026,Eivissa,Eivissa,1092,0,0,0,0.10179640718562874
+2020-10-01,7046,Sant Antoni de Portmany,Eivissa,348,0,0,0,0.08115942028985507
+2020-10-01,7050,Sant Joan de Labritja,Eivissa,50,0,0,0,0.02702702702702703
+2020-10-01,7048,Sant Josep de sa Talaia,Eivissa,345,0,0,0,0.04838709677419355
+2020-10-01,7054,Santa Eulària des Riu,Eivissa,362,0,0,0,0.046460176991150445
+2020-10-01,0,total-Eivissa,Eivissa,2197,0,0,0,0.07781919850885369
+2020-10-02,7026,Eivissa,Eivissa,1113,0,0,0,0.08333333333333333
+2020-10-02,7046,Sant Antoni de Portmany,Eivissa,353,0,0,0,0.08571428571428572
+2020-10-02,7050,Sant Joan de Labritja,Eivissa,50,0,0,0,0.023255813953488372
+2020-10-02,7048,Sant Josep de sa Talaia,Eivissa,350,0,0,0,0.06397306397306397
+2020-10-02,7054,Santa Eulària des Riu,Eivissa,364,0,0,0,0.0375
+2020-10-02,0,total-Eivissa,Eivissa,2230,0,0,0,0.07008086253369272
+2020-10-03,7026,Eivissa,Eivissa,1119,0,0,0,0.07902439024390244
+2020-10-03,7046,Sant Antoni de Portmany,Eivissa,357,0,0,0,0.08430232558139535
+2020-10-03,7050,Sant Joan de Labritja,Eivissa,51,0,0,0,0.05714285714285714
+2020-10-03,7048,Sant Josep de sa Talaia,Eivissa,350,0,0,0,0.0625
+2020-10-03,7054,Santa Eulària des Riu,Eivissa,364,0,0,0,0.03218390804597701
+2020-10-03,0,total-Eivissa,Eivissa,2241,0,0,0,0.06770098730606489
+2020-10-04,7026,Eivissa,Eivissa,1119,0,0,0,0.07766059443911794
+2020-10-04,7046,Sant Antoni de Portmany,Eivissa,358,0,0,0,0.08547008547008547
+2020-10-04,7050,Sant Joan de Labritja,Eivissa,51,0,0,0,0.05555555555555555
+2020-10-04,7048,Sant Josep de sa Talaia,Eivissa,350,0,0,0,0.056666666666666664
+2020-10-04,7054,Santa Eulària des Riu,Eivissa,364,0,0,0,0.03189066059225513
+2020-10-04,0,total-Eivissa,Eivissa,2242,0,0,0,0.06639004149377593
+2020-10-05,7026,Eivissa,Eivissa,1129,0,0,0,0.07015902712815715
+2020-10-05,7046,Sant Antoni de Portmany,Eivissa,360,0,0,0,0.08022922636103152
+2020-10-05,7050,Sant Joan de Labritja,Eivissa,51,0,0,0,0.05405405405405406
+2020-10-05,7048,Sant Josep de sa Talaia,Eivissa,353,0,0,0,0.058823529411764705
+2020-10-05,7054,Santa Eulària des Riu,Eivissa,368,0,0,0,0.03317535545023697
+2020-10-05,0,total-Eivissa,Eivissa,2261,0,0,0,0.06275767292716446
+2020-10-06,7026,Eivissa,Eivissa,1149,0,0,0,0.07303877366997295
+2020-10-06,7046,Sant Antoni de Portmany,Eivissa,368,0,0,0,0.08125
+2020-10-06,7050,Sant Joan de Labritja,Eivissa,52,0,0,0,0.05263157894736842
+2020-10-06,7048,Sant Josep de sa Talaia,Eivissa,354,0,0,0,0.04983388704318937
+2020-10-06,7054,Santa Eulària des Riu,Eivissa,371,0,0,0,0.02894736842105263
+2020-10-06,0,total-Eivissa,Eivissa,2294,0,0,0,0.06284916201117319
+2020-10-07,7026,Eivissa,Eivissa,1167,885.0,201.0,4.0,0.07183212267958031
+2020-10-07,7046,Sant Antoni de Portmany,Eivissa,369,295.0,57.0,1.0,0.07255520504731862
+2020-10-07,7050,Sant Joan de Labritja,Eivissa,53,33.0,6.0,0.0,0.06976744186046512
+2020-10-07,7048,Sant Josep de sa Talaia,Eivissa,356,317.0,40.0,1.0,0.040123456790123455
+2020-10-07,7054,Santa Eulària des Riu,Eivissa,381,241.0,45.0,9.0,0.04866180048661801
+2020-10-07,0,total-Eivissa,Eivissa,2326,1771.0,349.0,15.0,0.06341045415595545
+2020-10-08,7026,Eivissa,Eivissa,1178,891.0,208.0,4.0,0.06991869918699187
+2020-10-08,7046,Sant Antoni de Portmany,Eivissa,372,299.0,55.0,1.0,0.0676056338028169
+2020-10-08,7050,Sant Joan de Labritja,Eivissa,54,34.0,5.0,0.0,0.08333333333333333
+2020-10-08,7048,Sant Josep de sa Talaia,Eivissa,359,319.0,39.0,1.0,0.03888888888888889
+2020-10-08,7054,Santa Eulària des Riu,Eivissa,386,244.0,47.0,9.0,0.05896805896805897
+2020-10-08,0,total-Eivissa,Eivissa,2349,1787.0,354.0,15.0,0.06333333333333334
+2020-10-09,7026,Eivissa,Eivissa,1184,891.0,208.0,4.0,0.059915611814345994
+2020-10-09,7046,Sant Antoni de Portmany,Eivissa,373,299.0,55.0,1.0,0.06451612903225806
+2020-10-09,7050,Sant Joan de Labritja,Eivissa,54,34.0,5.0,0.0,0.09090909090909091
+2020-10-09,7048,Sant Josep de sa Talaia,Eivissa,359,319.0,39.0,1.0,0.026392961876832845
+2020-10-09,7054,Santa Eulària des Riu,Eivissa,387,244.0,47.0,9.0,0.06182795698924731
+2020-10-09,0,total-Eivissa,Eivissa,2357,1787.0,354.0,15.0,0.0563943161634103
+2020-10-10,7026,Eivissa,Eivissa,1185,891.0,208.0,4.0,0.0594059405940594
+2020-10-10,7046,Sant Antoni de Portmany,Eivissa,373,299.0,55.0,1.0,0.057971014492753624
+2020-10-10,7050,Sant Joan de Labritja,Eivissa,54,34.0,5.0,0.0,0.07317073170731707
+2020-10-10,7048,Sant Josep de sa Talaia,Eivissa,359,319.0,39.0,1.0,0.03272727272727273
+2020-10-10,7054,Santa Eulària des Riu,Eivissa,387,244.0,47.0,9.0,0.06744868035190615
+2020-10-10,0,total-Eivissa,Eivissa,2358,1787.0,354.0,15.0,0.05724070450097847
+2020-10-11,7026,Eivissa,Eivissa,1197,891.0,208.0,4.0,0.06372549019607843
+2020-10-11,7046,Sant Antoni de Portmany,Eivissa,376,299.0,55.0,1.0,0.0547112462006079
+2020-10-11,7050,Sant Joan de Labritja,Eivissa,55,34.0,5.0,0.0,0.09090909090909091
+2020-10-11,7048,Sant Josep de sa Talaia,Eivissa,360,319.0,39.0,1.0,0.03436426116838488
+2020-10-11,7054,Santa Eulària des Riu,Eivissa,389,244.0,47.0,9.0,0.06009615384615385
+2020-10-11,0,total-Eivissa,Eivissa,2377,1787.0,354.0,15.0,0.05859375
+2020-10-12,7026,Eivissa,Eivissa,1197,941.0,182.0,4.0,0.062157221206581355
+2020-10-12,7046,Sant Antoni de Portmany,Eivissa,376,309.0,47.0,1.0,0.05555555555555555
+2020-10-12,7050,Sant Joan de Labritja,Eivissa,55,35.0,6.0,0.0,0.0975609756097561
+2020-10-12,7048,Sant Josep de sa Talaia,Eivissa,360,325.0,35.0,1.0,0.028112449799196786
+2020-10-12,7054,Santa Eulària des Riu,Eivissa,389,251.0,51.0,9.0,0.05785123966942149
+2020-10-12,0,total-Eivissa,Eivissa,2377,1861.0,321.0,15.0,0.057002457002457
+2020-10-13,7026,Eivissa,Eivissa,1208,951.0,178.0,4.0,0.059837728194726165
+2020-10-13,7046,Sant Antoni de Portmany,Eivissa,378,313.0,50.0,2.0,0.03802281368821293
+2020-10-13,7050,Sant Joan de Labritja,Eivissa,56,35.0,6.0,0.0,0.10810810810810811
+2020-10-13,7048,Sant Josep de sa Talaia,Eivissa,362,325.0,35.0,1.0,0.03333333333333333
+2020-10-13,7054,Santa Eulària des Riu,Eivissa,396,253.0,54.0,9.0,0.06684491978609626
+2020-10-13,0,total-Eivissa,Eivissa,2400,1877.0,323.0,16.0,0.05578947368421053
+2020-10-14,7026,Eivissa,Eivissa,1222,956.0,178.0,4.0,0.06373117033603708
+2020-10-14,7046,Sant Antoni de Portmany,Eivissa,384,313.0,53.0,2.0,0.056818181818181816
+2020-10-14,7050,Sant Joan de Labritja,Eivissa,57,35.0,6.0,0.0,0.12121212121212122
+2020-10-14,7048,Sant Josep de sa Talaia,Eivissa,364,326.0,35.0,1.0,0.03902439024390244
+2020-10-14,7054,Santa Eulària des Riu,Eivissa,400,255.0,55.0,9.0,0.05191256830601093
+2020-10-14,0,total-Eivissa,Eivissa,2427,1885.0,327.0,16.0,0.05834777585210861
+2020-10-15,7026,Eivissa,Eivissa,1228,972.0,170.0,4.0,0.07342143906020558
+2020-10-15,7046,Sant Antoni de Portmany,Eivissa,388,321.0,51.0,2.0,0.06201550387596899
+2020-10-15,7050,Sant Joan de Labritja,Eivissa,57,36.0,5.0,0.0,0.1111111111111111
+2020-10-15,7048,Sant Josep de sa Talaia,Eivissa,365,331.0,31.0,1.0,0.03636363636363636
+2020-10-15,7054,Santa Eulària des Riu,Eivissa,406,257.0,55.0,9.0,0.05865102639296188
+2020-10-15,0,total-Eivissa,Eivissa,2444,1917.0,312.0,16.0,0.06453804347826086
+2020-10-16,7026,Eivissa,Eivissa,1245,972.0,170.0,4.0,0.10338983050847457
+2020-10-16,7046,Sant Antoni de Portmany,Eivissa,390,321.0,51.0,2.0,0.06093189964157706
+2020-10-16,7050,Sant Joan de Labritja,Eivissa,57,36.0,5.0,0.0,0.08571428571428572
+2020-10-16,7048,Sant Josep de sa Talaia,Eivissa,366,331.0,31.0,1.0,0.041666666666666664
+2020-10-16,7054,Santa Eulària des Riu,Eivissa,414,257.0,55.0,9.0,0.07258064516129033
+2020-10-16,0,total-Eivissa,Eivissa,2472,1917.0,312.0,16.0,0.0796398891966759
+2020-10-17,7026,Eivissa,Eivissa,1245,972.0,170.0,4.0,0.09584664536741214
+2020-10-17,7046,Sant Antoni de Portmany,Eivissa,391,321.0,51.0,2.0,0.059602649006622516
+2020-10-17,7050,Sant Joan de Labritja,Eivissa,57,36.0,5.0,0.0,0.07317073170731707
+2020-10-17,7048,Sant Josep de sa Talaia,Eivissa,369,331.0,31.0,1.0,0.053763440860215055
+2020-10-17,7054,Santa Eulària des Riu,Eivissa,417,257.0,55.0,9.0,0.07334963325183375
+2020-10-17,0,total-Eivissa,Eivissa,2479,1917.0,312.0,16.0,0.07736572890025575
+2020-10-18,7026,Eivissa,Eivissa,1245,1001.0,168.0,4.0,0.0963855421686747
+2020-10-18,7046,Sant Antoni de Portmany,Eivissa,391,329.0,47.0,2.0,0.06072874493927125
+2020-10-18,7050,Sant Joan de Labritja,Eivissa,57,37.0,4.0,0.0,0.05263157894736842
+2020-10-18,7048,Sant Josep de sa Talaia,Eivissa,369,336.0,33.0,1.0,0.05660377358490566
+2020-10-18,7054,Santa Eulària des Riu,Eivissa,417,264.0,64.0,9.0,0.08459214501510574
+2020-10-18,0,total-Eivissa,Eivissa,2479,1967.0,316.0,16.0,0.08012568735271014
+2020-10-19,7026,Eivissa,Eivissa,1266,1016.0,173.0,4.0,0.10664605873261206
+2020-10-19,7046,Sant Antoni de Portmany,Eivissa,402,333.0,45.0,2.0,0.08125
+2020-10-19,7050,Sant Joan de Labritja,Eivissa,57,37.0,4.0,0.0,0.0392156862745098
+2020-10-19,7048,Sant Josep de sa Talaia,Eivissa,374,336.0,37.0,1.0,0.06763285024154589
+2020-10-19,7054,Santa Eulària des Riu,Eivissa,424,269.0,62.0,9.0,0.08333333333333333
+2020-10-19,0,total-Eivissa,Eivissa,2523,1991.0,321.0,16.0,0.08875379939209727
+2020-10-20,7026,Eivissa,Eivissa,1278,1029.0,176.0,4.0,0.11128775834658187
+2020-10-20,7046,Sant Antoni de Portmany,Eivissa,403,334.0,54.0,2.0,0.07936507936507936
+2020-10-20,7050,Sant Joan de Labritja,Eivissa,57,38.0,3.0,0.0,0.02127659574468085
+2020-10-20,7048,Sant Josep de sa Talaia,Eivissa,378,336.0,40.0,1.0,0.07239819004524888
+2020-10-20,7054,Santa Eulària des Riu,Eivissa,429,275.0,60.0,9.0,0.0825
+2020-10-20,0,total-Eivissa,Eivissa,2545,2012.0,333.0,16.0,0.08995037220843673
+2020-10-21,7026,Eivissa,Eivissa,1285,1042.0,176.0,4.0,0.10112359550561797
+2020-10-21,7046,Sant Antoni de Portmany,Eivissa,420,335.0,57.0,2.0,0.1157556270096463
+2020-10-21,7050,Sant Joan de Labritja,Eivissa,58,38.0,3.0,0.0,0.019230769230769232
+2020-10-21,7048,Sant Josep de sa Talaia,Eivissa,379,338.0,45.0,1.0,0.06666666666666667
+2020-10-21,7054,Santa Eulària des Riu,Eivissa,437,278.0,62.0,9.0,0.09367088607594937
+2020-10-21,0,total-Eivissa,Eivissa,2579,2031.0,343.0,16.0,0.09464508094645081
+2020-10-22,7026,Eivissa,Eivissa,1300,1047.0,185.0,3.0,0.11214953271028037
+2020-10-22,7046,Sant Antoni de Portmany,Eivissa,430,336.0,69.0,3.0,0.1346153846153846
+2020-10-22,7050,Sant Joan de Labritja,Eivissa,59,39.0,2.0,0.0,0.034482758620689655
+2020-10-22,7048,Sant Josep de sa Talaia,Eivissa,383,340.0,46.0,1.0,0.08490566037735849
+2020-10-22,7054,Santa Eulària des Riu,Eivissa,445,281.0,66.0,9.0,0.09774436090225563
+2020-10-22,0,total-Eivissa,Eivissa,2617,2043.0,368.0,16.0,0.10659272951324707
+2020-10-23,7026,Eivissa,Eivissa,1313,1047.0,185.0,3.0,0.10725552050473186
+2020-10-23,7046,Sant Antoni de Portmany,Eivissa,437,336.0,69.0,3.0,0.14826498422712933
+2020-10-23,7050,Sant Joan de Labritja,Eivissa,59,39.0,2.0,0.0,0.04081632653061224
+2020-10-23,7048,Sant Josep de sa Talaia,Eivissa,385,340.0,46.0,1.0,0.07983193277310924
+2020-10-23,7054,Santa Eulària des Riu,Eivissa,448,281.0,66.0,9.0,0.08831168831168831
+2020-10-23,0,total-Eivissa,Eivissa,2642,2043.0,368.0,16.0,0.10474430067775724
+2020-10-24,7026,Eivissa,Eivissa,1317,1047.0,185.0,3.0,0.1095890410958904
+2020-10-24,7046,Sant Antoni de Portmany,Eivissa,449,336.0,69.0,3.0,0.17417417417417416
+2020-10-24,7050,Sant Joan de Labritja,Eivissa,59,39.0,2.0,0.0,0.04
+2020-10-24,7048,Sant Josep de sa Talaia,Eivissa,385,340.0,46.0,1.0,0.06926406926406926
+2020-10-24,7054,Santa Eulària des Riu,Eivissa,449,281.0,66.0,9.0,0.08672086720867209
+2020-10-24,0,total-Eivissa,Eivissa,2659,2043.0,368.0,16.0,0.10975609756097561
+2020-10-25,7026,Eivissa,Eivissa,1318,1080.0,178.0,3.0,0.10977443609022557
+2020-10-25,7046,Sant Antoni de Portmany,Eivissa,449,346.0,74.0,3.0,0.17365269461077845
+2020-10-25,7050,Sant Joan de Labritja,Eivissa,59,39.0,3.0,0.0,0.04081632653061224
+2020-10-25,7048,Sant Josep de sa Talaia,Eivissa,385,349.0,42.0,1.0,0.06866952789699571
+2020-10-25,7054,Santa Eulària des Riu,Eivissa,449,296.0,62.0,9.0,0.08533333333333333
+2020-10-25,0,total-Eivissa,Eivissa,2660,2110.0,359.0,16.0,0.10929951690821256
+2020-10-26,7026,Eivissa,Eivissa,1343,1080.0,178.0,3.0,0.1232
+2020-10-26,7046,Sant Antoni de Portmany,Eivissa,467,346.0,74.0,3.0,0.20186335403726707
+2020-10-26,7050,Sant Joan de Labritja,Eivissa,59,39.0,3.0,0.0,0.05263157894736842
+2020-10-26,7048,Sant Josep de sa Talaia,Eivissa,392,349.0,42.0,1.0,0.07659574468085106
+2020-10-26,7054,Santa Eulària des Riu,Eivissa,463,296.0,62.0,9.0,0.11403508771929824
+2020-10-26,0,total-Eivissa,Eivissa,2724,2110.0,359.0,16.0,0.12868117797695264
+2020-10-27,7026,Eivissa,Eivissa,1366,1100.0,200.0,3.0,0.13601236476043277
+2020-10-27,7046,Sant Antoni de Portmany,Eivissa,473,359.0,79.0,3.0,0.19662921348314608
+2020-10-27,7050,Sant Joan de Labritja,Eivissa,62,39.0,4.0,0.0,0.0847457627118644
+2020-10-27,7048,Sant Josep de sa Talaia,Eivissa,394,352.0,47.0,1.0,0.06584362139917696
+2020-10-27,7054,Santa Eulària des Riu,Eivissa,474,302.0,78.0,9.0,0.11335012594458438
+2020-10-27,0,total-Eivissa,Eivissa,2769,2152.0,408.0,16.0,0.13160987074030553
+2020-10-28,7026,Eivissa,Eivissa,1407,1107.0,210.0,3.0,0.1664392905866303
+2020-10-28,7046,Sant Antoni de Portmany,Eivissa,484,360.0,84.0,3.0,0.1893491124260355
+2020-10-28,7050,Sant Joan de Labritja,Eivissa,62,39.0,4.0,0.0,0.07692307692307693
+2020-10-28,7048,Sant Josep de sa Talaia,Eivissa,400,353.0,49.0,1.0,0.08300395256916997
+2020-10-28,7054,Santa Eulària des Riu,Eivissa,481,305.0,83.0,9.0,0.11282051282051282
+2020-10-28,0,total-Eivissa,Eivissa,2834,2164.0,430.0,16.0,0.14439411098527746
+2020-10-29,7026,Eivissa,Eivissa,1434,1107.0,210.0,3.0,0.1554524361948956
+2020-10-29,7046,Sant Antoni de Portmany,Eivissa,487,360.0,84.0,3.0,0.168141592920354
+2020-10-29,7050,Sant Joan de Labritja,Eivissa,64,39.0,4.0,0.0,0.07575757575757576
+2020-10-29,7048,Sant Josep de sa Talaia,Eivissa,404,353.0,49.0,1.0,0.06862745098039216
+2020-10-29,7054,Santa Eulària des Riu,Eivissa,494,305.0,83.0,9.0,0.09939148073022312
+2020-10-29,0,total-Eivissa,Eivissa,2883,2164.0,430.0,16.0,0.1287512100677638
+2020-10-30,7026,Eivissa,Eivissa,1461,1107.0,210.0,3.0,0.16192560175054704
+2020-10-30,7046,Sant Antoni de Portmany,Eivissa,500,360.0,84.0,3.0,0.12857142857142856
+2020-10-30,7050,Sant Joan de Labritja,Eivissa,65,39.0,4.0,0.0,0.08
+2020-10-30,7048,Sant Josep de sa Talaia,Eivissa,408,353.0,49.0,1.0,0.07076923076923076
+2020-10-30,7054,Santa Eulària des Riu,Eivissa,501,305.0,83.0,9.0,0.08967851099830795
+2020-10-30,0,total-Eivissa,Eivissa,2935,2164.0,430.0,16.0,0.12233820459290187
+2020-10-31,7026,Eivissa,Eivissa,1472,1107.0,210.0,3.0,0.15255905511811024
+2020-10-31,7046,Sant Antoni de Portmany,Eivissa,502,360.0,84.0,3.0,0.10251450676982592
+2020-10-31,7050,Sant Joan de Labritja,Eivissa,65,39.0,4.0,0.0,0.08108108108108109
+2020-10-31,7048,Sant Josep de sa Talaia,Eivissa,412,353.0,49.0,1.0,0.07758620689655173
+2020-10-31,7054,Santa Eulària des Riu,Eivissa,506,305.0,83.0,9.0,0.09149277688603531
+2020-10-31,0,total-Eivissa,Eivissa,2957,2164.0,430.0,16.0,0.11559348332040341
+2020-11-01,7026,Eivissa,Eivissa,1474,1151.0,278.0,3.0,0.15309126594700687
+2020-11-01,7046,Sant Antoni de Portmany,Eivissa,503,379.0,91.0,3.0,0.10285714285714286
+2020-11-01,7050,Sant Joan de Labritja,Eivissa,66,40.0,7.0,0.0,0.09090909090909091
+2020-11-01,7048,Sant Josep de sa Talaia,Eivissa,412,362.0,53.0,1.0,0.07758620689655173
+2020-11-01,7054,Santa Eulària des Riu,Eivissa,506,324.0,94.0,10.0,0.09208400646203554
+2020-11-01,0,total-Eivissa,Eivissa,2961,2256.0,523.0,17.0,0.11630602782071098
+2020-11-02,7026,Eivissa,Eivissa,1499,1158.0,292.0,3.0,0.1422060164083865
+2020-11-02,7046,Sant Antoni de Portmany,Eivissa,504,386.0,90.0,3.0,0.07269155206286837
+2020-11-02,7050,Sant Joan de Labritja,Eivissa,67,40.0,7.0,0.0,0.09411764705882353
+2020-11-02,7048,Sant Josep de sa Talaia,Eivissa,415,364.0,53.0,1.0,0.06824925816023739
+2020-11-02,7054,Santa Eulària des Riu,Eivissa,516,329.0,98.0,10.0,0.08091603053435115
+2020-11-02,0,total-Eivissa,Eivissa,3001,2277.0,540.0,17.0,0.10324263883712262
+2020-11-03,7026,Eivissa,Eivissa,1530,1174.0,299.0,3.0,0.13851351351351351
+2020-11-03,7046,Sant Antoni de Portmany,Eivissa,515,396.0,87.0,3.0,0.0821917808219178
+2020-11-03,7050,Sant Joan de Labritja,Eivissa,67,41.0,7.0,0.0,0.06493506493506493
+2020-11-03,7048,Sant Josep de sa Talaia,Eivissa,423,368.0,52.0,1.0,0.08605341246290801
+2020-11-03,7054,Santa Eulària des Riu,Eivissa,525,333.0,99.0,10.0,0.07203389830508475
+2020-11-03,0,total-Eivissa,Eivissa,3060,2312.0,544.0,17.0,0.1033013844515442
+2020-11-04,7026,Eivissa,Eivissa,1541,1186.0,327.0,3.0,0.1115736885928393
+2020-11-04,7046,Sant Antoni de Portmany,Eivissa,520,399.0,94.0,3.0,0.06818181818181818
+2020-11-04,7050,Sant Joan de Labritja,Eivissa,69,42.0,6.0,0.0,0.08333333333333333
+2020-11-04,7048,Sant Josep de sa Talaia,Eivissa,426,372.0,55.0,1.0,0.07471264367816093
+2020-11-04,7054,Santa Eulària des Riu,Eivissa,530,338.0,101.0,10.0,0.06586021505376344
+2020-11-04,0,total-Eivissa,Eivissa,3086,2337.0,583.0,17.0,0.08674698795180723
+2020-11-05,7026,Eivissa,Eivissa,1558,1199.0,326.0,3.0,0.10698878343399482
+2020-11-05,7046,Sant Antoni de Portmany,Eivissa,523,405.0,91.0,3.0,0.061016949152542375
+2020-11-05,7050,Sant Joan de Labritja,Eivissa,70,42.0,7.0,0.0,0.08695652173913043
+2020-11-05,7048,Sant Josep de sa Talaia,Eivissa,433,376.0,57.0,1.0,0.07754010695187166
+2020-11-05,7054,Santa Eulària des Riu,Eivissa,535,342.0,104.0,10.0,0.059593023255813955
+2020-11-05,0,total-Eivissa,Eivissa,3119,2364.0,585.0,17.0,0.08194444444444444
+2020-11-06,7026,Eivissa,Eivissa,1578,1199.0,326.0,3.0,0.0982367758186398
+2020-11-06,7046,Sant Antoni de Portmany,Eivissa,528,405.0,91.0,3.0,0.050724637681159424
+2020-11-06,7050,Sant Joan de Labritja,Eivissa,70,42.0,7.0,0.0,0.08196721311475409
+2020-11-06,7048,Sant Josep de sa Talaia,Eivissa,439,376.0,57.0,1.0,0.0856353591160221
+2020-11-06,7054,Santa Eulària des Riu,Eivissa,544,342.0,104.0,10.0,0.06332842415316642
+2020-11-06,0,total-Eivissa,Eivissa,3159,2364.0,585.0,17.0,0.07873462214411248
+2020-11-07,7026,Eivissa,Eivissa,1581,1199.0,326.0,3.0,0.09420916162489196
+2020-11-07,7046,Sant Antoni de Portmany,Eivissa,531,405.0,91.0,3.0,0.05566218809980806
+2020-11-07,7050,Sant Joan de Labritja,Eivissa,70,42.0,7.0,0.0,0.07936507936507936
+2020-11-07,7048,Sant Josep de sa Talaia,Eivissa,440,376.0,57.0,1.0,0.07777777777777778
+2020-11-07,7054,Santa Eulària des Riu,Eivissa,548,342.0,104.0,10.0,0.061855670103092786
+2020-11-07,0,total-Eivissa,Eivissa,3170,2364.0,585.0,17.0,0.07661870503597122
+2020-11-08,7026,Eivissa,Eivissa,1583,1238.0,318.0,3.0,0.0950305143853531
+2020-11-08,7046,Sant Antoni de Portmany,Eivissa,532,417.0,85.0,3.0,0.056862745098039215
+2020-11-08,7050,Sant Joan de Labritja,Eivissa,70,42.0,8.0,0.0,0.06557377049180328
+2020-11-08,7048,Sant Josep de sa Talaia,Eivissa,440,383.0,58.0,1.0,0.07777777777777778
+2020-11-08,7054,Santa Eulària des Riu,Eivissa,548,357.0,104.0,10.0,0.061764705882352944
+2020-11-08,0,total-Eivissa,Eivissa,3173,2437.0,573.0,17.0,0.07686729514140682
+2020-11-09,7026,Eivissa,Eivissa,1607,1252.0,313.0,3.0,0.09358752166377816
+2020-11-09,7046,Sant Antoni de Portmany,Eivissa,534,419.0,88.0,3.0,0.05917159763313609
+2020-11-09,7050,Sant Joan de Labritja,Eivissa,70,45.0,5.0,0.0,0.04411764705882353
+2020-11-09,7048,Sant Josep de sa Talaia,Eivissa,442,387.0,58.0,1.0,0.061224489795918366
+2020-11-09,7054,Santa Eulària des Riu,Eivissa,563,363.0,105.0,10.0,0.06420765027322405
+2020-11-09,0,total-Eivissa,Eivissa,3216,2466.0,569.0,17.0,0.0740868366643694
+2020-11-10,7026,Eivissa,Eivissa,1615,1270.0,315.0,3.0,0.078196872125115
+2020-11-10,7046,Sant Antoni de Portmany,Eivissa,542,424.0,92.0,3.0,0.05357142857142857
+2020-11-10,7050,Sant Joan de Labritja,Eivissa,70,45.0,5.0,0.0,0.04285714285714286
+2020-11-10,7048,Sant Josep de sa Talaia,Eivissa,449,389.0,62.0,1.0,0.05701754385964912
+2020-11-10,7054,Santa Eulària des Riu,Eivissa,569,369.0,110.0,10.0,0.061196105702364396
+2020-11-10,0,total-Eivissa,Eivissa,3245,2497.0,584.0,17.0,0.0652327221438646
+2020-11-11,7026,Eivissa,Eivissa,1623,1280.0,316.0,4.0,0.0743427017225748
+2020-11-11,7046,Sant Antoni de Portmany,Eivissa,551,425.0,101.0,4.0,0.05688073394495413
+2020-11-11,7050,Sant Joan de Labritja,Eivissa,70,45.0,5.0,0.0,0.014925373134328358
+2020-11-11,7048,Sant Josep de sa Talaia,Eivissa,452,393.0,62.0,1.0,0.05450733752620545
+2020-11-11,7054,Santa Eulària des Riu,Eivissa,571,372.0,114.0,10.0,0.057746478873239436
+2020-11-11,0,total-Eivissa,Eivissa,3267,2515.0,598.0,19.0,0.06237077877325982
+2020-11-12,7026,Eivissa,Eivissa,1637,1313.0,288.0,8.0,0.06905594405594405
+2020-11-12,7046,Sant Antoni de Portmany,Eivissa,559,435.0,94.0,4.0,0.072
+2020-11-12,7050,Sant Joan de Labritja,Eivissa,70,45.0,5.0,0.0,0
+2020-11-12,7048,Sant Josep de sa Talaia,Eivissa,460,395.0,68.0,1.0,0.05806451612903226
+2020-11-12,7054,Santa Eulària des Riu,Eivissa,583,383.0,107.0,11.0,0.0599250936329588
+2020-11-12,0,total-Eivissa,Eivissa,3309,2571.0,562.0,24.0,0.06371562709590879
+2020-11-13,7026,Eivissa,Eivissa,1650,1313.0,288.0,8.0,0.061908856405846945
+2020-11-13,7046,Sant Antoni de Portmany,Eivissa,566,435.0,94.0,4.0,0.07645875251509054
+2020-11-13,7050,Sant Joan de Labritja,Eivissa,72,45.0,5.0,0.0,0.024096385542168676
+2020-11-13,7048,Sant Josep de sa Talaia,Eivissa,463,395.0,68.0,1.0,0.050955414012738856
+2020-11-13,7054,Santa Eulària des Riu,Eivissa,589,383.0,107.0,11.0,0.06048387096774194
+2020-11-13,0,total-Eivissa,Eivissa,3340,2571.0,562.0,24.0,0.06118999323867478
+2020-11-14,7026,Eivissa,Eivissa,1656,1313.0,288.0,8.0,0.0639386189258312
+2020-11-14,7046,Sant Antoni de Portmany,Eivissa,568,435.0,94.0,4.0,0.0696798493408663
+2020-11-14,7050,Sant Joan de Labritja,Eivissa,73,45.0,5.0,0.0,0.03529411764705882
+2020-11-14,7048,Sant Josep de sa Talaia,Eivissa,465,395.0,68.0,1.0,0.053763440860215055
+2020-11-14,7054,Santa Eulària des Riu,Eivissa,591,383.0,107.0,11.0,0.05756358768406961
+2020-11-14,0,total-Eivissa,Eivissa,3353,2571.0,562.0,24.0,0.06097967344218594
+2020-11-15,7026,Eivissa,Eivissa,1657,1372.0,255.0,8.0,0.06308610400682012
+2020-11-15,7046,Sant Antoni de Portmany,Eivissa,569,447.0,94.0,5.0,0.06902985074626866
+2020-11-15,7050,Sant Joan de Labritja,Eivissa,73,45.0,9.0,0.0,0.03571428571428571
+2020-11-15,7048,Sant Josep de sa Talaia,Eivissa,465,402.0,69.0,1.0,0.05387931034482758
+2020-11-15,7054,Santa Eulària des Riu,Eivissa,591,399.0,101.0,11.0,0.05771812080536913
+2020-11-15,0,total-Eivissa,Eivissa,3355,2665.0,528.0,25.0,0.060626249167221855
+2020-11-16,7026,Eivissa,Eivissa,1664,1406.0,226.0,9.0,0.05008787346221441
+2020-11-16,7046,Sant Antoni de Portmany,Eivissa,572,454.0,91.0,5.0,0.06540447504302926
+2020-11-16,7050,Sant Joan de Labritja,Eivissa,73,45.0,9.0,0.0,0.04
+2020-11-16,7048,Sant Josep de sa Talaia,Eivissa,468,409.0,66.0,1.0,0.0611764705882353
+2020-11-16,7054,Santa Eulària des Riu,Eivissa,595,408.0,98.0,11.0,0.04526166902404526
+2020-11-16,0,total-Eivissa,Eivissa,3372,2722.0,490.0,26.0,0.05331510594668489
+2020-11-17,7026,Eivissa,Eivissa,1677,1431.0,211.0,9.0,0.05179615705931495
+2020-11-17,7046,Sant Antoni de Portmany,Eivissa,579,456.0,90.0,5.0,0.06303236797274275
+2020-11-17,7050,Sant Joan de Labritja,Eivissa,74,46.0,9.0,0.0,0.05194805194805195
+2020-11-17,7048,Sant Josep de sa Talaia,Eivissa,470,411.0,67.0,1.0,0.049528301886792456
+2020-11-17,7054,Santa Eulària des Riu,Eivissa,604,417.0,92.0,11.0,0.04504504504504504
+2020-11-17,0,total-Eivissa,Eivissa,3404,2761.0,469.0,26.0,0.0519268451992162
+2020-11-18,7026,Eivissa,Eivissa,1687,1443.0,208.0,9.0,0.05333333333333334
+2020-11-18,7046,Sant Antoni de Portmany,Eivissa,589,463.0,87.0,5.0,0.06495726495726496
+2020-11-18,7050,Sant Joan de Labritja,Eivissa,74,46.0,9.0,0.0,0.05194805194805195
+2020-11-18,7048,Sant Josep de sa Talaia,Eivissa,471,418.0,63.0,1.0,0.04439252336448598
+2020-11-18,7054,Santa Eulària des Riu,Eivissa,609,422.0,93.0,11.0,0.05033112582781457
+2020-11-18,0,total-Eivissa,Eivissa,3430,2792.0,460.0,26.0,0.053530377668308704
+2020-11-19,7026,Eivissa,Eivissa,1703,1452.0,210.0,9.0,0.05432098765432099
+2020-11-19,7046,Sant Antoni de Portmany,Eivissa,595,470.0,93.0,5.0,0.061224489795918366
+2020-11-19,7050,Sant Joan de Labritja,Eivissa,74,47.0,8.0,0.0,0.057971014492753624
+2020-11-19,7048,Sant Josep de sa Talaia,Eivissa,472,426.0,57.0,1.0,0.026490066225165563
+2020-11-19,7054,Santa Eulària des Riu,Eivissa,616,428.0,94.0,11.0,0.04940119760479042
+2020-11-19,0,total-Eivissa,Eivissa,3460,2823.0,462.0,26.0,0.05045105245573004
+2020-11-20,7026,Eivissa,Eivissa,1706,1452.0,210.0,9.0,0.05090909090909091
+2020-11-20,7046,Sant Antoni de Portmany,Eivissa,596,470.0,93.0,5.0,0.055970149253731345
+2020-11-20,7050,Sant Joan de Labritja,Eivissa,74,47.0,8.0,0.0,0.03389830508474576
+2020-11-20,7048,Sant Josep de sa Talaia,Eivissa,475,426.0,57.0,1.0,0.027522935779816515
+2020-11-20,7054,Santa Eulària des Riu,Eivissa,616,428.0,94.0,11.0,0.0391304347826087
+2020-11-20,0,total-Eivissa,Eivissa,3467,2823.0,462.0,26.0,0.04501949663239986
+2020-11-21,7026,Eivissa,Eivissa,1712,1452.0,210.0,9.0,0.050314465408805034
+2020-11-21,7046,Sant Antoni de Portmany,Eivissa,597,470.0,93.0,5.0,0.05697445972495088
+2020-11-21,7050,Sant Joan de Labritja,Eivissa,74,47.0,8.0,0.0,0.017241379310344827
+2020-11-21,7048,Sant Josep de sa Talaia,Eivissa,476,426.0,57.0,1.0,0.024886877828054297
+2020-11-21,7054,Santa Eulària des Riu,Eivissa,619,428.0,94.0,11.0,0.039942938659058486
+2020-11-21,0,total-Eivissa,Eivissa,3478,2823.0,462.0,26.0,0.044279135671271695
+2020-11-22,7026,Eivissa,Eivissa,1716,1480.0,202.0,9.0,0.052772808586762074
+2020-11-22,7046,Sant Antoni de Portmany,Eivissa,597,475.0,96.0,5.0,0.055445544554455446
+2020-11-22,7050,Sant Joan de Labritja,Eivissa,74,47.0,8.0,0.0,0.017241379310344827
+2020-11-22,7048,Sant Josep de sa Talaia,Eivissa,476,435.0,51.0,1.0,0.024774774774774775
+2020-11-22,7054,Santa Eulària des Riu,Eivissa,620,443.0,82.0,11.0,0.04131054131054131
+2020-11-22,0,total-Eivissa,Eivissa,3483,2880.0,439.0,26.0,0.045277679518924654
+2020-11-23,7026,Eivissa,Eivissa,1724,1480.0,202.0,9.0,0.054694621695533276
+2020-11-23,7046,Sant Antoni de Portmany,Eivissa,598,475.0,96.0,5.0,0.05689277899343545
+2020-11-23,7050,Sant Joan de Labritja,Eivissa,74,47.0,8.0,0.0,0.017543859649122806
+2020-11-23,7048,Sant Josep de sa Talaia,Eivissa,477,435.0,51.0,1.0,0.0225
+2020-11-23,7054,Santa Eulària des Riu,Eivissa,629,443.0,82.0,11.0,0.05128205128205128
+2020-11-23,0,total-Eivissa,Eivissa,3502,2880.0,439.0,26.0,0.048616305160807775
+2020-11-24,7026,Eivissa,Eivissa,1737,1480.0,202.0,9.0,0.05687203791469194
+2020-11-24,7046,Sant Antoni de Portmany,Eivissa,600,475.0,96.0,5.0,0.044967880085653104
+2020-11-24,7050,Sant Joan de Labritja,Eivissa,75,47.0,8.0,0.0,0.02040816326530612
+2020-11-24,7048,Sant Josep de sa Talaia,Eivissa,479,435.0,51.0,1.0,0.022222222222222223
+2020-11-24,7054,Santa Eulària des Riu,Eivissa,632,443.0,82.0,11.0,0.04753820033955857
+2020-11-24,0,total-Eivissa,Eivissa,3523,2880.0,439.0,26.0,0.04639376218323587
+2020-11-25,7026,Eivissa,Eivissa,1741,1480.0,202.0,9.0,0.055900621118012424
+2020-11-25,7046,Sant Antoni de Portmany,Eivissa,601,475.0,96.0,5.0,0.029925187032418952
+2020-11-25,7050,Sant Joan de Labritja,Eivissa,75,47.0,8.0,0.0,0.02
+2020-11-25,7048,Sant Josep de sa Talaia,Eivissa,481,435.0,51.0,1.0,0.02710027100271003
+2020-11-25,7054,Santa Eulària des Riu,Eivissa,634,443.0,82.0,11.0,0.04159733777038269
+2020-11-25,0,total-Eivissa,Eivissa,3532,2880.0,439.0,26.0,0.0427314620863008
+2020-11-26,7026,Eivissa,Eivissa,1749,1480.0,202.0,9.0,0.04821802935010482
+2020-11-26,7046,Sant Antoni de Portmany,Eivissa,601,475.0,96.0,5.0,0.012903225806451613
+2020-11-26,7050,Sant Joan de Labritja,Eivissa,75,47.0,8.0,0.0,0.018518518518518517
+2020-11-26,7048,Sant Josep de sa Talaia,Eivissa,481,435.0,51.0,1.0,0.026785714285714284
+2020-11-26,7054,Santa Eulària des Riu,Eivissa,636,443.0,82.0,11.0,0.03418803418803419
+2020-11-26,0,total-Eivissa,Eivissa,3542,2880.0,439.0,26.0,0.034252297410192145
+2020-11-27,7026,Eivissa,Eivissa,1758,1480.0,202.0,9.0,0.05009633911368015
+2020-11-27,7046,Sant Antoni de Portmany,Eivissa,602,475.0,96.0,5.0,0.013636363636363636
+2020-11-27,7050,Sant Joan de Labritja,Eivissa,75,47.0,8.0,0.0,0.013888888888888888
+2020-11-27,7048,Sant Josep de sa Talaia,Eivissa,482,435.0,51.0,1.0,0.020348837209302327
+2020-11-27,7054,Santa Eulària des Riu,Eivissa,641,443.0,82.0,11.0,0.037257824143070044
+2020-11-27,0,total-Eivissa,Eivissa,3558,2880.0,439.0,26.0,0.0354775828460039
+2020-11-28,7026,Eivissa,Eivissa,1762,1480.0,202.0,9.0,0.05128205128205128
+2020-11-28,7046,Sant Antoni de Portmany,Eivissa,603,475.0,96.0,5.0,0.014084507042253521
+2020-11-28,7050,Sant Joan de Labritja,Eivissa,76,47.0,8.0,0.0,0.028169014084507043
+2020-11-28,7048,Sant Josep de sa Talaia,Eivissa,485,435.0,51.0,1.0,0.023622047244094488
+2020-11-28,7054,Santa Eulària des Riu,Eivissa,645,443.0,82.0,11.0,0.03857566765578635
+2020-11-28,0,total-Eivissa,Eivissa,3571,2880.0,439.0,26.0,0.036802532647407994
+2020-11-29,7026,Eivissa,Eivissa,1762,1547.0,186.0,9.0,0.047520661157024795
+2020-11-29,7046,Sant Antoni de Portmany,Eivissa,603,510.0,72.0,5.0,0.014218009478672985
+2020-11-29,7050,Sant Joan de Labritja,Eivissa,76,51.0,5.0,0.0,0.027777777777777776
+2020-11-29,7048,Sant Josep de sa Talaia,Eivissa,485,459.0,38.0,1.0,0.023872679045092837
+2020-11-29,7054,Santa Eulària des Riu,Eivissa,645,471.0,82.0,11.0,0.037091988130563795
+2020-11-29,0,total-Eivissa,Eivissa,3571,3038.0,383.0,26.0,0.03501790688420215
+2020-11-30,7026,Eivissa,Eivissa,1765,1555.0,182.0,9.0,0.03992210321324245
+2020-11-30,7046,Sant Antoni de Portmany,Eivissa,606,513.0,71.0,5.0,0.018140589569160998
+2020-11-30,7050,Sant Joan de Labritja,Eivissa,76,51.0,6.0,0.0,0.027777777777777776
+2020-11-30,7048,Sant Josep de sa Talaia,Eivissa,485,459.0,41.0,1.0,0.018561484918793503
+2020-11-30,7054,Santa Eulària des Riu,Eivissa,651,472.0,85.0,11.0,0.03293413173652695
+2020-11-30,0,total-Eivissa,Eivissa,3583,3050.0,385.0,26.0,0.030693444486547934
+2020-12-01,7026,Eivissa,Eivissa,1773,1559.0,182.0,9.0,0.03522504892367906
+2020-12-01,7046,Sant Antoni de Portmany,Eivissa,607,514.0,73.0,5.0,0.01694915254237288
+2020-12-01,7050,Sant Joan de Labritja,Eivissa,76,51.0,6.0,0.0,0.012987012987012988
+2020-12-01,7048,Sant Josep de sa Talaia,Eivissa,486,459.0,41.0,1.0,0.01627906976744186
+2020-12-01,7054,Santa Eulària des Riu,Eivissa,653,475.0,88.0,11.0,0.03162650602409638
+2020-12-01,0,total-Eivissa,Eivissa,3595,3058.0,390.0,26.0,0.02762854950115119
+2020-12-02,7026,Eivissa,Eivissa,1783,1565.0,182.0,9.0,0.03553299492385787
+2020-12-02,7046,Sant Antoni de Portmany,Eivissa,610,521.0,68.0,5.0,0.018867924528301886
+2020-12-02,7050,Sant Joan de Labritja,Eivissa,77,51.0,6.0,0.0,0.023809523809523808
+2020-12-02,7048,Sant Josep de sa Talaia,Eivissa,489,461.0,43.0,1.0,0.01735357917570499
+2020-12-02,7054,Santa Eulària des Riu,Eivissa,659,479.0,89.0,11.0,0.03602305475504323
+2020-12-02,0,total-Eivissa,Eivissa,3618,3077.0,388.0,26.0,0.029675638371290544
+2020-12-03,7026,Eivissa,Eivissa,1791,1566.0,202.0,9.0,0.03903345724907063
+2020-12-03,7046,Sant Antoni de Portmany,Eivissa,615,523.0,71.0,5.0,0.037333333333333336
+2020-12-03,7050,Sant Joan de Labritja,Eivissa,77,52.0,6.0,0.0,0.024390243902439025
+2020-12-03,7048,Sant Josep de sa Talaia,Eivissa,490,464.0,40.0,1.0,0.021739130434782608
+2020-12-03,7054,Santa Eulària des Riu,Eivissa,660,484.0,89.0,11.0,0.03619909502262444
+2020-12-03,0,total-Eivissa,Eivissa,3633,3089.0,408.0,26.0,0.03486590038314176
+2020-12-04,7026,Eivissa,Eivissa,1793,1566.0,202.0,9.0,0.03510531594784353
+2020-12-04,7046,Sant Antoni de Portmany,Eivissa,615,523.0,71.0,5.0,0.03880597014925373
+2020-12-04,7050,Sant Joan de Labritja,Eivissa,77,52.0,6.0,0.0,0.02857142857142857
+2020-12-04,7048,Sant Josep de sa Talaia,Eivissa,490,464.0,40.0,1.0,0.02127659574468085
+2020-12-04,7054,Santa Eulària des Riu,Eivissa,665,484.0,89.0,11.0,0.037914691943127965
+2020-12-04,0,total-Eivissa,Eivissa,3640,3089.0,408.0,26.0,0.034010783907092494
+2020-12-05,7026,Eivissa,Eivissa,1794,1566.0,202.0,9.0,0.03508771929824561
+2020-12-05,7046,Sant Antoni de Portmany,Eivissa,615,523.0,71.0,5.0,0.0375
+2020-12-05,7050,Sant Joan de Labritja,Eivissa,77,52.0,6.0,0.0,0.015873015873015872
+2020-12-05,7048,Sant Josep de sa Talaia,Eivissa,490,464.0,40.0,1.0,0.016025641025641024
+2020-12-05,7054,Santa Eulària des Riu,Eivissa,665,484.0,89.0,11.0,0.03527336860670194
+2020-12-05,0,total-Eivissa,Eivissa,3641,3089.0,408.0,26.0,0.03219871205151794
+2020-12-06,7026,Eivissa,Eivissa,1802,1566.0,202.0,9.0,0.034482758620689655
+2020-12-06,7046,Sant Antoni de Portmany,Eivissa,617,523.0,71.0,5.0,0.03535353535353535
+2020-12-06,7050,Sant Joan de Labritja,Eivissa,77,52.0,6.0,0.0,0.01282051282051282
+2020-12-06,7048,Sant Josep de sa Talaia,Eivissa,491,464.0,40.0,1.0,0.013953488372093023
+2020-12-06,7054,Santa Eulària des Riu,Eivissa,669,484.0,89.0,11.0,0.03473227206946455
+2020-12-06,0,total-Eivissa,Eivissa,3656,3089.0,408.0,26.0,0.030852994555353903
+2020-12-07,7026,Eivissa,Eivissa,1802,1566.0,202.0,9.0,0.03771661569826707
+2020-12-07,7046,Sant Antoni de Portmany,Eivissa,618,523.0,71.0,5.0,0.03498542274052478
+2020-12-07,7050,Sant Joan de Labritja,Eivissa,77,52.0,6.0,0.0,0.013888888888888888
+2020-12-07,7048,Sant Josep de sa Talaia,Eivissa,491,464.0,40.0,1.0,0.01694915254237288
+2020-12-07,7054,Santa Eulària des Riu,Eivissa,671,484.0,89.0,11.0,0.03129890453834116
+2020-12-07,0,total-Eivissa,Eivissa,3659,3089.0,408.0,26.0,0.03181247383842612
+2020-12-08,7026,Eivissa,Eivissa,1805,1622.0,175.0,9.0,0.03591470258136925
+2020-12-08,7046,Sant Antoni de Portmany,Eivissa,618,534.0,73.0,5.0,0.033950617283950615
+2020-12-08,7050,Sant Joan de Labritja,Eivissa,77,53.0,5.0,0.0,0.015151515151515152
+2020-12-08,7048,Sant Josep de sa Talaia,Eivissa,491,480.0,32.0,1.0,0.015625
+2020-12-08,7054,Santa Eulària des Riu,Eivissa,671,498.0,96.0,11.0,0.03202846975088968
+2020-12-08,0,total-Eivissa,Eivissa,3662,3187.0,381.0,26.0,0.030975496994914472
+2020-12-09,7026,Eivissa,Eivissa,1807,1624.0,175.0,9.0,0.030690537084398978
+2020-12-09,7046,Sant Antoni de Portmany,Eivissa,620,536.0,73.0,5.0,0.03597122302158273
+2020-12-09,7050,Sant Joan de Labritja,Eivissa,77,53.0,5.0,0.0,0
+2020-12-09,7048,Sant Josep de sa Talaia,Eivissa,491,481.0,33.0,1.0,0.006802721088435374
+2020-12-09,7054,Santa Eulària des Riu,Eivissa,674,501.0,96.0,11.0,0.02857142857142857
+2020-12-09,0,total-Eivissa,Eivissa,3669,3195.0,382.0,26.0,0.02630221763795771
+2020-12-10,7026,Eivissa,Eivissa,1812,1625.0,181.0,9.0,0.026615969581749048
+2020-12-10,7046,Sant Antoni de Portmany,Eivissa,621,541.0,70.0,5.0,0.019543973941368076
+2020-12-10,7050,Sant Joan de Labritja,Eivissa,77,53.0,5.0,0.0,0
+2020-12-10,7048,Sant Josep de sa Talaia,Eivissa,491,482.0,32.0,1.0,0.0031746031746031746
+2020-12-10,7054,Santa Eulària des Riu,Eivissa,680,502.0,104.0,11.0,0.03745318352059925
+2020-12-10,0,total-Eivissa,Eivissa,3681,3203.0,392.0,26.0,0.02391629297458894
+2020-12-11,7026,Eivissa,Eivissa,1815,1625.0,181.0,9.0,0.02763819095477387
+2020-12-11,7046,Sant Antoni de Portmany,Eivissa,622,541.0,70.0,5.0,0.0219435736677116
+2020-12-11,7050,Sant Joan de Labritja,Eivissa,77,53.0,5.0,0.0,0
+2020-12-11,7048,Sant Josep de sa Talaia,Eivissa,492,482.0,32.0,1.0,0.006060606060606061
+2020-12-11,7054,Santa Eulària des Riu,Eivissa,685,502.0,104.0,11.0,0.04866180048661801
+2020-12-11,0,total-Eivissa,Eivissa,3691,3203.0,392.0,26.0,0.026701570680628273
+2020-12-12,7026,Eivissa,Eivissa,1821,1625.0,181.0,9.0,0.0288153681963714
+2020-12-12,7046,Sant Antoni de Portmany,Eivissa,624,541.0,70.0,5.0,0.026785714285714284
+2020-12-12,7050,Sant Joan de Labritja,Eivissa,78,53.0,5.0,0.0,0.015873015873015872
+2020-12-12,7048,Sant Josep de sa Talaia,Eivissa,492,482.0,32.0,1.0,0.0056022408963585435
+2020-12-12,7054,Santa Eulària des Riu,Eivissa,688,502.0,104.0,11.0,0.04811715481171548
+2020-12-12,0,total-Eivissa,Eivissa,3703,3203.0,392.0,26.0,0.02855826807922616
+2020-12-13,7026,Eivissa,Eivissa,1821,1633.0,184.0,9.0,0.026874115983026876
+2020-12-13,7046,Sant Antoni de Portmany,Eivissa,624,542.0,72.0,5.0,0.026022304832713755
+2020-12-13,7050,Sant Joan de Labritja,Eivissa,78,54.0,5.0,0.0,0.02127659574468085
+2020-12-13,7048,Sant Josep de sa Talaia,Eivissa,492,484.0,34.0,1.0,0.004098360655737705
+2020-12-13,7054,Santa Eulària des Riu,Eivissa,691,514.0,101.0,11.0,0.06111111111111111
+2020-12-13,0,total-Eivissa,Eivissa,3706,3227.0,396.0,26.0,0.03073140749846343
+2020-12-14,7026,Eivissa,Eivissa,1829,1636.0,189.0,9.0,0.03366583541147132
+2020-12-14,7046,Sant Antoni de Portmany,Eivissa,627,545.0,72.0,5.0,0.030508474576271188
+2020-12-14,7050,Sant Joan de Labritja,Eivissa,78,54.0,5.0,0.0,0.017543859649122806
+2020-12-14,7048,Sant Josep de sa Talaia,Eivissa,494,486.0,34.0,1.0,0.010869565217391304
+2020-12-14,7054,Santa Eulària des Riu,Eivissa,692,516.0,101.0,11.0,0.0532994923857868
+2020-12-14,0,total-Eivissa,Eivissa,3720,3237.0,401.0,26.0,0.03344298245614035
+2020-12-15,7026,Eivissa,Eivissa,1843,1657.0,174.0,9.0,0.04279279279279279
+2020-12-15,7046,Sant Antoni de Portmany,Eivissa,630,554.0,64.0,5.0,0.03508771929824561
+2020-12-15,7050,Sant Joan de Labritja,Eivissa,79,54.0,5.0,0.0,0.03225806451612903
+2020-12-15,7048,Sant Josep de sa Talaia,Eivissa,496,487.0,35.0,1.0,0.016722408026755852
+2020-12-15,7054,Santa Eulària des Riu,Eivissa,697,526.0,94.0,11.0,0.06103286384976526
+2020-12-15,0,total-Eivissa,Eivissa,3745,3278.0,372.0,26.0,0.04115022310361924
+2020-12-16,7026,Eivissa,Eivissa,1852,1664.0,180.0,9.0,0.046826222684703434
+2020-12-16,7046,Sant Antoni de Portmany,Eivissa,634,556.0,67.0,5.0,0.03899721448467967
+2020-12-16,7050,Sant Joan de Labritja,Eivissa,79,55.0,5.0,0.0,0.03225806451612903
+2020-12-16,7048,Sant Josep de sa Talaia,Eivissa,499,490.0,32.0,1.0,0.025078369905956112
+2020-12-16,7054,Santa Eulària des Riu,Eivissa,703,530.0,95.0,11.0,0.06415929203539823
+2020-12-16,0,total-Eivissa,Eivissa,3767,3295.0,379.0,26.0,0.04551788202508128
+2020-12-17,7026,Eivissa,Eivissa,1859,1674.0,181.0,9.0,0.04781281790437437
+2020-12-17,7046,Sant Antoni de Portmany,Eivissa,636,558.0,72.0,5.0,0.04411764705882353
+2020-12-17,7050,Sant Joan de Labritja,Eivissa,79,55.0,5.0,0.0,0.03225806451612903
+2020-12-17,7048,Sant Josep de sa Talaia,Eivissa,504,492.0,32.0,1.0,0.03939393939393939
+2020-12-17,7054,Santa Eulària des Riu,Eivissa,707,534.0,98.0,11.0,0.05844155844155844
+2020-12-17,0,total-Eivissa,Eivissa,3785,3313.0,388.0,26.0,0.04777216352779054
+2020-12-18,7026,Eivissa,Eivissa,1864,1674.0,181.0,9.0,0.04919678714859438
+2020-12-18,7046,Sant Antoni de Portmany,Eivissa,637,558.0,72.0,5.0,0.043859649122807015
+2020-12-18,7050,Sant Joan de Labritja,Eivissa,79,55.0,5.0,0.0,0.028985507246376812
+2020-12-18,7048,Sant Josep de sa Talaia,Eivissa,505,492.0,32.0,1.0,0.040372670807453416
+2020-12-18,7054,Santa Eulària des Riu,Eivissa,717,534.0,98.0,11.0,0.06037735849056604
+2020-12-18,0,total-Eivissa,Eivissa,3802,3313.0,388.0,26.0,0.049136786188579015
+2020-12-19,7026,Eivissa,Eivissa,1868,1674.0,181.0,9.0,0.04484732824427481
+2020-12-19,7046,Sant Antoni de Portmany,Eivissa,637,558.0,72.0,5.0,0.036211699164345405
+2020-12-19,7050,Sant Joan de Labritja,Eivissa,80,55.0,5.0,0.0,0.029411764705882353
+2020-12-19,7048,Sant Josep de sa Talaia,Eivissa,505,492.0,32.0,1.0,0.03768115942028986
+2020-12-19,7054,Santa Eulària des Riu,Eivissa,720,534.0,98.0,11.0,0.05925925925925926
+2020-12-19,0,total-Eivissa,Eivissa,3810,3313.0,388.0,26.0,0.04533898305084746
+2020-12-20,7026,Eivissa,Eivissa,1869,1679.0,189.0,9.0,0.04597701149425287
+2020-12-20,7046,Sant Antoni de Portmany,Eivissa,638,560.0,74.0,5.0,0.03888888888888889
+2020-12-20,7050,Sant Joan de Labritja,Eivissa,80,55.0,6.0,0.0,0.028985507246376812
+2020-12-20,7048,Sant Josep de sa Talaia,Eivissa,506,492.0,39.0,1.0,0.04093567251461988
+2020-12-20,7054,Santa Eulària des Riu,Eivissa,720,543.0,100.0,11.0,0.05330882352941176
+2020-12-20,0,total-Eivissa,Eivissa,3813,3329.0,408.0,26.0,0.0453582026282323
+2020-12-21,7026,Eivissa,Eivissa,1878,1688.0,186.0,9.0,0.044789762340036565
+2020-12-21,7046,Sant Antoni de Portmany,Eivissa,640,563.0,74.0,5.0,0.03561643835616438
+2020-12-21,7050,Sant Joan de Labritja,Eivissa,80,55.0,6.0,0.0,0.030303030303030304
+2020-12-21,7048,Sant Josep de sa Talaia,Eivissa,510,492.0,42.0,1.0,0.04519774011299435
+2020-12-21,7054,Santa Eulària des Riu,Eivissa,729,544.0,109.0,11.0,0.06379310344827586
+2020-12-21,0,total-Eivissa,Eivissa,3837,3342.0,417.0,26.0,0.04758031720211468
+2020-12-22,7026,Eivissa,Eivissa,1879,1689.0,194.0,9.0,0.03529411764705882
+2020-12-22,7046,Sant Antoni de Portmany,Eivissa,643,563.0,77.0,5.0,0.038922155688622756
+2020-12-22,7050,Sant Joan de Labritja,Eivissa,80,55.0,6.0,0.0,0.01818181818181818
+2020-12-22,7048,Sant Josep de sa Talaia,Eivissa,512,492.0,48.0,1.0,0.04878048780487805
+2020-12-22,7054,Santa Eulària des Riu,Eivissa,733,546.0,111.0,11.0,0.06605504587155964
+2020-12-22,0,total-Eivissa,Eivissa,3847,3345.0,436.0,26.0,0.044697633654688866
+2020-12-23,7026,Eivissa,Eivissa,1888,1689.0,194.0,9.0,0.03508771929824561
+2020-12-23,7046,Sant Antoni de Portmany,Eivissa,649,563.0,77.0,5.0,0.0436046511627907
+2020-12-23,7050,Sant Joan de Labritja,Eivissa,80,55.0,6.0,0.0,0.018518518518518517
+2020-12-23,7048,Sant Josep de sa Talaia,Eivissa,516,492.0,48.0,1.0,0.04843304843304843
+2020-12-23,7054,Santa Eulària des Riu,Eivissa,739,546.0,111.0,11.0,0.06394316163410302
+2020-12-23,0,total-Eivissa,Eivissa,3872,3345.0,436.0,26.0,0.04491017964071856
+2020-12-24,7026,Eivissa,Eivissa,1893,1689.0,194.0,9.0,0.03294573643410853
+2020-12-24,7046,Sant Antoni de Portmany,Eivissa,653,563.0,77.0,5.0,0.04009433962264151
+2020-12-24,7050,Sant Joan de Labritja,Eivissa,81,55.0,6.0,0.0,0.0425531914893617
+2020-12-24,7048,Sant Josep de sa Talaia,Eivissa,521,492.0,48.0,1.0,0.04857142857142857
+2020-12-24,7054,Santa Eulària des Riu,Eivissa,744,546.0,111.0,11.0,0.06583629893238434
+2020-12-24,0,total-Eivissa,Eivissa,3892,3345.0,436.0,26.0,0.0443064182194617
+2020-12-25,7026,Eivissa,Eivissa,1895,1689.0,194.0,9.0,0.03402854006586169
+2020-12-25,7046,Sant Antoni de Portmany,Eivissa,655,563.0,77.0,5.0,0.046753246753246755
+2020-12-25,7050,Sant Joan de Labritja,Eivissa,81,55.0,6.0,0.0,0.05555555555555555
+2020-12-25,7048,Sant Josep de sa Talaia,Eivissa,521,492.0,48.0,1.0,0.04833836858006042
+2020-12-25,7054,Santa Eulària des Riu,Eivissa,744,546.0,111.0,11.0,0.060674157303370786
+2020-12-25,0,total-Eivissa,Eivissa,3896,3345.0,436.0,26.0,0.04459203036053131
+2020-12-26,7026,Eivissa,Eivissa,1902,1689.0,194.0,9.0,0.04218362282878412
+2020-12-26,7046,Sant Antoni de Portmany,Eivissa,662,563.0,77.0,5.0,0.06527415143603134
+2020-12-26,7050,Sant Joan de Labritja,Eivissa,81,55.0,6.0,0.0,0.03225806451612903
+2020-12-26,7048,Sant Josep de sa Talaia,Eivissa,526,492.0,48.0,1.0,0.06542056074766354
+2020-12-26,7054,Santa Eulària des Riu,Eivissa,749,546.0,111.0,11.0,0.06823529411764706
+2020-12-26,0,total-Eivissa,Eivissa,3920,3345.0,436.0,26.0,0.05595116988809766
+2020-12-27,7026,Eivissa,Eivissa,1902,1704.0,189.0,9.0,0.041044776119402986
+2020-12-27,7046,Sant Antoni de Portmany,Eivissa,665,566.0,87.0,6.0,0.06923076923076923
+2020-12-27,7050,Sant Joan de Labritja,Eivissa,81,57.0,6.0,0.0,0.03225806451612903
+2020-12-27,7048,Sant Josep de sa Talaia,Eivissa,528,495.0,56.0,1.0,0.0668693009118541
+2020-12-27,7054,Santa Eulària des Riu,Eivissa,749,563.0,108.0,11.0,0.0703883495145631
+2020-12-27,0,total-Eivissa,Eivissa,3925,3385.0,446.0,27.0,0.056968463886063074
+2020-12-28,7026,Eivissa,Eivissa,1903,1724.0,173.0,9.0,0.03289473684210526
+2020-12-28,7046,Sant Antoni de Portmany,Eivissa,674,581.0,81.0,6.0,0.0815347721822542
+2020-12-28,7050,Sant Joan de Labritja,Eivissa,81,57.0,6.0,0.0,0.04
+2020-12-28,7048,Sant Josep de sa Talaia,Eivissa,544,499.0,65.0,1.0,0.10119047619047619
+2020-12-28,7054,Santa Eulària des Riu,Eivissa,752,576.0,99.0,11.0,0.059895833333333336
+2020-12-28,0,total-Eivissa,Eivissa,3954,3437.0,424.0,27.0,0.06087408949011446
+2020-12-29,7026,Eivissa,Eivissa,1920,1733.0,173.0,9.0,0.04664391353811149
+2020-12-29,7046,Sant Antoni de Portmany,Eivissa,693,582.0,94.0,6.0,0.10570824524312897
+2020-12-29,7050,Sant Joan de Labritja,Eivissa,82,58.0,5.0,0.0,0.05714285714285714
+2020-12-29,7048,Sant Josep de sa Talaia,Eivissa,552,505.0,67.0,1.0,0.10582010582010581
+2020-12-29,7054,Santa Eulària des Riu,Eivissa,761,578.0,104.0,11.0,0.06086956521739131
+2020-12-29,0,total-Eivissa,Eivissa,4008,3456.0,443.0,27.0,0.07235955056179776
+2020-12-30,7026,Eivissa,Eivissa,1935,1733.0,173.0,9.0,0.053469852104664393
+2020-12-30,7046,Sant Antoni de Portmany,Eivissa,714,582.0,94.0,6.0,0.13829787234042554
+2020-12-30,7050,Sant Joan de Labritja,Eivissa,82,58.0,5.0,0.0,0.0625
+2020-12-30,7048,Sant Josep de sa Talaia,Eivissa,559,505.0,67.0,1.0,0.12044817927170869
+2020-12-30,7054,Santa Eulària des Riu,Eivissa,782,578.0,104.0,11.0,0.09429824561403509
+2020-12-30,0,total-Eivissa,Eivissa,4072,3456.0,443.0,27.0,0.09115770282588878
+2020-12-31,7026,Eivissa,Eivissa,1960,1733.0,173.0,9.0,0.06581532416502947
+2020-12-31,7046,Sant Antoni de Portmany,Eivissa,742,582.0,94.0,6.0,0.20843091334894615
+2020-12-31,7050,Sant Joan de Labritja,Eivissa,85,58.0,5.0,0.0,0.0975609756097561
+2020-12-31,7048,Sant Josep de sa Talaia,Eivissa,565,505.0,67.0,1.0,0.10526315789473684
+2020-12-31,7054,Santa Eulària des Riu,Eivissa,809,578.0,104.0,11.0,0.13
+2020-12-31,0,total-Eivissa,Eivissa,4161,3456.0,443.0,27.0,0.11189683860232945
+2021-01-01,7026,Eivissa,Eivissa,1963,1733.0,173.0,9.0,0.06570048309178744
+2021-01-01,7046,Sant Antoni de Portmany,Eivissa,745,582.0,94.0,6.0,0.20930232558139536
+2021-01-01,7050,Sant Joan de Labritja,Eivissa,85,58.0,5.0,0.0,0.09523809523809523
+2021-01-01,7048,Sant Josep de sa Talaia,Eivissa,565,505.0,67.0,1.0,0.10864197530864197
+2021-01-01,7054,Santa Eulària des Riu,Eivissa,811,578.0,104.0,11.0,0.13453815261044177
+2021-01-01,0,total-Eivissa,Eivissa,4169,3456.0,443.0,27.0,0.11327800829875519
+2021-01-02,7026,Eivissa,Eivissa,1981,1733.0,173.0,9.0,0.07509505703422054
+2021-01-02,7046,Sant Antoni de Portmany,Eivissa,765,582.0,94.0,6.0,0.22737306843267108
+2021-01-02,7050,Sant Joan de Labritja,Eivissa,85,58.0,5.0,0.0,0.10256410256410256
+2021-01-02,7048,Sant Josep de sa Talaia,Eivissa,574,505.0,67.0,1.0,0.11136890951276102
+2021-01-02,7054,Santa Eulària des Riu,Eivissa,825,578.0,104.0,11.0,0.14931237721021612
+2021-01-02,0,total-Eivissa,Eivissa,4230,3456.0,443.0,27.0,0.1247987117552335
+2021-01-03,7026,Eivissa,Eivissa,1988,1741.0,238.0,9.0,0.08037383177570094
+2021-01-03,7046,Sant Antoni de Portmany,Eivissa,772,586.0,169.0,6.0,0.2356828193832599
+2021-01-03,7050,Sant Joan de Labritja,Eivissa,85,59.0,7.0,0.0,0.0975609756097561
+2021-01-03,7048,Sant Josep de sa Talaia,Eivissa,577,509.0,93.0,1.0,0.11316397228637413
+2021-01-03,7054,Santa Eulària des Riu,Eivissa,827,593.0,158.0,11.0,0.15
+2021-01-03,0,total-Eivissa,Eivissa,4249,3488.0,665.0,27.0,0.12867355043685463
+2021-01-04,7026,Eivissa,Eivissa,2011,1757.0,237.0,9.0,0.0975609756097561
+2021-01-04,7046,Sant Antoni de Portmany,Eivissa,794,600.0,172.0,6.0,0.2569593147751606
+2021-01-04,7050,Sant Joan de Labritja,Eivissa,85,60.0,6.0,0.0,0.09523809523809523
+2021-01-04,7048,Sant Josep de sa Talaia,Eivissa,581,518.0,91.0,1.0,0.08705882352941176
+2021-01-04,7054,Santa Eulària des Riu,Eivissa,837,605.0,155.0,11.0,0.1528776978417266
+2021-01-04,0,total-Eivissa,Eivissa,4308,3540.0,661.0,27.0,0.13631112822487484
+2021-01-05,7026,Eivissa,Eivissa,2045,1757.0,237.0,9.0,0.11052166224580018
+2021-01-05,7046,Sant Antoni de Portmany,Eivissa,816,600.0,172.0,6.0,0.25308641975308643
+2021-01-05,7050,Sant Joan de Labritja,Eivissa,87,60.0,6.0,0.0,0.1
+2021-01-05,7048,Sant Josep de sa Talaia,Eivissa,595,518.0,91.0,1.0,0.09555555555555556
+2021-01-05,7054,Santa Eulària des Riu,Eivissa,857,605.0,155.0,11.0,0.13636363636363635
+2021-01-05,0,total-Eivissa,Eivissa,4400,3540.0,661.0,27.0,0.13895781637717122
+2021-01-06,7026,Eivissa,Eivissa,2052,1763.0,268.0,9.0,0.13340935005701254
+2021-01-06,7046,Sant Antoni de Portmany,Eivissa,825,605.0,198.0,6.0,0.26303317535545023
+2021-01-06,7050,Sant Joan de Labritja,Eivissa,88,60.0,9.0,0.0,0.13636363636363635
+2021-01-06,7048,Sant Josep de sa Talaia,Eivissa,598,522.0,100.0,1.0,0.09948979591836735
+2021-01-06,7054,Santa Eulària des Riu,Eivissa,867,609.0,183.0,11.0,0.13776337115072934
+2021-01-06,0,total-Eivissa,Eivissa,4430,3559.0,758.0,27.0,0.1522108843537415
+2021-01-07,7026,Eivissa,Eivissa,2125,1773.0,299.0,9.0,0.18232044198895028
+2021-01-07,7046,Sant Antoni de Portmany,Eivissa,858,615.0,211.0,6.0,0.26666666666666666
+2021-01-07,7050,Sant Joan de Labritja,Eivissa,91,61.0,8.0,0.0,0.13043478260869565
+2021-01-07,7048,Sant Josep de sa Talaia,Eivissa,618,532.0,110.0,1.0,0.13984168865435356
+2021-01-07,7054,Santa Eulària des Riu,Eivissa,912,620.0,203.0,11.0,0.15535444947209653
+2021-01-07,0,total-Eivissa,Eivissa,4604,3601.0,831.0,27.0,0.18245469522240526
+2021-01-08,7026,Eivissa,Eivissa,2178,1773.0,299.0,9.0,0.18959435626102292
+2021-01-08,7046,Sant Antoni de Portmany,Eivissa,885,615.0,211.0,6.0,0.2687140115163148
+2021-01-08,7050,Sant Joan de Labritja,Eivissa,95,61.0,8.0,0.0,0.16666666666666666
+2021-01-08,7048,Sant Josep de sa Talaia,Eivissa,645,532.0,110.0,1.0,0.17391304347826086
+2021-01-08,7054,Santa Eulària des Riu,Eivissa,934,620.0,203.0,11.0,0.16099476439790575
+2021-01-08,0,total-Eivissa,Eivissa,4737,3601.0,831.0,27.0,0.19326301463082682
+2021-01-09,7026,Eivissa,Eivissa,2239,1773.0,299.0,9.0,0.1964965727341965
+2021-01-09,7046,Sant Antoni de Portmany,Eivissa,915,615.0,211.0,6.0,0.25210084033613445
+2021-01-09,7050,Sant Joan de Labritja,Eivissa,97,61.0,8.0,0.0,0.1643835616438356
+2021-01-09,7048,Sant Josep de sa Talaia,Eivissa,668,532.0,110.0,1.0,0.1811175337186898
+2021-01-09,7054,Santa Eulària des Riu,Eivissa,967,620.0,203.0,11.0,0.16924910607866508
+2021-01-09,0,total-Eivissa,Eivissa,4886,3601.0,831.0,27.0,0.19646600778676251
+2021-01-10,7026,Eivissa,Eivissa,2264,1796.0,467.0,9.0,0.20705176294073518
+2021-01-10,7046,Sant Antoni de Portmany,Eivissa,926,643.0,282.0,6.0,0.25496688741721857
+2021-01-10,7050,Sant Joan de Labritja,Eivissa,98,61.0,15.0,0.0,0.18055555555555555
+2021-01-10,7048,Sant Josep de sa Talaia,Eivissa,677,546.0,157.0,1.0,0.19193857965451055
+2021-01-10,7054,Santa Eulària des Riu,Eivissa,986,636.0,281.0,11.0,0.18192219679633867
+2021-01-10,0,total-Eivissa,Eivissa,4951,3682.0,1202.0,27.0,0.20622796709753233
+2021-01-11,7026,Eivissa,Eivissa,2307,1809.0,503.0,10.0,0.21082621082621084
+2021-01-11,7046,Sant Antoni de Portmany,Eivissa,948,652.0,287.0,6.0,0.250814332247557
+2021-01-11,7050,Sant Joan de Labritja,Eivissa,104,62.0,16.0,0.0,0.2261904761904762
+2021-01-11,7048,Sant Josep de sa Talaia,Eivissa,701,554.0,164.0,1.0,0.2146690518783542
+2021-01-11,7054,Santa Eulària des Riu,Eivissa,1027,654.0,307.0,11.0,0.20430107526881722
+2021-01-11,0,total-Eivissa,Eivissa,5087,3731.0,1277.0,28.0,0.21693121693121692
+2021-01-12,7026,Eivissa,Eivissa,2418,1817.0,591.0,10.0,0.249665327978581
+2021-01-12,7046,Sant Antoni de Portmany,Eivissa,993,673.0,303.0,6.0,0.2783018867924528
+2021-01-12,7050,Sant Joan de Labritja,Eivissa,108,62.0,20.0,0.0,0.25
+2021-01-12,7048,Sant Josep de sa Talaia,Eivissa,731,557.0,207.0,1.0,0.23776223776223776
+2021-01-12,7054,Santa Eulària des Riu,Eivissa,1072,657.0,350.0,12.0,0.2694235588972431
+2021-01-12,0,total-Eivissa,Eivissa,5322,3766.0,1471.0,29.0,0.2572544642857143
+2021-01-13,7026,Eivissa,Eivissa,2538,1858.0,737.0,11.0,0.2604501607717042
+2021-01-13,7046,Sant Antoni de Portmany,Eivissa,1033,680.0,342.0,6.0,0.272608125819135
+2021-01-13,7050,Sant Joan de Labritja,Eivissa,116,63.0,23.0,0.0,0.2692307692307692
+2021-01-13,7048,Sant Josep de sa Talaia,Eivissa,764,526.0,233.0,1.0,0.22833562585969738
+2021-01-13,7054,Santa Eulària des Riu,Eivissa,1127,663.0,405.0,13.0,0.2502406159769009
+2021-01-13,0,total-Eivissa,Eivissa,5578,3790.0,1740.0,31.0,0.25516781507001557
+2021-01-14,7026,Eivissa,Eivissa,2654,1881.0,827.0,11.0,0.2788613600421718
+2021-01-14,7046,Sant Antoni de Portmany,Eivissa,1069,702.0,365.0,6.0,0.2614622057001239
+2021-01-14,7050,Sant Joan de Labritja,Eivissa,117,64.0,24.0,0.0,0.2653061224489796
+2021-01-14,7048,Sant Josep de sa Talaia,Eivissa,803,537.0,253.0,1.0,0.252387448840382
+2021-01-14,7054,Santa Eulària des Riu,Eivissa,1160,674.0,445.0,13.0,0.24676616915422886
+2021-01-14,0,total-Eivissa,Eivissa,5803,3858.0,1914.0,31.0,0.26409691629955945
+2021-01-15,7026,Eivissa,Eivissa,2739,1881.0,827.0,11.0,0.2807807807807808
+2021-01-15,7046,Sant Antoni de Portmany,Eivissa,1114,702.0,365.0,6.0,0.2690951821386604
+2021-01-15,7050,Sant Joan de Labritja,Eivissa,123,64.0,24.0,0.0,0.2616822429906542
+2021-01-15,7048,Sant Josep de sa Talaia,Eivissa,827,537.0,253.0,1.0,0.23605706874189364
+2021-01-15,7054,Santa Eulària des Riu,Eivissa,1207,674.0,445.0,13.0,0.2532467532467532
+2021-01-15,0,total-Eivissa,Eivissa,6010,3858.0,1914.0,31.0,0.26493236212278876
+2021-01-16,7026,Eivissa,Eivissa,2823,1881.0,827.0,11.0,0.22470180838784148
+2021-01-16,7046,Sant Antoni de Portmany,Eivissa,1153,702.0,365.0,6.0,0.2836710369487485
+2021-01-16,7050,Sant Joan de Labritja,Eivissa,128,64.0,24.0,0.0,0.27927927927927926
+2021-01-16,7048,Sant Josep de sa Talaia,Eivissa,857,537.0,253.0,1.0,0.24387096774193548
+2021-01-16,7054,Santa Eulària des Riu,Eivissa,1249,674.0,445.0,13.0,0.2522361359570662
+2021-01-16,0,total-Eivissa,Eivissa,6210,3858.0,1914.0,31.0,0.24329290701947814
+2021-01-17,7026,Eivissa,Eivissa,2890,1985.0,984.0,11.0,0.13782474680757376
+2021-01-17,7046,Sant Antoni de Portmany,Eivissa,1160,779.0,400.0,6.0,0.2698961937716263
+2021-01-17,7050,Sant Joan de Labritja,Eivissa,132,69.0,38.0,0.0,0.2764227642276423
+2021-01-17,7048,Sant Josep de sa Talaia,Eivissa,862,571.0,314.0,1.0,0.20833333333333334
+2021-01-17,7054,Santa Eulària des Riu,Eivissa,1270,759.0,490.0,13.0,0.2370617696160267
+2021-01-17,0,total-Eivissa,Eivissa,6314,4163.0,2226.0,31.0,0.17891835127330008
+2021-01-18,7026,Eivissa,Eivissa,2962,2044.0,1029.0,12.0,0.11599079157074553
+2021-01-18,7046,Sant Antoni de Portmany,Eivissa,1205,807.0,423.0,6.0,0.2802617230098146
+2021-01-18,7050,Sant Joan de Labritja,Eivissa,138,72.0,37.0,0.0,0.25757575757575757
+2021-01-18,7048,Sant Josep de sa Talaia,Eivissa,887,594.0,332.0,2.0,0.19334719334719336
+2021-01-18,7054,Santa Eulària des Riu,Eivissa,1316,783.0,513.0,13.0,0.22525331254871395
+2021-01-18,0,total-Eivissa,Eivissa,6508,4300.0,2334.0,33.0,0.15893076837042835
+2021-01-19,7026,Eivissa,Eivissa,3178,2044.0,1029.0,12.0,0.10458235860740334
+2021-01-19,7046,Sant Antoni de Portmany,Eivissa,1254,807.0,423.0,6.0,0.26021934197407776
+2021-01-19,7050,Sant Joan de Labritja,Eivissa,143,72.0,37.0,0.0,0.24647887323943662
+2021-01-19,7048,Sant Josep de sa Talaia,Eivissa,952,594.0,332.0,2.0,0.19557522123893806
+2021-01-19,7054,Santa Eulària des Riu,Eivissa,1385,783.0,513.0,13.0,0.20783532536520585
+2021-01-19,0,total-Eivissa,Eivissa,6912,4300.0,2334.0,33.0,0.14391745112237508
+2021-01-20,7026,Eivissa,Eivissa,3279,2044.0,1029.0,12.0,0.09067547723935389
+2021-01-20,7046,Sant Antoni de Portmany,Eivissa,1297,807.0,423.0,6.0,0.26061204343534056
+2021-01-20,7050,Sant Joan de Labritja,Eivissa,150,72.0,37.0,0.0,0.2328767123287671
+2021-01-20,7048,Sant Josep de sa Talaia,Eivissa,999,594.0,332.0,2.0,0.20189003436426117
+2021-01-20,7054,Santa Eulària des Riu,Eivissa,1433,783.0,513.0,13.0,0.20944558521560575
+2021-01-20,0,total-Eivissa,Eivissa,7158,4300.0,2334.0,33.0,0.1321512211441954
+2021-01-21,7026,Eivissa,Eivissa,3479,2044.0,1029.0,12.0,0.08930504438190084
+2021-01-21,7046,Sant Antoni de Portmany,Eivissa,1332,807.0,423.0,6.0,0.23887375113533152
+2021-01-21,7050,Sant Joan de Labritja,Eivissa,159,72.0,37.0,0.0,0.21428571428571427
+2021-01-21,7048,Sant Josep de sa Talaia,Eivissa,1033,594.0,332.0,2.0,0.17719568567026195
+2021-01-21,7054,Santa Eulària des Riu,Eivissa,1526,783.0,513.0,13.0,0.20902341519131926
+2021-01-21,0,total-Eivissa,Eivissa,7529,4300.0,2334.0,33.0,0.1270612485276796
+2021-01-22,7026,Eivissa,Eivissa,3632,2044.0,1029.0,12.0,0.09240480132450331
+2021-01-22,7046,Sant Antoni de Portmany,Eivissa,1403,807.0,423.0,6.0,0.223338485316847
+2021-01-22,7050,Sant Joan de Labritja,Eivissa,168,72.0,37.0,0.0,0.22388059701492538
+2021-01-22,7048,Sant Josep de sa Talaia,Eivissa,1094,594.0,332.0,2.0,0.18200408997955012
+2021-01-22,7054,Santa Eulària des Riu,Eivissa,1600,783.0,513.0,13.0,0.21106337271750805
+2021-01-22,0,total-Eivissa,Eivissa,7897,4300.0,2334.0,33.0,0.1302457205963556
+2021-01-23,7026,Eivissa,Eivissa,3759,2044.0,1029.0,12.0,0.10220572177331295
+2021-01-23,7046,Sant Antoni de Portmany,Eivissa,1442,807.0,423.0,6.0,0.12765017667844522
+2021-01-23,7050,Sant Joan de Labritja,Eivissa,171,72.0,37.0,0.0,0.20574162679425836
+2021-01-23,7048,Sant Josep de sa Talaia,Eivissa,1112,594.0,332.0,2.0,0.17465753424657535
+2021-01-23,7054,Santa Eulària des Riu,Eivissa,1632,783.0,513.0,13.0,0.1935320869125821
+2021-01-23,0,total-Eivissa,Eivissa,8116,4300.0,2334.0,33.0,0.12647644326476443
+2021-01-24,7026,Eivissa,Eivissa,3775,2044.0,1029.0,12.0,0.12168293688986663
+2021-01-24,7046,Sant Antoni de Portmany,Eivissa,1442,807.0,423.0,6.0,0.0715191478569617
+2021-01-24,7050,Sant Joan de Labritja,Eivissa,172,72.0,37.0,0.0,0.19801980198019803
+2021-01-24,7048,Sant Josep de sa Talaia,Eivissa,1118,594.0,332.0,2.0,0.18040873854827344
+2021-01-24,7054,Santa Eulària des Riu,Eivissa,1644,783.0,513.0,13.0,0.1951983298538622
+2021-01-24,0,total-Eivissa,Eivissa,8151,4300.0,2334.0,33.0,0.12451704738019385
+2021-01-25,7026,Eivissa,Eivissa,3928,2044.0,1029.0,12.0,0.14279379157427938
+2021-01-25,7046,Sant Antoni de Portmany,Eivissa,1476,807.0,423.0,6.0,0.057622793961301294
+2021-01-25,7050,Sant Joan de Labritja,Eivissa,175,72.0,37.0,0.0,0.18048780487804877
+2021-01-25,7048,Sant Josep de sa Talaia,Eivissa,1161,594.0,332.0,2.0,0.17363751584283904
+2021-01-25,7054,Santa Eulària des Riu,Eivissa,1736,783.0,513.0,13.0,0.1977401129943503
+2021-01-25,0,total-Eivissa,Eivissa,8476,4300.0,2334.0,33.0,0.128
+2021-01-26,7026,Eivissa,Eivissa,4013,2044.0,1029.0,12.0,0.15990042129452317
+2021-01-26,7046,Sant Antoni de Portmany,Eivissa,1540,807.0,423.0,6.0,0.05191504810310401
+2021-01-26,7050,Sant Joan de Labritja,Eivissa,181,72.0,37.0,0.0,0.19689119170984457
+2021-01-26,7048,Sant Josep de sa Talaia,Eivissa,1193,594.0,332.0,2.0,0.15538362346872986
+2021-01-26,7054,Santa Eulària des Riu,Eivissa,1784,783.0,513.0,13.0,0.19406614785992218
+2021-01-26,0,total-Eivissa,Eivissa,8711,4300.0,2334.0,33.0,0.1238042805037506
+2021-01-27,7026,Eivissa,Eivissa,4081,2954.0,1257.0,13.0,0.18352402745995422
+2021-01-27,7046,Sant Antoni de Portmany,Eivissa,1567,1164.0,443.0,8.0,0.04611443210930828
+2021-01-27,7050,Sant Joan de Labritja,Eivissa,188,109.0,45.0,0.0,0.1919191919191919
+2021-01-27,7048,Sant Josep de sa Talaia,Eivissa,1224,883.0,388.0,2.0,0.14563106796116504
+2021-01-27,7054,Santa Eulària des Riu,Eivissa,1824,1237.0,595.0,13.0,0.19147894221351616
+2021-01-27,0,total-Eivissa,Eivissa,8884,6347.0,2728.0,36.0,0.123197715917202
+2021-01-28,7026,Eivissa,Eivissa,4155,3076.0,1246.0,13.0,0.203003003003003
+2021-01-28,7046,Sant Antoni de Portmany,Eivissa,1594,1206.0,426.0,9.0,0.04539941084734015
+2021-01-28,7050,Sant Joan de Labritja,Eivissa,194,113.0,46.0,0.0,0.109717868338558
+2021-01-28,7048,Sant Josep de sa Talaia,Eivissa,1262,916.0,397.0,2.0,0.1578221915920055
+2021-01-28,7054,Santa Eulària des Riu,Eivissa,1878,1282.0,591.0,13.0,0.1665089877010407
+2021-01-28,0,total-Eivissa,Eivissa,9083,6593.0,2706.0,37.0,0.1196765498652291
+2021-01-29,7026,Eivissa,Eivissa,4210,3076.0,1246.0,13.0,0.19720232002729443
+2021-01-29,7046,Sant Antoni de Portmany,Eivissa,1603,1206.0,426.0,9.0,0.0357653791130186
+2021-01-29,7050,Sant Joan de Labritja,Eivissa,202,113.0,46.0,0.0,0.06181818181818182
+2021-01-29,7048,Sant Josep de sa Talaia,Eivissa,1280,916.0,397.0,2.0,0.14599686028257458
+2021-01-29,7054,Santa Eulària des Riu,Eivissa,1921,1282.0,591.0,13.0,0.1148479427549195
+2021-01-29,0,total-Eivissa,Eivissa,9216,6593.0,2706.0,37.0,0.10036524121138335
+2021-01-30,7026,Eivissa,Eivissa,4282,3076.0,1246.0,13.0,0.17485790705449683
+2021-01-30,7046,Sant Antoni de Portmany,Eivissa,1623,1206.0,426.0,9.0,0.03925395792669703
+2021-01-30,7050,Sant Joan de Labritja,Eivissa,211,113.0,46.0,0.0,0.05934718100890208
+2021-01-30,7048,Sant Josep de sa Talaia,Eivissa,1298,916.0,397.0,2.0,0.1453125
+2021-01-30,7054,Santa Eulària des Riu,Eivissa,1979,1282.0,591.0,13.0,0.08327333813294936
+2021-01-30,0,total-Eivissa,Eivissa,9393,6593.0,2706.0,37.0,0.09305545434671719
+2021-01-31,7026,Eivissa,Eivissa,4286,3342.0,1165.0,13.0,0.16677545691906004
+2021-01-31,7046,Sant Antoni de Portmany,Eivissa,1626,1280.0,390.0,9.0,0.06312178387650086
+2021-01-31,7050,Sant Joan de Labritja,Eivissa,212,120.0,60.0,1.0,0.058394160583941604
+2021-01-31,7048,Sant Josep de sa Talaia,Eivissa,1299,1006.0,360.0,2.0,0.13976833976833977
+2021-01-31,7054,Santa Eulària des Riu,Eivissa,2003,1407.0,628.0,15.0,0.0740970072239422
+2021-01-31,0,total-Eivissa,Eivissa,9426,7155.0,2603.0,40.0,0.09957825679475164

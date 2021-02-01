@@ -1,0 +1,5 @@
+date,region_code,region,recovered,active_cases,deceased,cases
+2021-01-13,1,Eivissa,3790,1740,31,5538
+2021-01-13,2,Formentera,253,42,3,298
+2021-01-13,3,Mallorca,27452,8110,456,35998
+2021-01-13,4,Menorca,968,341,17,1325

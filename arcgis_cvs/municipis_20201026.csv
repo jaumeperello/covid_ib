@@ -1,0 +1,68 @@
+date,region_code,region,illa,cases,recovered,active_cases,deceased
+2020-10-25,07027,Inca,Mallorca,467,361,92,10
+2020-10-25,07029,Lloseta,Mallorca,32,24,8,0
+2020-10-25,07030,Llubí,Mallorca,29,23,6,0
+2020-10-25,07034,Mancor de la Vall,Mallorca,6,5,1,0
+2020-10-25,07035,Maria de la Salut,Mallorca,17,16,1,0
+2020-10-25,07036,Marratxí,Mallorca,588,499,86,5
+2020-10-25,07038,Montuïri,Mallorca,72,19,40,11
+2020-10-25,07039,Muro,Mallorca,66,55,9,3
+2020-10-25,07040,Palma,Mallorca,8959,7343,1427,210
+2020-10-25,07042,Pollença,Mallorca,99,76,23,2
+2020-10-25,07043,Porreres,Mallorca,39,36,5,0
+2020-10-25,07046,Sant Antoni de Portmany,Eivissa,420,346,74,3
+2020-10-25,07041,Petra,Mallorca,0,0,0,0
+2020-10-25,07045,Puigpunyent,Mallorca,16,14,3,0
+2020-10-25,07044,Sa Pobla,Mallorca,159,131,29,0
+2020-10-25,07049,Sant Joan,Mallorca,100,47,37,11
+2020-10-25,07050,Sant Joan de Labritja,Eivissa,41,39,3,0
+2020-10-25,07048,Sant Josep de sa Talaia,Eivissa,391,349,42,1
+2020-10-25,07051,Sant Llorenç des Cardassar,Mallorca,42,29,11,2
+2020-10-25,07052,Sant Lluís,Menorca,30,24,5,1
+2020-10-25,07053,Santa Eugènia,Mallorca,4,4,0,0
+2020-10-25,07054,Santa Eulària des Riu,Eivissa,358,296,62,9
+2020-10-25,07055,Santa Margalida,Mallorca,88,74,14,0
+2020-10-25,07056,Santa Maria del Camí,Mallorca,114,104,9,1
+2020-10-25,07057,Santanyí,Mallorca,61,52,9,1
+2020-10-25,07058,Selva,Mallorca,26,17,9,1
+2020-10-25,07047,Sencelles,Mallorca,23,19,3,1
+2020-10-25,07059,Ses Salines,Mallorca,16,11,4,1
+2020-10-25,07060,Sineu,Mallorca,31,28,1,1
+2020-10-25,07061,Sóller,Mallorca,263,161,79,19
+2020-10-25,07062,Son Servera,Mallorca,79,64,15,2
+2020-10-25,07063,Valldemossa,Mallorca,24,20,3,1
+2020-10-25,07065,Vilafranca de Bonany,Mallorca,49,42,7,1
+2020-10-25,07002,Alaior,Menorca,31,14,17,0
+2020-10-25,07001,Alaró,Mallorca,89,67,21,1
+2020-10-25,07003,Alcúdia,Mallorca,157,143,17,0
+2020-10-25,07004,Algaida,Mallorca,44,37,7,1
+2020-10-25,07005,Andratx,Mallorca,91,64,27,2
+2020-10-25,07901,Ariany,Mallorca,11,10,1,0
+2020-10-25,07006,Artà,Mallorca,67,56,12,0
+2020-10-25,07007,Banyalbufar,Mallorca,5,4,1,0
+2020-10-25,07008,Binissalem,Mallorca,106,83,22,1
+2020-10-25,07009,Búger,Mallorca,5,4,1,0
+2020-10-25,07010,Bunyola,Mallorca,75,62,11,3
+2020-10-25,07011,Calvià,Mallorca,642,518,108,21
+2020-10-25,07013,Campos,Mallorca,88,78,10,2
+2020-10-25,07014,Capdepera,Mallorca,125,81,41,2
+2020-10-25,07015,Ciutadella de Menorca,Menorca,253,193,57,3
+2020-10-25,07012,Campanet,Mallorca,21,15,6,0
+2020-10-25,07016,Consell,Mallorca,32,28,4,0
+2020-10-25,07017,Costitx,Mallorca,7,4,3,0
+2020-10-25,07018,Deià,Mallorca,7,6,1,0
+2020-10-25,07026,Eivissa,Eivissa,1252,1080,178,3
+2020-10-25,07064,Es Castell,Menorca,22,16,6,0
+2020-10-25,07037,Es Mercadal,Menorca,28,23,1,4
+2020-10-25,07902,Es Migjorn Gran,Menorca,2,2,0,0
+2020-10-25,07019,Escorca,Mallorca,1,0,1,0
+2020-10-25,07020,Esporles,Mallorca,66,54,11,1
+2020-10-25,07021,Estellencs,Mallorca,1,0,1,0
+2020-10-25,07022,Felanitx,Mallorca,132,88,39,5
+2020-10-25,07023,Ferreries,Menorca,2,1,1,0
+2020-10-25,07024,Formentera,Formentera,140,130,9,1
+2020-10-25,07025,Fornalutx,Mallorca,0,0,0,0
+2020-10-25,07028,Lloret de Vistalegre,Mallorca,5,4,2,0
+2020-10-25,07031,Llucmajor,Mallorca,528,441,84,3
+2020-10-25,07033,Manacor,Mallorca,531,345,184,8
+2020-10-25,07032,Maó,Menorca,155,111,39,6

@@ -1,0 +1,5 @@
+date,region_code,region,recovered,active_cases,deceased,cases
+2020-10-22,1,Eivissa,2043,368,16,2404
+2020-10-22,2,Formentera,129,9,1,139
+2020-10-22,3,Mallorca,11143,2405,328,13835
+2020-10-22,4,Menorca,356,126,14,495

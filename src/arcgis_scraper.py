@@ -63,7 +63,7 @@ def generate_municipis(last_date, data_directory="../arcgis_dades/", output_dire
     total_df.set_index(['date', 'region_code'], inplace=True)
 
     if save:
-        today = datetime.now().strftime('%Y%m%d')
+        today = datetime.now()
         df['date'] = pd.to_datetime(df['date'])
         df.set_index(['date', 'region_code'], inplace=True)
         df.to_csv(output_directory + 'municipis_' + today.strftime('%Y%m%d') + '.csv')
@@ -123,7 +123,7 @@ def generate_illes(last_date, data_directory="../arcgis_dades/", output_director
     total_df['date'] = pd.to_datetime(total_df['date'])
     total_df.set_index(['date', 'region_code'], inplace=True)
     if save:
-        today = datetime.now().strftime('%Y%m%d')
+        today = datetime.now()
         df['date'] = pd.to_datetime(df['date'])
         df.set_index(['date', 'region_code'], inplace=True)
         df.to_csv(output_directory + 'illes_' + today.strftime('%Y%m%d') + '.csv')

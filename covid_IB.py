@@ -238,9 +238,12 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
     logging.info('done')
 
 
-def get_csv(outputpath="data/", inputpath="download/", force=True):
+def get_csv(outputpath="data/", inputpath="download/", force=False):
 
-    if arcgis_has_changes(f"{inputpath}arcgis/", "arcgis_dades/", "arcgis_cvs/") or hospital_has_changes(f"{inputpath}covid19_IB/") or goib_xlsx_has_changes(f"{inputpath}gov_xlsx/") or force:
+    arcgis = arcgis_has_changes(f"{inputpath}arcgis/", "arcgis_dades/", "arcgis_cvs/")
+    hospital = hospital_has_changes(f"{inputpath}covid19_IB/")
+    goib = goib_xlsx_has_changes(f"{inputpath}gov_xlsx/")
+    if arcgis or hospital or goib or force:
         merge_files_to_csv(inputpath, outputpath)
         logging.info("New files generated")
         return True

@@ -33,7 +33,7 @@ def git_push(data_folder="data/"):
 
 def main():
     scheduler = BlockingScheduler()
-    scheduler.add_job(push_data, 'interval', seconds=5)
+    scheduler.add_job(push_data, 'interval', hours=1)
     logging.info("Started")
     scheduler.start()
     logging.info("Ended")

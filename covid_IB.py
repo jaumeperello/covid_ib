@@ -180,7 +180,7 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
                 'active_cases': 0,
                 'deceased': 0,
             }
-
+        prev_recovered, prev_active, prev_deceased = 0, 0, 0
         for region in dades[date].keys():
             recovered, active, deceased = (0, 0, 0)
             dada = dades[date][region]
@@ -196,6 +196,10 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
                 recovered = municipis_df[illa].loc[(date, regionCode)]['recovered']
                 active = municipis_df[illa].loc[(date, regionCode)]['active_cases']
                 deceased = municipis_df[illa].loc[(date, regionCode)]['deceased']
+
+            if recovered == 0 and active == 0 and deceased == 0:
+                recovered, active, deceased = prev_recovered, prev_active, prev_deceased
+            prev_recovered, prev_active, prev_deceased = recovered, active, deceased
 
             if illa != 'balears':
                 illes[dada['illa']]['recovered'] += recovered

@@ -1,5 +1,4 @@
-from apscheduler.schedulers.asyncio import AsyncIOScheduler
-import asyncio
+from apscheduler.schedulers.blocking import BlockingScheduler
 from covid_IB import get_csv
 import logging
 from git import Repo, GitCommandError
@@ -16,6 +15,8 @@ def push_data():
         git_push("download/")
         git_push("arcgis_cvs/")
         return True
+    logging.info("No data to update")
+    return False
 
 
 def git_push(data_folder="data/"):
@@ -30,13 +31,13 @@ def git_push(data_folder="data/"):
         logging.info(f'Some error occured while pushing the code: {e}')
 
 
-async def main():
-    scheduler = AsyncIOScheduler()
-    scheduler.add_job(push_data, "interval", hours=1)
-    scheduler.start()
+def main():
+    scheduler = BlockingScheduler()
+    scheduler.add_job(push_data, 'interval', seconds=5)
     logging.info("Started")
+    scheduler.start()
+    logging.info("Ended")
 
 
 if __name__ == "__main__":
-    loop = asyncio.get_event_loop()
-    loop.run_until_complete(main())
+    main()

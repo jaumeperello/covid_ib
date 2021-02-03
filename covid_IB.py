@@ -227,7 +227,7 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
             if date in tp_illes.keys():
                 tp7d = tp_illes[date][illa]
             if illa != 'total-balears':
-                data[illa.lower()].append([date, 0, "total-" + illa, illa, illes[illa]['cases'], illes[illa]['recovered'], illes[illa]['active_cases'], illes[illa]['deceased'], tp7d])
+                data[illa.lower()].append([date, 0, "total-" + illa.lower(), illa, illes[illa]['cases'], illes[illa]['recovered'], illes[illa]['active_cases'], illes[illa]['deceased'], tp7d])
             dataBalears.append([date, islandCodes[illa], illa, illes[illa]['cases'], illes[illa]['recovered'], illes[illa]['active_cases'], illes[illa]['deceased'], tp7d, illes[illa]['hospitalized'], illes[illa]['intensivecare']])
 
     for illa in scope:

@@ -3096,6 +3096,7 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-02-01,7052,Sant Lluís,Menorca,81,53.0,15.0,1.0,0.05517241379310345
 2021-02-01,0,total-menorca,Menorca,2002,1498.0,356.0,21.0,0.05466237942122187
 <<<<<<< HEAD
+<<<<<<< HEAD
 2021-02-02,7002,Alaior,Menorca,240,219.0,21.0,2.0,0.03888888888888889
 2021-02-02,7064,Es Castell,Menorca,141,116.0,9.0,1.0,0.02702702702702703
 2021-02-02,7015,Ciutadella de Menorca,Menorca,818,612.0,195.0,5.0,0.045078196872125116
@@ -3106,6 +3107,8 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-02-02,7052,Sant Lluís,Menorca,83,54.0,16.0,1.0,0.043478260869565216
 2021-02-02,0,total-menorca,Menorca,2021,1525.0,353.0,22.0,0.05009560229445507
 =======
+=======
+>>>>>>> 90447c78032e71f2741d775ee749645abdeef5b1
 2021-02-02,7002,Alaior,Menorca,240,0,0,0,0.03888888888888889
 2021-02-02,7064,Es Castell,Menorca,141,0,0,0,0.02702702702702703
 2021-02-02,7015,Ciutadella de Menorca,Menorca,818,0,0,0,0.045078196872125116
@@ -3115,4 +3118,7 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-02-02,7902,Es Migjorn Gran,Menorca,12,0,0,0,0
 2021-02-02,7052,Sant Lluís,Menorca,83,0,0,0,0.043478260869565216
 2021-02-02,0,total-menorca,Menorca,2021,0,0,0,0.05009560229445507
+<<<<<<< HEAD
+>>>>>>> 90447c78032e71f2741d775ee749645abdeef5b1
+=======
 >>>>>>> 90447c78032e71f2741d775ee749645abdeef5b1

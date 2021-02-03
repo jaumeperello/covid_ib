@@ -688,8 +688,13 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-02-01,7024,Formentera,Formentera,401,342.0,132.0,3.0,0.11965811965811966
 2021-02-01,0,total-formentera,Formentera,401,342.0,132.0,3.0,0.11965811965811966
 <<<<<<< HEAD
+<<<<<<< HEAD
 2021-02-02,7024,Formentera,Formentera,403,355.0,121.0,3.0,0.09545454545454546
 2021-02-02,0,total-formentera,Formentera,403,355.0,121.0,3.0,0.09545454545454546
+=======
+2021-02-02,7024,Formentera,Formentera,403,0,0,0,0.09545454545454546
+2021-02-02,0,total-formentera,Formentera,403,0,0,0,0.09545454545454546
+>>>>>>> 90447c78032e71f2741d775ee749645abdeef5b1
 =======
 2021-02-02,7024,Formentera,Formentera,403,0,0,0,0.09545454545454546
 2021-02-02,0,total-formentera,Formentera,403,0,0,0,0.09545454545454546

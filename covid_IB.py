@@ -180,7 +180,6 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
                 'active_cases': 0,
                 'deceased': 0,
             }
-
         prev_recovered, prev_active, prev_deceased = 0, 0, 0
         for region in dades[date].keys():
             recovered, active, deceased = (0, 0, 0)

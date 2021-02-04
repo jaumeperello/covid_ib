@@ -5,6 +5,9 @@ __pycache__
 .directory
 arcgis_dades/*
 download/*
+logs/*
+error/*
+run.sh
 !download/arcgis/*
 !download/gov_xlsx/*
 !arcgis_dades/temp*

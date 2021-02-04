@@ -163,7 +163,7 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
     for illa in scope:
         data[illa].append(['date', 'region_code', 'region', 'illa', 'cases', 'recovered', 'active_cases', 'deceased', 'tp7d'])
     dataBalears.append(['date', 'region_code', 'region', 'cases', 'recovered', 'active_cases', 'deceased', 'tp7d', 'hospitalized', 'intensivecare'])
-    previous_date = None
+    previous_dates = []
     for date in dades.keys():
         logging.info(f"processing: {date}")
         illes = {
@@ -193,15 +193,21 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
             if date in tp_mun.keys() and illa != 'balears':
                 tp7d = tp_mun[date][dada['nom']]
 
-            if illa != "balears" and municipis_df[illa].index.isin([(date, regionCode)]).any():
-                recovered = max(0, dada['casos'] - municipis_df[illa].loc[(date, regionCode)]['active_cases'])
-                active = municipis_df[illa].loc[(date, regionCode)]['active_cases']
-                deceased = municipis_df[illa].loc[(date, regionCode)]['deceased']
-            elif previous_date and illa != "balears" and municipis_df[illa].index.isin([(previous_date, regionCode)]).any():
-                recovered = max(0, dada['casos'] - municipis_df[illa].loc[(previous_date, regionCode)]['active_cases'])
-                active = municipis_df[illa].loc[(previous_date, regionCode)]['active_cases']
-                deceased = municipis_df[illa].loc[(previous_date, regionCode)]['deceased']
+            # adding recovered active and deceased from arcgis starting from 2020-10-6
+            if datetime.datetime.strptime(date, '%Y-%m-%d') > datetime.datetime.strptime("2020-10-6", '%Y-%m-%d'):
+                if illa != "balears" and municipis_df[illa].index.isin([(date, regionCode)]).any():
+                    recovered = max(0, dada['casos'] - municipis_df[illa].loc[(date, regionCode)]['active_cases'])
+                    active = municipis_df[illa].loc[(date, regionCode)]['active_cases']
+                    deceased = municipis_df[illa].loc[(date, regionCode)]['deceased']
+                elif len(previous_dates) > 0 and illa != "balears":
+                    for previous_date in previous_dates[::-1]:
+                        if municipis_df[illa].index.isin([(previous_date, regionCode)]).any():
+                            recovered = max(0, dada['casos'] - municipis_df[illa].loc[(previous_date, regionCode)]['active_cases'])
+                            active = municipis_df[illa].loc[(previous_date, regionCode)]['active_cases']
+                            deceased = municipis_df[illa].loc[(previous_date, regionCode)]['deceased']
+                            break
 
+            # total data for IB, and every island
             if illa != 'balears':
                 illes[dada['illa']]['recovered'] += recovered
                 illes[dada['illa']]['active_cases'] += active
@@ -220,6 +226,7 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
                 illes[region]['cases'] = dada['casos']
                 illes[region]['hospitalized'] = 0
                 illes[region]['intensivecare'] = 0
+                # adding hospitalized and intensivecare if regions is IB or an island
                 if ib_df.index.isin([(date, islandCodes[region])]).any() and not np.isnan(ib_df.loc[(date, islandCodes[region])]['active_hospital_admissions']):
                     illes[region]['hospitalized'] = int(ib_df.loc[(date, islandCodes[region])]['active_hospital_admissions']) + int(ib_df.loc[(date, islandCodes[region])]['active_icu'])
                     illes[region]['intensivecare'] = int(ib_df.loc[(date, islandCodes[region])]['active_icu'])
@@ -234,7 +241,7 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
             if illa != 'total-balears':
                 data[illa.lower()].append([date, 0, "total-" + illa.lower(), illa, illes[illa]['cases'], illes[illa]['recovered'], illes[illa]['active_cases'], illes[illa]['deceased'], tp7d])
             dataBalears.append([date, islandCodes[illa], illa, illes[illa]['cases'], illes[illa]['recovered'], illes[illa]['active_cases'], illes[illa]['deceased'], tp7d, illes[illa]['hospitalized'], illes[illa]['intensivecare']])
-        previous_date = date
+        previous_dates.append(date)
 
     for illa in scope:
         np.savetxt(f"{outputpath}{illa}_total.csv", data[illa], delimiter=",", fmt='%s')

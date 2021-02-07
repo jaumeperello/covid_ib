@@ -224,8 +224,8 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
                     illes['total-balears']['intensivecare'] = int(ib_df.loc[(date, 0)]['active_icu'])
             else:
                 illes[region]['cases'] = dada['casos']
-                illes[region]['hospitalized'] = 0
-                illes[region]['intensivecare'] = 0
+                illes[region]['hospitalized'] = float("NaN")
+                illes[region]['intensivecare'] = float("NaN")
                 # adding hospitalized and intensivecare if regions is IB or an island
                 if ib_df.index.isin([(date, islandCodes[region])]).any() and not np.isnan(ib_df.loc[(date, islandCodes[region])]['active_hospital_admissions']):
                     illes[region]['hospitalized'] = int(ib_df.loc[(date, islandCodes[region])]['active_hospital_admissions']) + int(ib_df.loc[(date, islandCodes[region])]['active_icu'])

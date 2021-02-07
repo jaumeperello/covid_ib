@@ -217,8 +217,8 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
                 illes['total-balears']['deceased'] += deceased
             elif region == 'Balears':
                 illes['total-balears']['cases'] = dada['casos']
-                illes['total-balears']['hospitalized'] = 0
-                illes['total-balears']['intensivecare'] = 0
+                illes['total-balears']['hospitalized'] = float("NaN")
+                illes['total-balears']['intensivecare'] = float("NaN")
                 if ib_df.index.isin([(date, 0)]).any():
                     illes['total-balears']['hospitalized'] = int(ib_df.loc[(date, 0)]['active_hospital_admissions']) + int(ib_df.loc[(date, 0)]['active_icu'])
                     illes['total-balears']['intensivecare'] = int(ib_df.loc[(date, 0)]['active_icu'])

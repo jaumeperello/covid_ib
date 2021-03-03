@@ -130,7 +130,7 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
 
     row_last_mun = 0
     for row in sheet.iter_rows(min_row=row_header):
-        if row[1].value is None or row[0].value == 'Desconeguda':
+        if row[1].value is None or row[0].value == 'Tp 7D PER EAP':
             break
         row_last_mun = row[0].row
 
@@ -157,8 +157,9 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
                 tp_illes[dates[i].value.strftime("%Y-%m-%d")][illa] = row[i]
     # Get Municipis data
     for row in sheet.iter_rows(min_row=row_first_mun, max_row=row_last_mun, min_col=0, max_col=col_yesterday, values_only=True):
-        for i in range(1, col_yesterday):
-            tp_mun[dates[i].value.strftime("%Y-%m-%d")][renameRegions[row[0]]] = row[i]
+        if row[0] != 'Desconeguda':
+            for i in range(1, col_yesterday):
+                tp_mun[dates[i].value.strftime("%Y-%m-%d")][renameRegions[row[0]]] = row[i]
 
     for illa in scope:
         data[illa].append(['date', 'region_code', 'region', 'illa', 'cases', 'recovered', 'active_cases', 'deceased', 'tp7d'])

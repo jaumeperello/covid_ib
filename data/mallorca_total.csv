@@ -20303,3 +20303,57 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-03-05,7063,Valldemossa,Mallorca,67,65.0,2.0,2.0,0
 2021-03-05,7065,Vilafranca de Bonany,Mallorca,143,136.0,7.0,1.0,0
 2021-03-05,0,total-mallorca,Mallorca,44404,43024.0,1380.0,630.0,0.018656100379725937
+2021-03-06,7001,Alaró,Mallorca,271,265.0,6.0,5.0,0
+2021-03-06,7003,Alcúdia,Mallorca,779,760.0,19.0,11.0,0
+2021-03-06,7004,Algaida,Mallorca,142,139.0,3.0,1.0,0
+2021-03-06,7005,Andratx,Mallorca,425,414.0,11.0,4.0,0
+2021-03-06,7901,Ariany,Mallorca,48,47.0,1.0,0.0,0
+2021-03-06,7006,Artà,Mallorca,276,269.0,7.0,0.0,0
+2021-03-06,7007,Banyalbufar,Mallorca,13,13.0,0.0,0.0,0
+2021-03-06,7008,Binissalem,Mallorca,407,395.0,12.0,3.0,0
+2021-03-06,7009,Búger,Mallorca,23,23.0,0.0,1.0,0
+2021-03-06,7010,Bunyola,Mallorca,260,250.0,10.0,3.0,0
+2021-03-06,7011,Calvià,Mallorca,2034,1987.0,47.0,42.0,0
+2021-03-06,7012,Campanet,Mallorca,73,70.0,3.0,1.0,0
+2021-03-06,7013,Campos,Mallorca,324,305.0,19.0,10.0,0
+2021-03-06,7014,Capdepera,Mallorca,276,265.0,11.0,3.0,0
+2021-03-06,7016,Consell,Mallorca,170,161.0,9.0,1.0,0
+2021-03-06,7017,Costitx,Mallorca,29,28.0,1.0,1.0,0
+2021-03-06,7018,Deià,Mallorca,18,17.0,1.0,1.0,0
+2021-03-06,7019,Escorca,Mallorca,7,7.0,0.0,0.0,0
+2021-03-06,7020,Esporles,Mallorca,186,182.0,4.0,4.0,0
+2021-03-06,7021,Estellencs,Mallorca,7,7.0,0.0,0.0,0
+2021-03-06,7022,Felanitx,Mallorca,520,499.0,21.0,5.0,0
+2021-03-06,7025,Fornalutx,Mallorca,17,17.0,0.0,0.0,0
+2021-03-06,7027,Inca,Mallorca,1623,1554.0,69.0,20.0,0
+2021-03-06,7028,Lloret de Vistalegre,Mallorca,23,22.0,1.0,0.0,0
+2021-03-06,7029,Lloseta,Mallorca,303,290.0,13.0,3.0,0
+2021-03-06,7030,Llubí,Mallorca,84,82.0,2.0,0.0,0
+2021-03-06,7031,Llucmajor,Mallorca,1508,1477.0,31.0,9.0,0
+2021-03-06,7033,Manacor,Mallorca,1870,1769.0,101.0,21.0,0
+2021-03-06,7034,Mancor de la Vall,Mallorca,38,38.0,0.0,0.0,0
+2021-03-06,7035,Maria de la Salut,Mallorca,69,69.0,0.0,0.0,0
+2021-03-06,7036,Marratxí,Mallorca,1961,1892.0,69.0,18.0,0
+2021-03-06,7038,Montuïri,Mallorca,166,152.0,14.0,13.0,0
+2021-03-06,7039,Muro,Mallorca,251,246.0,5.0,5.0,0
+2021-03-06,7040,Palma,Mallorca,25285,24538.0,747.0,353.0,0
+2021-03-06,7041,Petra,Mallorca,107,99.0,8.0,0.0,0
+2021-03-06,7044,Sa Pobla,Mallorca,769,755.0,14.0,8.0,0
+2021-03-06,7042,Pollença,Mallorca,608,599.0,9.0,17.0,0
+2021-03-06,7043,Porreres,Mallorca,129,124.0,5.0,1.0,0
+2021-03-06,7045,Puigpunyent,Mallorca,94,92.0,2.0,0.0,0
+2021-03-06,7059,Ses Salines,Mallorca,96,92.0,4.0,2.0,0
+2021-03-06,7049,Sant Joan,Mallorca,172,171.0,1.0,12.0,0
+2021-03-06,7051,Sant Llorenç des Cardassar,Mallorca,188,183.0,5.0,2.0,0
+2021-03-06,7053,Santa Eugènia,Mallorca,68,60.0,8.0,0.0,0
+2021-03-06,7055,Santa Margalida,Mallorca,436,426.0,10.0,3.0,0
+2021-03-06,7056,Santa Maria del Camí,Mallorca,369,359.0,10.0,3.0,0
+2021-03-06,7057,Santanyí,Mallorca,296,290.0,6.0,10.0,0
+2021-03-06,7058,Selva,Mallorca,139,135.0,4.0,3.0,0
+2021-03-06,7047,Sencelles,Mallorca,127,123.0,4.0,1.0,0
+2021-03-06,7060,Sineu,Mallorca,114,111.0,3.0,1.0,0
+2021-03-06,7061,Sóller,Mallorca,657,632.0,25.0,23.0,0
+2021-03-06,7062,Son Servera,Mallorca,339,323.0,16.0,3.0,0
+2021-03-06,7063,Valldemossa,Mallorca,67,65.0,2.0,2.0,0
+2021-03-06,7065,Vilafranca de Bonany,Mallorca,143,136.0,7.0,1.0,0
+2021-03-06,0,total-mallorca,Mallorca,44404,43024.0,1380.0,630.0,0

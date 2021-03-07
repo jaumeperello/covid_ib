@@ -2255,3 +2255,9 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-03-05,7048,Sant Josep de sa Talaia,Eivissa,1470,1407.0,63.0,6.0,0.012987012987012988
 2021-03-05,7054,Santa Eulària des Riu,Eivissa,2294,2200.0,94.0,20.0,0.012539184952978056
 2021-03-05,0,total-eivissa,Eivissa,10636,10188.0,448.0,72.0,0.02127659574468085
+2021-03-06,7026,Eivissa,Eivissa,4804,4606.0,198.0,29.0,0
+2021-03-06,7046,Sant Antoni de Portmany,Eivissa,1840,1752.0,88.0,15.0,0
+2021-03-06,7050,Sant Joan de Labritja,Eivissa,228,223.0,5.0,2.0,0
+2021-03-06,7048,Sant Josep de sa Talaia,Eivissa,1470,1407.0,63.0,6.0,0
+2021-03-06,7054,Santa Eulària des Riu,Eivissa,2294,2200.0,94.0,20.0,0
+2021-03-06,0,total-eivissa,Eivissa,10636,10188.0,448.0,72.0,0

@@ -3392,3 +3392,12 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-03-06,7902,Es Migjorn Gran,Menorca,12,12.0,0.0,0.0,0
 2021-03-06,7052,Sant Lluís,Menorca,91,85.0,6.0,2.0,0
 2021-03-06,0,total-menorca,Menorca,2086,2023.0,63.0,25.0,0.004901960784313725
+2021-03-07,7002,Alaior,Menorca,238,236.0,2.0,2.0,0
+2021-03-07,7064,Es Castell,Menorca,146,143.0,3.0,1.0,0
+2021-03-07,7015,Ciutadella de Menorca,Menorca,846,818.0,28.0,7.0,0.004878048780487805
+2021-03-07,7023,Ferreries,Menorca,29,29.0,0.0,0.0,0
+2021-03-07,7032,Maó,Menorca,627,614.0,13.0,9.0,0.00784313725490196
+2021-03-07,7037,Es Mercadal,Menorca,97,95.0,2.0,4.0,0
+2021-03-07,7902,Es Migjorn Gran,Menorca,12,12.0,0.0,0.0,0
+2021-03-07,7052,Sant Lluís,Menorca,91,85.0,6.0,2.0,0
+2021-03-07,0,total-menorca,Menorca,2086,2032.0,54.0,25.0,0.004347826086956522

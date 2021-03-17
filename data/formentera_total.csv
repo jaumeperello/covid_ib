@@ -767,7 +767,9 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-03-12,0,total-formentera,Formentera,425,414.0,11.0,5.0,0
 2021-03-13,7024,Formentera,Formentera,425,414.0,11.0,5.0,0
 2021-03-13,0,total-formentera,Formentera,425,414.0,11.0,5.0,0
-2021-03-14,7024,Formentera,Formentera,425,419.0,6.0,5.0,0
-2021-03-14,0,total-formentera,Formentera,425,419.0,6.0,5.0,0
-2021-03-15,7024,Formentera,Formentera,425,419.0,6.0,5.0,0
-2021-03-15,0,total-formentera,Formentera,425,419.0,6.0,5.0,0
+2021-03-14,7024,Formentera,Formentera,425,419.0,6.0,5.0,0.013157894736842105
+2021-03-14,0,total-formentera,Formentera,425,419.0,6.0,5.0,0.013157894736842105
+2021-03-15,7024,Formentera,Formentera,426,420.0,6.0,5.0,0.024390243902439025
+2021-03-15,0,total-formentera,Formentera,426,420.0,6.0,5.0,0.024390243902439025
+2021-03-16,7024,Formentera,Formentera,427,419.0,8.0,5.0,0.03125
+2021-03-16,0,total-formentera,Formentera,427,419.0,8.0,5.0,0.03125

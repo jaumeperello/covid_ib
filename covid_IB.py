@@ -27,14 +27,14 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
     sheet = wb['PDIA+xMUNICIPI']
     row_header = 0
     for row in sheet.iter_rows():
-        if row[1].value == 'MUNICIPI_NOU':
-            row_header = row[1].row
+        if row[2].value == 'MUNICIPI_NOU':
+            row_header = row[2].row
             break
 
     row_last_mun = 0
     for row in sheet.iter_rows(min_row=row_header):
-        if row[1].value and row[1].value == 'TOTAL ILLES BALEARS':
-            row_last_mun = row[1].row
+        if row[2].value and row[2].value == 'TOTAL ILLES BALEARS':
+            row_last_mun = row[2].row
             break
 
     scope = ['mallorca', 'menorca', 'eivissa', 'formentera']
@@ -81,26 +81,26 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
     for i in range(3, col_yesterday):
         dades[dates[i].value.strftime("%Y-%m-%d")] = {}
     for row in sheet.iter_rows(min_row=row_header + 1, max_row=row_last_mun, min_col=0, max_col=col_yesterday, values_only=True):
-        if row[0] == 'S/D' or row[1] == 'ILLES' or row[1] == 'Desconeguda':
+        if row[1] == 'S/D' or row[2] == 'ILLES' or row[2] == 'Desconeguda':
             continue
-        if row[0] is None and row[1] is None:
+        if row[1] is None and row[2] is None:
             continue
         total_casos = 0
         for i in range(3, col_yesterday):
             illa = None
             nom = None
-            name = row[1]
+            name = row[2]
             total_casos = row[i] + total_casos
-            if row[1].lower() in scope and row[0] is None:
+            if row[2].lower() in scope and row[1] is None:
                 illa = 'Balears'
-                nom = row[1]
-            elif row[1] == 'TOTAL ILLES BALEARS':
+                nom = row[2]
+            elif row[2] == 'TOTAL ILLES BALEARS':
                 illa = 'Balears'
                 nom = 'total-balears'
                 name = 'Balears'
-            elif row[1] != 'S/D':
-                illa = row[0]
-                nom = renameRegions[row[1]]
+            elif row[2] != 'S/D':
+                illa = row[1]
+                nom = renameRegions[row[2]]
             dades[dates[i].value.strftime("%Y-%m-%d")][name] = {
                 'nom': nom,
                 'illa': illa,
@@ -109,7 +109,7 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
 
     # Reading TP7ID #
 
-    sheet = wb['TP7D']
+    sheet = wb['TP7D_COMPLET']
     row_header = 0
 
     # islands rows
@@ -117,7 +117,7 @@ def merge_files_to_csv(inputpath="dowload/", outputpath="data/"):
         if row[0].value == 'Tp 7D PER ILLES':
             row_header = row[0].row
             break
-    row_first_isl = row_header + 2
+    row_first_isl = row_header + 1
     row_last_isl = row_first_isl + 5
 
     # municipis rows

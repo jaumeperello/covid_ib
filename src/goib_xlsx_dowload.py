@@ -27,7 +27,7 @@ def goib_xlsx_has_changes(base_directory="../download/gov_xlsx/"):
     page = urlopen(url)
     html = page.read().decode("utf-8")
     # print(html)
-    reg_exp = '<a href="([^"]*)" title="AN&Agrave;LISI PDIA PER MUNICIPIS_EAP AMB DADES \(XLXS, 2MB\)">'
+    reg_exp = '<a href="([^"]*)" title="AN&Agrave;LISI PDIA PER MUNICIPIS_EAP AMB DADES \(XLXS, [0-9]*MB\)">'
     match_results = re.search(reg_exp, html)
     document = f"{url}{match_results.group(1)}".replace('&amp;', '&')
     logging.info(f"file url: {document}")

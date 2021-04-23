@@ -3405,7 +3405,7 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-03-08,7064,Es Castell,Menorca,147,144.0,3.0,1.0,0
 2021-03-08,7015,Ciutadella de Menorca,Menorca,845,822.0,23.0,7.0,0.004464285714285714
 2021-03-08,7023,Ferreries,Menorca,31,31.0,0.0,0.0,0
-2021-03-08,7032,Maó,Menorca,629,615.0,14.0,9.0,0.0136986301369863
+2021-03-08,7032,Maó,Menorca,629,615.0,14.0,9.0,0.013745704467353952
 2021-03-08,7037,Es Mercadal,Menorca,97,95.0,2.0,4.0,0
 2021-03-08,7902,Es Migjorn Gran,Menorca,13,13.0,0.0,0.0,0
 2021-03-08,7052,Sant Lluís,Menorca,92,88.0,4.0,2.0,0
@@ -3414,7 +3414,7 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-03-09,7064,Es Castell,Menorca,147,144.0,3.0,1.0,0
 2021-03-09,7015,Ciutadella de Menorca,Menorca,845,822.0,23.0,7.0,0.004424778761061947
 2021-03-09,7023,Ferreries,Menorca,31,31.0,0.0,0.0,0
-2021-03-09,7032,Maó,Menorca,630,616.0,14.0,9.0,0.016611295681063124
+2021-03-09,7032,Maó,Menorca,630,616.0,14.0,9.0,0.016666666666666666
 2021-03-09,7037,Es Mercadal,Menorca,97,95.0,2.0,4.0,0
 2021-03-09,7902,Es Migjorn Gran,Menorca,13,13.0,0.0,0.0,0
 2021-03-09,7052,Sant Lluís,Menorca,92,88.0,4.0,2.0,0
@@ -3423,7 +3423,7 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-03-10,7064,Es Castell,Menorca,147,145.0,2.0,1.0,0
 2021-03-10,7015,Ciutadella de Menorca,Menorca,845,826.0,19.0,7.0,0
 2021-03-10,7023,Ferreries,Menorca,31,31.0,0.0,0.0,0
-2021-03-10,7032,Maó,Menorca,631,618.0,13.0,9.0,0.016891891891891893
+2021-03-10,7032,Maó,Menorca,631,618.0,13.0,9.0,0.01694915254237288
 2021-03-10,7037,Es Mercadal,Menorca,97,95.0,2.0,4.0,0
 2021-03-10,7902,Es Migjorn Gran,Menorca,13,13.0,0.0,0.0,0
 2021-03-10,7052,Sant Lluís,Menorca,92,88.0,4.0,2.0,0
@@ -3432,7 +3432,7 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-03-11,7064,Es Castell,Menorca,147,146.0,1.0,1.0,0
 2021-03-11,7015,Ciutadella de Menorca,Menorca,845,827.0,18.0,7.0,0
 2021-03-11,7023,Ferreries,Menorca,31,31.0,0.0,0.0,0
-2021-03-11,7032,Maó,Menorca,631,619.0,12.0,9.0,0.018050541516245487
+2021-03-11,7032,Maó,Menorca,631,619.0,12.0,9.0,0.018115942028985508
 2021-03-11,7037,Es Mercadal,Menorca,97,95.0,2.0,4.0,0
 2021-03-11,7902,Es Migjorn Gran,Menorca,13,13.0,0.0,0.0,0
 2021-03-11,7052,Sant Lluís,Menorca,92,89.0,3.0,2.0,0
@@ -3441,7 +3441,7 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-03-12,7064,Es Castell,Menorca,147,146.0,1.0,1.0,0
 2021-03-12,7015,Ciutadella de Menorca,Menorca,845,827.0,18.0,7.0,0
 2021-03-12,7023,Ferreries,Menorca,31,31.0,0.0,0.0,0
-2021-03-12,7032,Maó,Menorca,631,619.0,12.0,9.0,0.013986013986013986
+2021-03-12,7032,Maó,Menorca,631,619.0,12.0,9.0,0.014035087719298246
 2021-03-12,7037,Es Mercadal,Menorca,97,95.0,2.0,4.0,0
 2021-03-12,7902,Es Migjorn Gran,Menorca,13,13.0,0.0,0.0,0
 2021-03-12,7052,Sant Lluís,Menorca,92,89.0,3.0,2.0,0
@@ -3450,7 +3450,7 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-03-13,7064,Es Castell,Menorca,147,146.0,1.0,1.0,0
 2021-03-13,7015,Ciutadella de Menorca,Menorca,845,827.0,18.0,7.0,0
 2021-03-13,7023,Ferreries,Menorca,31,31.0,0.0,0.0,0
-2021-03-13,7032,Maó,Menorca,631,619.0,12.0,9.0,0.014545454545454545
+2021-03-13,7032,Maó,Menorca,631,619.0,12.0,9.0,0.014598540145985401
 2021-03-13,7037,Es Mercadal,Menorca,97,95.0,2.0,4.0,0
 2021-03-13,7902,Es Migjorn Gran,Menorca,13,13.0,0.0,0.0,0
 2021-03-13,7052,Sant Lluís,Menorca,92,89.0,3.0,2.0,0
@@ -3459,7 +3459,7 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-03-14,7064,Es Castell,Menorca,147,147.0,0.0,1.0,0
 2021-03-14,7015,Ciutadella de Menorca,Menorca,845,830.0,15.0,7.0,0
 2021-03-14,7023,Ferreries,Menorca,31,31.0,0.0,0.0,0
-2021-03-14,7032,Maó,Menorca,631,621.0,10.0,9.0,0.017543859649122806
+2021-03-14,7032,Maó,Menorca,631,621.0,10.0,9.0,0.01762114537444934
 2021-03-14,7037,Es Mercadal,Menorca,97,95.0,2.0,4.0,0
 2021-03-14,7902,Es Migjorn Gran,Menorca,13,13.0,0.0,0.0,0
 2021-03-14,7052,Sant Lluís,Menorca,92,89.0,3.0,2.0,0
@@ -3797,12 +3797,21 @@ date,region_code,region,illa,cases,recovered,active_cases,deceased,tp7d
 2021-04-20,7902,Es Migjorn Gran,Menorca,15,15.0,0.0,0.0,0
 2021-04-20,7052,Sant Lluís,Menorca,101,92.0,9.0,2.0,0.01
 2021-04-20,0,total-menorca,Menorca,2180,2131.0,49.0,30.0,0.02906350914962325
-2021-04-21,7002,Alaior,Menorca,251,247.0,4.0,3.0,0.08333333333333333
-2021-04-21,7064,Es Castell,Menorca,157,153.0,4.0,1.0,0.05
+2021-04-21,7002,Alaior,Menorca,251,245.0,6.0,3.0,0.08333333333333333
+2021-04-21,7064,Es Castell,Menorca,157,151.0,6.0,1.0,0.05
 2021-04-21,7015,Ciutadella de Menorca,Menorca,856,844.0,12.0,8.0,0.009523809523809525
 2021-04-21,7023,Ferreries,Menorca,36,31.0,5.0,0.0,0.025
-2021-04-21,7032,Maó,Menorca,678,663.0,15.0,11.0,0.04603580562659847
+2021-04-21,7032,Maó,Menorca,678,655.0,23.0,12.0,0.04603580562659847
 2021-04-21,7037,Es Mercadal,Menorca,97,97.0,0.0,5.0,0
 2021-04-21,7902,Es Migjorn Gran,Menorca,15,15.0,0.0,0.0,0
 2021-04-21,7052,Sant Lluís,Menorca,101,92.0,9.0,2.0,0.010638297872340425
-2021-04-21,0,total-menorca,Menorca,2191,2142.0,49.0,30.0,0.03627450980392157
+2021-04-21,0,total-menorca,Menorca,2191,2130.0,61.0,31.0,0.03627450980392157
+2021-04-22,7002,Alaior,Menorca,255,244.0,11.0,3.0,0.07947019867549669
+2021-04-22,7064,Es Castell,Menorca,158,151.0,7.0,2.0,0.03184713375796178
+2021-04-22,7015,Ciutadella de Menorca,Menorca,856,844.0,12.0,8.0,0.00904977375565611
+2021-04-22,7023,Ferreries,Menorca,36,31.0,5.0,0.0,0.022222222222222223
+2021-04-22,7032,Maó,Menorca,681,654.0,27.0,12.0,0.04608294930875576
+2021-04-22,7037,Es Mercadal,Menorca,97,97.0,0.0,5.0,0
+2021-04-22,7902,Es Migjorn Gran,Menorca,15,15.0,0.0,0.0,0
+2021-04-22,7052,Sant Lluís,Menorca,101,92.0,9.0,2.0,0.01098901098901099
+2021-04-22,0,total-menorca,Menorca,2199,2128.0,71.0,32.0,0.035590277777777776

@@ -1,0 +1,68 @@
+date,region_code,region,illa,cases,recovered,active_cases,deceased
+2021-04-26,07027,Inca,Mallorca,1721,1630,65,24
+2021-04-26,07029,Lloseta,Mallorca,302,283,15,3
+2021-04-26,07030,Llubí,Mallorca,86,81,5,0
+2021-04-26,07034,Mancor de la Vall,Mallorca,54,54,0,0
+2021-04-26,07035,Maria de la Salut,Mallorca,71,71,0,0
+2021-04-26,07036,Marratxí,Mallorca,1947,1895,43,20
+2021-04-26,07038,Montuïri,Mallorca,159,142,4,13
+2021-04-26,07039,Muro,Mallorca,335,298,33,5
+2021-04-26,07040,Palma,Mallorca,24467,23668,534,378
+2021-04-26,07042,Pollença,Mallorca,637,598,20,18
+2021-04-26,07043,Porreres,Mallorca,143,141,4,1
+2021-04-26,07046,Sant Antoni de Portmany,Eivissa,1963,1920,26,20
+2021-04-26,07041,Petra,Mallorca,113,107,5,2
+2021-04-26,07045,Puigpunyent,Mallorca,74,75,0,0
+2021-04-26,07044,Sa Pobla,Mallorca,773,751,14,8
+2021-04-26,07049,Sant Joan,Mallorca,142,125,0,12
+2021-04-26,07050,Sant Joan de Labritja,Eivissa,209,207,1,2
+2021-04-26,07048,Sant Josep de sa Talaia,Eivissa,1616,1590,17,8
+2021-04-26,07051,Sant Llorenç des Cardassar,Mallorca,228,218,9,2
+2021-04-26,07052,Sant Lluís,Menorca,95,86,7,2
+2021-04-26,07053,Santa Eugènia,Mallorca,71,70,1,0
+2021-04-26,07054,Santa Eulària des Riu,Eivissa,2477,2422,37,27
+2021-04-26,07055,Santa Margalida,Mallorca,433,418,13,4
+2021-04-26,07056,Santa Maria del Camí,Mallorca,397,389,5,4
+2021-04-26,07057,Santanyí,Mallorca,347,334,5,10
+2021-04-26,07058,Selva,Mallorca,152,141,8,4
+2021-04-26,07047,Sencelles,Mallorca,123,119,3,1
+2021-04-26,07059,Ses Salines,Mallorca,101,98,1,2
+2021-04-26,07060,Sineu,Mallorca,130,125,4,1
+2021-04-26,07061,Sóller,Mallorca,701,661,12,24
+2021-04-26,07062,Son Servera,Mallorca,401,389,8,6
+2021-04-26,07063,Valldemossa,Mallorca,74,72,0,2
+2021-04-26,07065,Vilafranca de Bonany,Mallorca,152,151,2,1
+2021-04-26,07002,Alaior,Menorca,256,242,12,3
+2021-04-26,07001,Alaró,Mallorca,272,262,5,5
+2021-04-26,07003,Alcúdia,Mallorca,857,822,27,12
+2021-04-26,07004,Algaida,Mallorca,130,129,1,1
+2021-04-26,07005,Andratx,Mallorca,440,413,24,4
+2021-04-26,07901,Ariany,Mallorca,47,46,1,0
+2021-04-26,07006,Artà,Mallorca,299,297,3,0
+2021-04-26,07007,Banyalbufar,Mallorca,13,13,0,0
+2021-04-26,07008,Binissalem,Mallorca,404,385,17,3
+2021-04-26,07009,Búger,Mallorca,24,22,1,1
+2021-04-26,07010,Bunyola,Mallorca,237,230,6,3
+2021-04-26,07011,Calvià,Mallorca,2095,2019,41,44
+2021-04-26,07013,Campos,Mallorca,367,337,22,11
+2021-04-26,07014,Capdepera,Mallorca,322,305,13,4
+2021-04-26,07015,Ciutadella de Menorca,Menorca,853,836,11,8
+2021-04-26,07012,Campanet,Mallorca,74,72,1,1
+2021-04-26,07016,Consell,Mallorca,168,166,2,1
+2021-04-26,07017,Costitx,Mallorca,29,27,1,1
+2021-04-26,07018,Deià,Mallorca,22,20,1,1
+2021-04-26,07026,Eivissa,Eivissa,5340,5225,81,43
+2021-04-26,07064,Es Castell,Menorca,148,137,9,2
+2021-04-26,07037,Es Mercadal,Menorca,87,83,1,5
+2021-04-26,07902,Es Migjorn Gran,Menorca,13,13,0,0
+2021-04-26,07019,Escorca,Mallorca,5,5,0,0
+2021-04-26,07020,Esporles,Mallorca,194,191,0,5
+2021-04-26,07021,Estellencs,Mallorca,7,6,0,1
+2021-04-26,07022,Felanitx,Mallorca,562,536,19,6
+2021-04-26,07023,Ferreries,Menorca,36,34,2,0
+2021-04-26,07024,Formentera,Formentera,523,517,4,5
+2021-04-26,07025,Fornalutx,Mallorca,10,10,0,0
+2021-04-26,07028,Lloret de Vistalegre,Mallorca,22,21,2,0
+2021-04-26,07031,Llucmajor,Mallorca,1536,1497,30,10
+2021-04-26,07033,Manacor,Mallorca,2046,1971,61,24
+2021-04-26,07032,Maó,Menorca,652,611,32,12
